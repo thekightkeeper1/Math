@@ -28,6 +28,9 @@
 	{trigger: "sim", replacement: "\\sim ", options: "mA"},
 	{trigger: "([a-z]),(\\d)", replacement: "\\vec{[[0]]}_1, \\dots , \\vec{[[0]]_[[1]]}", options: "rmA"},
 	{trigger: "sys", replacement: "\\left\\{\\begin{flalign}\n$0\n\\end{flalign}\\right.", options: "mA"},
+	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
+	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
+
 
 
 
@@ -95,7 +98,8 @@
 	{trigger: "//", replacement: "\\frac{$0}{$1}$2", options: "mA"},
 	{trigger: "ee", replacement: "e^{ $0 }$1", options: "mA"},
     {trigger: "invs", replacement: "^{-1}", options: "mA"},
-    {trigger: /([A-Za-z])(\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
+	{trigger: /([A-Za-z])(\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
+	{trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rtA", description: "Auto letter subscript", priority: -1},
 
     {trigger: /([^\\])(exp|log|ln)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
     {trigger: "conj", replacement: "^{*}", options: "mA"},
