@@ -5,15 +5,7 @@
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
 	// Fancy characters in normal mode
-	{
-		trigger: "([a-zA-Z])",
-		replacement: "$$[[0]]$$",
-		options: "tw"
-	},
-
-
-
-
+	{trigger: "([a-zA-Z])$", replacement: "$[[0]]$", options: "rtAw"},
 
 
 	// Linear Algebra and Matrix
@@ -28,14 +20,6 @@
 		options: "rmA"
 	},
 	{trigger: "span", replacement: "\\text{Span}\\{$0\\}", options: "mA"},
-
-
-	// Math mode
-	{trigger: "$", replacement: "$$0$", options: "tA"},
-	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
-	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
-	{trigger: "n", replacement: "$n$$0", options: "tw"},
-	{trigger: "V", replacement: "$n$$0", options: "tAw"},
 
 
 
