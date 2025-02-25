@@ -37,3 +37,22 @@ Neither: C
 
 # #4
 Row Reduce the matrices. Circle the pivot positions i the final matrix.
+
+$$
+\begin{bmatrix}
+1 & 3 & 5 & 7 \\
+3 & 5 & 7 & 9 \\
+5 & 7 & 9 & 1
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 3 & 5 & 7 \\
+0 & -4 & -8 & -12 \\
+0 & -8 & 16 & -34
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 3 & 5 & 7 \\
+0 & -4 & -8 & -12 \\
+0 & 0 & 0 & -10
+\end{bmatrix} \sim \begin{bmatrix}
+
+\end{bmatrix}
+$$

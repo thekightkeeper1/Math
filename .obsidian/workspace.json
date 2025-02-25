@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "132a14367827260f",
@@ -215,7 +214,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "434313f6a71c9048",
+  "active": "53e37f58a1867893",
   "lastOpenFiles": [
     "MAS/4.2.md",
     "MAS/HW 1.2.md",
