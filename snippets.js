@@ -27,7 +27,7 @@
 	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r_{[[1]]}$", options: "rtA"},
 	{trigger: "sim", replacement: "\\sim ", options: "mA"},
 	{trigger: "([a-z]),(\\d)", replacement: "\\vec{[[0]]}_1, \\dots , \\vec{[[0]]_[[1]]}", options: "rmA"},
-	{trigger: "sys", replacement: "\\left\\{\\begin{align}\n$0\n\\end{align}\\right.", options: "mA"},
+	{trigger: "sys", replacement: "\\left\\{\\begin{flalign}\n$0\n\\end{flalign}\\right.", options: "mA"},
 
 
 

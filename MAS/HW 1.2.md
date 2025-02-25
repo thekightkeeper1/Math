@@ -127,12 +127,20 @@ $$
 1 & -7 & 0 & 6 & 5 \\
 0 & 0 & 1 & -2 & -3 \\
 0 & 0 & 0 & 0 & 0
-\end{bmatrix} \implies \text{Solution} \left\{\begin{align}
-x_{1}=5+x_{2}-x_{4} \\
-x_{2}=x_{2} \\
+\end{bmatrix} \implies \text{Solution} 
+\left\{
 
-\end{align}\right.
+\begin{flalign}
+&x_{1}=5+x_{2}-x_{4} \\
+&x_{2}= \text{free}\\
+&x_{3} = 2x_{4}-3 \\
+&x_{4}= \text{free}
+\end{flalign}
+\right.
 $$
+
+
+
 
 
 
