@@ -99,7 +99,7 @@ x_{3} = -7
 $$
 
 # #12
-![[Pasted image 20250225143055.png]]
+
 $$
 \begin{bmatrix}
 1 & -7 & 0 & 6 & 5 \\
@@ -116,7 +116,22 @@ $$
 1 & -7 & 0 & 6 & 5 \\
 0 & 0 & -4 & 8 & 12 \\
 0 & 0 & 1 & -2 & -3
-\end{bmatrix} }_{ r_{1}+3 } \\sim 
+\end{bmatrix} }_{ r_{2}+=r_{1} } \sim \underbrace{ \begin{bmatrix}
+1 & -7 & 0 & 6 & 5 \\
+0 & 0 & -4 & 8 & 12 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix} }_{ 4r_{3}+= r_{2}}
+$$
+$$
+\sim \begin{bmatrix}
+1 & -7 & 0 & 6 & 5 \\
+0 & 0 & 1 & -2 & -3 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix} \implies \text{Solution} \left\{\begin{align}
+x_{1}=5+x_{2}-x_{4} \\
+x_{2}=x_{2} \\
+
+\end{align}\right.
 $$
 
 
