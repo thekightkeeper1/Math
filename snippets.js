@@ -23,7 +23,11 @@
 
 	{trigger: "\\mathbb{R}n", replacement: "\\mathbb{R}^n", options: "mA"},
 	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul A}$$0", options: "rtA"},
-	{trigger: "2 s", replacement: "test", options: "rmA"},
+	{trigger: "(\\d)lr(\\d)", replacement: "r_{[[0]]} \\leftrightarrrow r{[[1]]}", options: "rmA"},
+	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r{[[1]]}$", options: "rtA"},
+	{trigger: "sim", replacement: "\\sim ", options: "mA"},
+
+
 
 
 
