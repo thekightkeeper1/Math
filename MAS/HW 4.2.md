@@ -146,6 +146,11 @@ $$
 # 10, 12, 14
 **Use a theorem to prove W is a vector space, or disprove it with an example.**
 
+To be a vec space needs 3 conditions:
+- Closed under addition
+- Closed under scalar mult
+- Has 
+
 ## 7 
 Lol we didnt need to do this one but eh
 $$
@@ -173,3 +178,5 @@ d \\
 \end{align}
 \right\} 
 $$
+### Closed addition
+let $\vec{q} = \begin{bmatrix}a \\ b \\ c \\ d \end{bmatrix}$

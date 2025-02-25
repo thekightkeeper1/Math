@@ -121,6 +121,8 @@
 	{trigger: "([a-zA-Z])und", replacement: "\\underline{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])vec", replacement: "$\\vec{[[0]]}$", options: "rtA"},
+	{trigger: "0vec", replacement: "$\\vec{0}$", options: "tA"},
+	{trigger: "0vec", replacement: "\\vec{0}", options: "mA"},
 
     {trigger: "([a-zA-Z]),\\.", replacement: "\\mathbf{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])\\.,", replacement: "\\mathbf{[[0]]}", options: "rmA"},
@@ -321,6 +323,7 @@
 	{trigger: "lr[", replacement: "\\left[ $0 \\right] $1", options: "mA"},
 	{trigger: "lr|", replacement: "\\left| $0 \\right| $1", options: "mA"},
 	{trigger: "lra", replacement: "\\left< $0 \\right> $1", options: "mA"},
+
 
 
     // Misc

@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "132a14367827260f",
@@ -254,9 +255,9 @@
   },
   "active": "a5e5ef9aa4b0c1dd",
   "lastOpenFiles": [
+    "snippets.js~",
     "meta/images/Pasted image 20250225161126.png",
     "meta/images/Pasted image 20250225160429.png",
-    "snippets.js~",
     "RREF.md",
     "MAS/HW 4.2.md",
     "meta/images/Pasted image 20250225153815.png",
@@ -267,7 +268,6 @@
     "meta/images/Pasted image 20250225153808.png",
     "meta/images/Pasted image 20250225153803.png",
     "meta/images/Pasted image 20250225152924.png",
-    "meta/images/Pasted image 20250225152610.png",
     "meta/images",
     "meta",
     "MAS/HW 1.2.md",
