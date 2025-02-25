@@ -6,7 +6,7 @@
       {
         "id": "b983066ee7b7e059",
         "type": "tabs",
-        "dimension": 49.414519906323186,
+        "dimension": 40.625,
         "children": [
           {
             "id": "53e37f58a1867893",
@@ -27,7 +27,7 @@
       {
         "id": "058973ab4e212277",
         "type": "tabs",
-        "dimension": 50.585480093676814,
+        "dimension": 59.375,
         "children": [
           {
             "id": "434313f6a71c9048",
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "132a14367827260f",
@@ -216,6 +217,10 @@
   },
   "active": "53e37f58a1867893",
   "lastOpenFiles": [
+    "Screenshot from 2025-02-25 14-08-22.png",
+    "Pasted image 20250225140647.png",
+    "Pasted image 20250225140548.png",
+    "Pasted image 20250225140547.png",
     "MAS/4.2.md",
     "MAS/HW 1.2.md",
     "snippets.js~",

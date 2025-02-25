@@ -53,6 +53,17 @@ $$
 0 & -4 & -8 & -12 \\
 0 & 0 & 0 & -10
 \end{bmatrix} \sim \begin{bmatrix}
-
+4 & 0 & -4 & -8 \\
+0 & -4 & -8 & -12 \\
+0 & 0 & 0 & 1
 \end{bmatrix}
 $$
+$$
+\sim \begin{bmatrix}
+1 & 0 & -1 & 0 \\
+0 & -1 & -2 & 0 \\
+0 & 0 & 0 & 1
+\end{bmatrix}
+$$
+![[Screenshot from 2025-02-25 14-08-22.png]]
+
