@@ -86,10 +86,24 @@ $$
 $$
 $$
 \vec{x} = \begin{bmatrix}
-x_{2}-x_{4} \\
+x_{2}-4 \\
 x_{2} \\
 -7
+\end{bmatrix}  \implies \left \{\begin{align}
+x_{1} = x_{2} -4 \\
+x_{2} = \text{free} \\
+x_{3} = -7
+\end{align}
+\right.
+$$
+
+# #12
+$$
+\begin{bmatrix}
+
 \end{bmatrix}
 $$
+
+
 
 
