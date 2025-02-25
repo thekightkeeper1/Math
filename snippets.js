@@ -5,7 +5,7 @@
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
 	// Fancy characters in normal mode
-	{trigger: "([a-zA-Z])$", replacement: "$[[0]]$", options: "rtAw"},
+	{trigger: "([a-zA-Z])mk", replacement: "$[[0]]$", options: "rtAw"},
 
 
 	// Linear Algebra and Matrix
@@ -21,6 +21,18 @@
 	},
 	{trigger: "span", replacement: "\\text{Span}\\{$0\\}", options: "mA"},
 
+	{trigger: "\\mathbb{R}n", replacement: "\\mathbb{R}^n", options: "mA"},
+
+
+
+
+
+	// Texting for math
+	{
+		trigger: "  ",
+		replacement: "\\space ",
+		options: "mA",
+	},
 
 
 
