@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "4.2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -230,7 +230,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b850104d0ba811bd",
+  "active": "8c0ce8717126a518",
   "lastOpenFiles": [
     "snippets.js~",
     "snippets.js",
