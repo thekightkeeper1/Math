@@ -146,10 +146,6 @@ $$
 # 10, 12, 14
 **Use a theorem to prove W is a vector space, or disprove it with an example.**
 
-To be a vec space needs 3 conditions:
-- Closed under addition
-- Closed under scalar mult
-- Has 
 
 ## 7 
 Lol we didnt need to do this one but eh
@@ -178,5 +174,12 @@ d \\
 \end{align}
 \right\} 
 $$
-### Closed addition
-let $\vec{q} = \begin{bmatrix}a \\ b \\ c \\ d \end{bmatrix}$
+W is a subspace of $R_{4}$, by Theorem 2, because W is the set of solutions of the homogeneous system.
+$$
+\left\{
+\begin{matrix}
+a & +3b & -c &  & =0 \\
+b & +c & +a & -d & =0
+\end{matrix}
+\right. 
+$$
