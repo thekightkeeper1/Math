@@ -185,3 +185,18 @@ b & +c & +a & -d & =0
 $$
 ![[meta/images/Pasted image 20250225165013.png]]
 
+## # 12
+$$
+\left\{ 
+\begin{bmatrix}
+b - 5d \\
+2b \\
+2d +1 \\
+d
+\end{bmatrix}\space 
+:
+b, d, real
+\right\}
+$$
+
+Idk how to prove it, but its the plus one. If you try to represe
