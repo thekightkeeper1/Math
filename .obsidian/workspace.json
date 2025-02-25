@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "132a14367827260f",
@@ -208,8 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8c0ce8717126a518",
+  "active": "b42fdf438ad77f0c",
   "lastOpenFiles": [
+    "snippets.js",
+    "snippets.json",
+    "Untitled Document",
+    "latex-snippets.md",
     "4.2.md",
     "Welcome.md",
     "MAS"
