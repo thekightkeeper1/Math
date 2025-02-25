@@ -35,3 +35,14 @@ A = \begin{bmatrix}
 0 & 0 & 2 & 0
 \end{bmatrix}
 $$
+First get to [[RREF]]
+$$
+\sim \begin{bmatrix}
+1 & -6 & 0 & 0 \\
+0 & 0 & 1 & 0
+\end{bmatrix}\space\space\space 
+\begin{align}
+r_{2}=3r_{2} \\
+r_{1}+=
+\end{align}
+$$
