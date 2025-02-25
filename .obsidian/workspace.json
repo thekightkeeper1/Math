@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +208,7 @@
   },
   "active": "b42fdf438ad77f0c",
   "lastOpenFiles": [
+    "snippets.js~",
     "snippets.js",
     "snippets.json",
     "Untitled Document",

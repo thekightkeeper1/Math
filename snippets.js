@@ -4,7 +4,48 @@
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
 
-    // Dashes
+	// Fancy characters in normal mode
+	{
+		trigger: "([a-zA-Z])",
+		replacement: "$$[[0]]$$",
+		options: "tw"
+	},
+
+
+
+
+
+
+	// Linear Algebra and Matrix
+	{trigger: "inv", replacement: "^{-1}", options: "mA"},
+	{
+		trigger: "([a-zA-Z])basis",
+		replacement: "[[0]]=\\{\\vec{[[0]]}_1, \\dots, \\vec{[[0]]}_n\\}",
+		options: "rmA"},
+	{
+		trigger: "([a-zA-Z])v([0-9])",
+		replacement: "\\vec{[[0]]}_{[[1]]}",
+		options: "rmA"
+	},
+	{trigger: "span", replacement: "\\text{Span}\\{$0\\}", options: "mA"},
+
+
+	// Math mode
+	{trigger: "$", replacement: "$$0$", options: "tA"},
+	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
+	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
+	{trigger: "n", replacement: "$n$$0", options: "tw"},
+	{trigger: "V", replacement: "$n$$0", options: "tAw"},
+
+
+
+
+
+
+
+
+
+	// Dashes
 	// {trigger: "--", replacement: "–", options: "tA"},
 	// {trigger: "–-", replacement: "—", options: "tA"},
 	// {trigger: "—-", replacement: "---", options: "tA"},
