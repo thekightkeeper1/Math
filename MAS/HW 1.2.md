@@ -67,6 +67,7 @@ $$
 ![[Screenshot from 2025-02-25 14-08-22.png]]
 
 # 10
+test
 Find the general solutions of the systems whose augmented matrices are given in Exercises 7–14.
 
 $$
@@ -98,10 +99,24 @@ x_{3} = -7
 $$
 
 # #12
+![[Pasted image 20250225143055.png]]
 $$
 \begin{bmatrix}
-
+1 & -7 & 0 & 6 & 5 \\
+0 & 0 & 1 & -2 & -3 \\
+-1 & 7 & -4 & 2 & 7
 \end{bmatrix}
+$$
+$$
+\sim \underbrace{ \begin{bmatrix}
+1 & -7 & 0 & 6 & 5 \\
+-1 & 7 & -4 & 2 & 7\\
+0 & 0 & 1 & -2 & -3
+\end{bmatrix} }_{ r_{2} \leftrightarrow r_{3} } \sim \underbrace{ \begin{bmatrix}
+1 & -7 & 0 & 6 & 5 \\
+0 & 0 & -4 & 8 & 12 \\
+0 & 0 & 1 & -2 & -3
+\end{bmatrix} }_{ r_{1}+3 } \\sim 
 $$
 
 
