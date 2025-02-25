@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "HW 4.2"
             }
+          },
+          {
+            "id": "f78f862e65bc812f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meta/images/Pasted image 20250225152924.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250225152924"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5860c4b86dbda1de",
@@ -212,10 +225,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5e5ef9aa4b0c1dd",
+  "active": "f78f862e65bc812f",
   "lastOpenFiles": [
-    "meta/images/Pasted image 20250225151453.png",
     "MAS/HW 4.2.md",
+    "meta/images/Pasted image 20250225152924.png",
+    "meta/images/Pasted image 20250225152610.png",
+    "meta/images/Pasted image 20250225151453.png",
     "meta/images/Pasted image 20250225140547.png",
     "meta/images/Screenshot from 2025-02-25 14-08-22.png",
     "meta/images",

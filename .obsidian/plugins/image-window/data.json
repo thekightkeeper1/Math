@@ -1,0 +1,19 @@
+{
+  "saveWindowLocations": true,
+  "useCustomWindowName": false,
+  "customWindowName": "Second Window",
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "ty-laptop": {
+          "x": 537,
+          "y": 474,
+          "width": 1025,
+          "height": 801,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}
