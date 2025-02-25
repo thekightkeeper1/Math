@@ -198,5 +198,20 @@ d
 b, d, real
 \right\}
 $$
-
-Idk how to prove it, but its the plus one. If you try to represe
+This is not a space because you cannot represent this as a homogenous system of equations:
+$$
+=\left\{ 
+\begin{bmatrix}
+a \\
+2b \\
+c\\
+d
+\end{bmatrix}\space 
+:
+\begin{align}
+&a=b-5d \\
+&c=2d+1 \\
+b,d \in \mathbb{R}^n
+\end{align}
+\right\}
+$$
