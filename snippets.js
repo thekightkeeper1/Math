@@ -22,7 +22,11 @@
 	{trigger: "span", replacement: "\\text{Span}\\{$0\\}", options: "mA"},
 
 	{trigger: "\\mathbb{R}n", replacement: "\\mathbb{R}^n", options: "mA"},
-	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul A}$$0", options: "rtA"},
+	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
+	{trigger: "[cC]ol ([a-zA-Z])", replacement: "$\\text{Col [[0]]}$$0", options: "rtA"},
+	{trigger: "[cC]ol ([a-zA-Z])", replacement: "\\text{Col [[0]]}$0", options: "rmA"},
+	{trigger: "[rR]ow ([a-zA-Z])", replacement: "$\\text{Row [[0]]}$$0", options: "rtA"},
+	{trigger: "[rR]ow ([a-zA-Z])", replacement: "\\text{Row [[0]]}$0", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "r_{[[0]]} \\leftrightarrow r_{[[1]]}", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r_{[[1]]}$", options: "rtA"},
 	{trigger: "sim", replacement: "\\sim ", options: "mA"},

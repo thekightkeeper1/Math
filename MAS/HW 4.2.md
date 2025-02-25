@@ -207,11 +207,39 @@ a \\
 c\\
 d
 \end{bmatrix}\space 
-:
+:\space 
 \begin{align}
 &a=b-5d \\
 &c=2d+1 \\
-b,d \in \mathbb{R}^n
+&b,d \in \mathbb{R}^n
 \end{align}
 \right\}
 $$
+$$
+\implies \begin{matrix}
+0 & =-a & +b & -5d \\
+1 & =-c & 2d  &  \\
+\end{matrix}
+$$
+Note that there is a non-zero constance on the LHS
+
+## #14
+$$
+\left\{ 
+\begin{bmatrix}
+-a+2b \\
+a-2b \\
+3a-6b
+\end{bmatrix}\space :\space 
+a, b \in \mathbb{R}^n
+\right\} 
+$$
+This is equivalent to: $\text{Col A}$
+$$
+A=\begin{bmatrix}
+-1 \\
+1 \\
+3
+\end{bmatrix} 
+$$
+
