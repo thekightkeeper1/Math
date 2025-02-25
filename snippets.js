@@ -26,7 +26,7 @@
 	{trigger: "(\\d)lr(\\d)", replacement: "r_{[[0]]} \\leftrightarrrow r{[[1]]}", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r{[[1]]}$", options: "rtA"},
 	{trigger: "sim", replacement: "\\sim ", options: "mA"},
-	{},
+	{trigger: "([a-z]),(\\d)", replacement: "\\vec{[[0]]}_1, \\dots , \\vec{[[0]]_[[1]]}", options: "rmA"},
 
 
 
@@ -114,6 +114,8 @@
 	{trigger: "([a-zA-Z])tilde", replacement: "\\tilde{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])und", replacement: "\\underline{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
+	{trigger: "([a-zA-Z])vec", replacement: "$\\vec{[[0]]}$", options: "rtA"},
+
     {trigger: "([a-zA-Z]),\\.", replacement: "\\mathbf{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])\\.,", replacement: "\\mathbf{[[0]]}", options: "rmA"},
 	{trigger: "\\\\(${GREEK}),\\.", replacement: "\\boldsymbol{\\[[0]]}", options: "rmA"},
@@ -178,6 +180,7 @@
 	{trigger: "and", replacement: "\\cap", options: "mA"},
 	{trigger: "orr", replacement: "\\cup", options: "mA"},
 	{trigger: "inn", replacement: "\\in", options: "mA"},
+	{trigger: "inn", replacement: "$\\in$", options: "tA"},
 	{trigger: "notin", replacement: "\\not\\in", options: "mA"},
     {trigger: "\\\\\\", replacement: "\\setminus", options: "mA"},
     {trigger: "sub=", replacement: "\\subseteq", options: "mA"},
