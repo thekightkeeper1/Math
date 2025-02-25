@@ -138,5 +138,38 @@ x_{5}
 $$
 And the answer is:
 $$
-\text{Span}\{v\}
+\text{Span}\{\vec{v}_1, \dots , \vec{v_3}\}
+$$
+
+![[meta/images/Pasted image 20250225161126.png]]
+
+# 10, 12, 14
+**Use a theorem to prove W is a vector space, or disprove it with an example.**
+
+## 7 
+Lol we didnt need to do this one but eh
+$$
+\left\{ \begin{bmatrix}
+a \\
+b \\
+c
+\end{bmatrix} :a+b+c=2\right\} 
+$$
+The $\vec{0}$ is not in this set so its not a space.
+
+## 10
+$$
+\left\{ 
+\begin{bmatrix}
+a \\
+b \\
+c \\
+d \\
+\end{bmatrix}
+:\space 
+\begin{align}
+&a+3b=c \\
+&b+c+a=d
+\end{align}
+\right\} 
 $$
