@@ -183,3 +183,5 @@ b & +c & +a & -d & =0
 \end{matrix}
 \right. 
 $$
+![[meta/images/Pasted image 20250225165013.png]]
+
