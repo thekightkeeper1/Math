@@ -11,7 +11,7 @@
   "textNormal": 20,
   "textSmall": 16,
   "imgGrid": true,
-  "imgWidth": "img-wide",
+  "imgWidth": "img-default-width",
   "tableWidth": "table-100",
   "iframeWidth": "iframe-100",
   "mapWidth": "map-100",
@@ -28,7 +28,7 @@
   "underlineInternal": true,
   "underlineExternal": true,
   "folding": true,
-  "lineNumbers": false,
+  "lineNumbers": true,
   "readableLineLength": true,
   "devBlockWidth": false
 }

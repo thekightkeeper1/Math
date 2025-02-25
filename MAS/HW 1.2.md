@@ -64,7 +64,7 @@ $$
 0 & 0 & 0 & 1
 \end{bmatrix}
 $$
-![[Screenshot from 2025-02-25 14-08-22.png]]
+![[meta/images/Screenshot from 2025-02-25 14-08-22.png]]
 
 # 10
 test

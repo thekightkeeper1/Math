@@ -4,5 +4,13 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showLineNumber": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "meta/images",
+  "userIgnoreFilters": [
+    "meta/images/"
+  ],
+  "alwaysUpdateLinks": true
 }
