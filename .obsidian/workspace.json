@@ -6,6 +6,7 @@
       {
         "id": "02bf228461d48776",
         "type": "tabs",
+        "dimension": 40.099361249112846,
         "children": [
           {
             "id": "a5e5ef9aa4b0c1dd",
@@ -33,12 +34,12 @@
               "title": "Pasted image 20250225152924"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5860c4b86dbda1de",
         "type": "tabs",
+        "dimension": 59.90063875088716,
         "children": [
           {
             "id": "8fdd121442319fc2",
@@ -52,6 +53,18 @@
               },
               "icon": "lucide-file",
               "title": "HW 4.2"
+            }
+          },
+          {
+            "id": "58af939d82a4ea72",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meta/images/Pasted image 20250225153815.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250225153815"
             }
           }
         ]
@@ -225,21 +238,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f78f862e65bc812f",
+  "active": "a5e5ef9aa4b0c1dd",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250225153815.png",
     "MAS/HW 4.2.md",
+    "meta/images/Pasted image 20250225153814.png",
+    "meta/images/Pasted image 20250225153812.png",
+    "meta/images/Pasted image 20250225153811.png",
+    "meta/images/Pasted image 20250225153810.png",
+    "meta/images/Pasted image 20250225153808.png",
+    "meta/images/Pasted image 20250225153803.png",
     "meta/images/Pasted image 20250225152924.png",
     "meta/images/Pasted image 20250225152610.png",
     "meta/images/Pasted image 20250225151453.png",
-    "meta/images/Pasted image 20250225140547.png",
-    "meta/images/Screenshot from 2025-02-25 14-08-22.png",
     "meta/images",
     "meta",
     "MAS/HW 1.2.md",
     "snippets.js~",
-    "meta/images/Pasted image 20250225143055.png",
-    "meta/images/Pasted image 20250225140647.png",
-    "meta/images/Pasted image 20250225140548.png",
     "MAS/4.2.md",
     "Welcome.md",
     "snippets.js",

@@ -11,4 +11,27 @@ A = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-![[meta/images/Pasted image 20250225152924.png|900]]
+$$
+A\vec{w}=\begin{bmatrix}
+25-63+38 \\
+65-69+4 \\
+40-42+2
+\end{bmatrix} = \begin{bmatrix}
+0 \\
+0 \\
+0
+\end{bmatrix}
+$$
+
+$\vec{w}$ $\in$ $\text{Nul A}$
+
+![[meta/images/Pasted image 20250225153815.png]]
+# # 4, 6
+**Describe the span of $\text{Nul A}$**
+## 4
+$$
+A = \begin{bmatrix}
+1 & -6 & 4 & 0 \\
+0 & 0 & 2 & 0
+\end{bmatrix}
+$$
