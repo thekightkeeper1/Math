@@ -37,22 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b5bde7d7502e426d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc7cb0f11da2c46c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b74b7934eda4cb6",
+  "active": "8c0ce8717126a518",
   "lastOpenFiles": [
     "4.2.md",
     "Welcome.md",
