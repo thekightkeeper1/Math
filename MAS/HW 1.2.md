@@ -37,7 +37,6 @@ Neither: C
 
 # #4
 Row Reduce the matrices. Circle the pivot positions i the final matrix.
-
 $$
 \begin{bmatrix}
 1 & 3 & 5 & 7 \\
@@ -66,4 +65,31 @@ $$
 \end{bmatrix}
 $$
 ![[Screenshot from 2025-02-25 14-08-22.png]]
+
+# 10
+Find the general solutions of the systems whose augmented matrices are given in Exercises 7–14.
+
+$$
+\begin{bmatrix}
+1 & -2 & -1 & 3 \\
+3 & -6 & -2 & 2
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & -2 & -1 & 3 \\
+0 & 0 & 1 & -7
+\end{bmatrix} \sim \begin{bmatrix}
+1 & -2 & 0 & -4 \\
+0 & 0 & 1 & -7
+\end{bmatrix}
+$$
+$$
+\vec{x} = \begin{bmatrix}
+x_{2}-x_{4} \\
+x_{2} \\
+-7
+\end{bmatrix}
+$$
+
 
