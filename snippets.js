@@ -36,6 +36,7 @@
 	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
 	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
 
+	
 
 
 
