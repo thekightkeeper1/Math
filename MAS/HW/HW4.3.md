@@ -209,32 +209,40 @@ A=\begin{bmatrix}
 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
-$$
-B^T\begin{bmatrix}
-1 & 0 & 0 & 0 \\
-2 & 0 & 0 & 0 \\
-0 & 5 & 0 & 0  \\
-4 & -7 & 0 & 0 \\
-5 & 8 & -9 & 0
-\end{bmatrix} \sim \begin{bmatrix}
-1 & 0 & 0 & 0 \\
-2 & 0 & 0 & 0 \\
-\frac{20}{7} & 0 & 0 & 0 \\
-4 & -7 & 0 & 0 \\
-5 & 8 & -9 & 0
-\end{bmatrix}
-$$
 
-The pivot columns are $c_{1}$, $c_{3}$, $c_{5}$.
+
+The pivot columns and rows are determined from B. Since they are row equivalent they have the same spaces.
 $$\text{Col A}= \text{Span}\left\{ c_{1},c_{2},c_{3}\right\}$$
 $$
 \text{Row A} = \text{Span}\left\{
 r_{1},r_{2},r_{3}
 \right\}
 $$
+For $\text{Nul A}$ we need to reduce B to [[RREF]].
+$$
+B \sim \begin{bmatrix}
+1 & 2 & 0 & 4 & 0 \\
+0 & 0 & 5 & -7 & 0 \\
+0 & 0 & 0 & 0 & -9 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix} \sim \begin{bmatrix}
+x_{1} & x_{2} & x_{3} & x_{4} & x_{5} \\
+1 & 2 & 0 & 4 & 0 \\
+0 & 0 & 1 & -\frac{7}{5} & 0 \\
+0 & 0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
 
-
-
+$$
+\begin{bmatrix}
+-2x_{2} - 4x_{4} \\
+x_{2} \\
+\frac{7}{5}x_{4} \\
+x_{4} \\
+x_{5}
+\end{bmatrix}
+$$
 
 # 16
 
