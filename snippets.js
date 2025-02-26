@@ -19,7 +19,7 @@
 		replacement: "\\vec{[[0]]}_{[[1]]}",
 		options: "rmA"
 	},
-	{trigger: "span", replacement: "\\text{Span}\\{$0\\}", options: "mA"},
+	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
 
 	{trigger: "\\mathbb{R}([a-zA-Z0-9])", replacement: "mathbb{R}^[[0]]", options: "rmA"},
 	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},

@@ -89,9 +89,57 @@ $$
 \end{bmatrix}
 $$
 
-First
+First we make the matrix
 $$
 \begin{bmatrix}
-
+1 & 0 & 3 & 0 \\
+-4 & 3 & -5 & 2 \\
+3 & -1 & 4 & -2
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 0 & 3 & 0 \\
+0 & 3 & 7 & 2 \\
+0 & -1 & -5 & -2
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 0 & 3 & 0 \\
+0 & -1 & -5 & -2 \\
+0 & 3 & 7 & 2 \\
 \end{bmatrix}
 $$
+$$
+\sim \begin{bmatrix}
+1 & 0 & 3 & 0 \\
+0 & -1 & -5 & -2\\
+0 & 3 & 7 & 2 
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 0 & 3 & 0 \\
+0 & -1 & -5 & -2\\
+0 & 0 & -8 & -4
+\end{bmatrix}
+$$
+The first 3 have pivot columns, so these span $\mathbb{R}^3$
+$$
+\text{Span}\left\{  
+\begin{bmatrix}
+1 \\
+-4 \\
+3
+\end{bmatrix}
+, \begin{bmatrix}
+0 \\
+3 \\
+-1
+\end{bmatrix}
+, \begin{bmatrix}
+3 \\
+-5 \\
+4
+\end{bmatrix}
+\right\}
+$$
+
+# 12
+**Find a basis for the set of vectors in $\mathbb{R}^3$ in the plane $x + 2y + z = 0$**
+Well, I can define another equation from this one
