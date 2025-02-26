@@ -270,5 +270,51 @@ $$
 $$
 
 # 16
+**Find a basis for the space spanned by the given vectors, $\vec{v}_1, \dots , \vec{v_5}$** 
+
+$$
+\begin{bmatrix}
+1 \\
+0 \\
+0 \\
+1
+\end{bmatrix},
+\begin{bmatrix}
+-2 \\
+1 \\
+-1 \\
+1
+\end{bmatrix}
+\begin{bmatrix}
+6 \\
+-1 \\
+2 \\
+-1
+\end{bmatrix}
+,
+\begin{bmatrix}
+5 \\
+-3 \\
+3 \\
+-4 \\
+\end{bmatrix}
+,
+\begin{bmatrix}
+0 \\
+3 \\
+-1 \\
+1
+\end{bmatrix}
+$$
+
+Lets find the pivot columns of the EF matrix
+$$
+\begin{bmatrix}
+1 & -2 & 6 & 5 & 0 \\
+0 & 1 & -1 & -3 & 3 \\
+0 & -1 & 2 & 3 & -1 \\
+1 & 1 & -1 & -4 & 1
+\end{bmatrix}
+$$
 
 # 20
