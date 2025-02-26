@@ -356,4 +356,30 @@ $$
 So the pivot columns are $c_{1}$, $c_{2}$, $c_{3}$.
 
 # 20
-**Given $v_{1}-3v_{2}+5v_{3}=0$**
+**Given $v_{1}-3v_{2}+5v_{3}=0$, find the basis of:**
+$$
+H = \text{Span}\left\{
+\vec{v}_1, \dots , \vec{v_3}
+\right\}
+$$
+
+$$
+v_{1}=\begin{bmatrix}
+7 \\
+4 \\
+-9 \\
+-5
+\end{bmatrix}, v_{2} = \begin{bmatrix}
+4 \\
+-7 \\
+2 \\
+5
+\end{bmatrix}, v_{3} = \begin{bmatrix}
+1 \\
+-5 \\
+3 \\
+4
+\end{bmatrix}
+$$
+
+We can 
