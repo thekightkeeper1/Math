@@ -382,4 +382,9 @@ v_{1}=\begin{bmatrix}
 \end{bmatrix}
 $$
 
-We can 
+We know from that equation that any of the vectors is a linear combo of the other 2
+$$
+v_{1}=3v_{2}-5v_{3}
+$$
+So we only need to determine the dependence of $v_{2}$ and $v_{3}$. 
+$v_{2}-4v_{3}\neq 0$. However, the first row would cancel. So we know there is no $c$ which would satisfy linear dependence.
