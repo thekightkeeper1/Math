@@ -47,15 +47,51 @@ $$
 1 & 2 & 4\\
 0  & 1 & 13\\
 0  & -3 & -15
-\end{bmatrix} \sim 
-\begin{bmatrix}
-1 & 2 & 4\\
-0  & 1 & 13\\
-0  & -1 & -5
-\end{bmatrix} \sim \begin{bmatrix}
-1 & 2 & 4\\
-0  & 1 & 13\\
-0  & 0 & -5
-\end{bmatrix}
+\end{bmatrix} 
 $$ 
+At this point we can see there will be a pivot in every column, and thus the entire set forms a basis.
 
+## 6
+$$
+\begin{bmatrix}
+1 \\
+2 \\
+-3
+\end{bmatrix} ,\begin{bmatrix}
+-4 \\
+-5 \\
+6
+\end{bmatrix}
+$$
+Although I can already see this set is lin. indep, I know it is not a base for $\mathbb{R}^3$ because you need 3 vectors to span $\mathbb{R}^3$
+
+## 8
+$$
+\begin{bmatrix}
+1 \\
+-4 \\
+3
+\end{bmatrix}
+, \begin{bmatrix}
+0 \\
+3 \\
+-1
+\end{bmatrix}
+, \begin{bmatrix}
+3 \\
+-5 \\
+4
+\end{bmatrix}
+, \begin{bmatrix}
+0 \\
+-2 \\
+2
+\end{bmatrix}
+$$
+
+First
+$$
+\begin{bmatrix}
+
+\end{bmatrix}
+$$

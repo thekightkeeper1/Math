@@ -25,7 +25,7 @@
 	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "$\\text{Col [[0]]}$$0", options: "rtA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "\\text{Col [[0]]}$0", options: "rmA"},
-	{trigger: "[rR]ow ([a-zA-Z])", replacement: "$\\text{Row [[0]]}$$0", options: "rtA"},
+	{trigger: "[rR]ow ([a-zA-Z])", replacement: "$\\text{Row [[0]]}$$0", options: "rt"},
 	{trigger: "[rR]ow ([a-zA-Z])", replacement: "\\text{Row [[0]]}$0", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "r_{[[0]]} \\leftrightarrow r_{[[1]]}", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r_{[[1]]}$", options: "rtA"},
