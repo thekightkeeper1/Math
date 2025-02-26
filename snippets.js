@@ -23,6 +23,7 @@
 
 	{trigger: "\\mathbb{R}([a-zA-Z0-9])", replacement: "mathbb{R}^[[0]]", options: "rmA"},
 	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
+	{trigger: "Nul ([a-zA-Z])", replacement: "\\text{Nul [[0]]}$0", options: "rmA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "$\\text{Col [[0]]}$$0", options: "rtA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "\\text{Col [[0]]}$0", options: "rmA"},
 	{trigger: "[rR]ow ([a-zA-Z])", replacement: "$\\text{Row [[0]]}$$0", options: "rt"},

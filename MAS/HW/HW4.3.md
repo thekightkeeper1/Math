@@ -235,13 +235,38 @@ x_{1} & x_{2} & x_{3} & x_{4} & x_{5} \\
 $$
 
 $$
+\vec{x}=
 \begin{bmatrix}
 -2x_{2} - 4x_{4} \\
 x_{2} \\
 \frac{7}{5}x_{4} \\
 x_{4} \\
 x_{5}
+\end{bmatrix} = x_{2}\begin{bmatrix}
+-2 \\
+1 \\
+0 \\
+0 \\
+0
+\end{bmatrix} + x_{4}\begin{bmatrix}
+-4 \\
+0 \\
+\frac{7}{5} \\
+1 \\
+0
+\end{bmatrix} x_{5} \begin{bmatrix}
+0 \\
+0 \\
+0 \\
+0 \\
+1
 \end{bmatrix}
+$$
+Let the above vectors that are in linear combination be $\vec{v}_1, \dots , \vec{v_3}$
+$$
+\text{Nul A} = \text{Span}\left\{
+\vec{v}_1, \dots , \vec{v_3}
+\right\}
 $$
 
 # 16
