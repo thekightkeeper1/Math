@@ -181,4 +181,22 @@ t
 $$
 
 # 12
-Find a basis for the set 
+**Find a basis for the line $y=5x$**
+
+
+Well, all vectors on that line are linearly dependent with each other. All I need is a single vector
+$$
+\begin{bmatrix}
+1 \\
+5
+\end{bmatrix}
+$$
+
+we can see that $5=5(1)$
+
+# 14
+**A $\sim$ B. So find $\text{Col A}$, $\text{Row B}$ and $\text{Nul A}$**
+
+# 16
+
+# 20
