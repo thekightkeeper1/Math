@@ -196,6 +196,34 @@ we can see that $5=5(1)$
 
 # 14
 **A $\sim$ B. So find $\text{Col A}$, $\text{Row B}$ and $\text{Nul A}$**
+$$
+A=\begin{bmatrix}
+1 & 2 & -5 & 11 & -3 \\
+2 & 4 & -5 & 15 & 2 \\
+1 & 2 & 0 & 4 & 5 \\
+3 & 6 & -5 & 19 & -2
+\end{bmatrix}\space\space\space B=\begin{bmatrix}
+1 & 2 & 0 & 4 & 5 \\
+0 & 0 & 5 & -7 & 8 \\
+0 & 0 & 0 & 0 & -9 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+B^T\begin{bmatrix}
+1 & 0 & 0 & 0 \\
+2 & 0 & 0 & 0 \\
+0 & 5 & 0 & 0  \\
+4 & -7 & 0 & 0 \\
+5 & 8 & -9 & -0
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 0 & 0 & 0 \\
+2 & 0 & 0 & 0 \\
+\frac{20}{7}
+\end{bmatrix}
+$$
+
+We know the pivot columns and rows
 
 
 
