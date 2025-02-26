@@ -141,7 +141,6 @@ $$
 \text{Span}\{\vec{v}_1, \dots , \vec{v_3}\}
 $$
 
-![[meta/images/Pasted image 20250225161126.png]]
 
 # 10, 12, 14
 **Use a theorem to prove W is a vector space, or disprove it with an example.**
@@ -234,12 +233,12 @@ a-2b \\
 a, b \in \mathbb{R}^n
 \right\} 
 $$
-This is equivalent to: $\text{Col A}$
+This is equivalent to: 
 $$
-A=\begin{bmatrix}
--1 \\
-1 \\
-3
+\text{Col} \begin{bmatrix}
+-1 & 2 \\
+1  & -2\\
+3 & -6
 \end{bmatrix} 
 $$
 
