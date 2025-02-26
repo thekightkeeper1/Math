@@ -140,6 +140,24 @@ $$
 \right\}
 $$
 
-# 12
+# 11 (just for fun)
 **Find a basis for the set of vectors in $\mathbb{R}^3$ in the plane $x + 2y + z = 0$**
-Well, I can define another equation from this one
+
+Lets say that
+$$
+H = \left\{ 
+\begin{bmatrix}
+x \\
+y \\
+z
+\end{bmatrix}\space :\space x + 2y + z =0
+\right\} 
+$$
+All I have to do is form one more equation which eliminates one of the variables, and then put it into a matrix. 
+$$
+\begin{matrix}
+x=2y+z=0 \\
+\implies  x=-2y-z \\
+\implies
+\end{matrix}
+$$
