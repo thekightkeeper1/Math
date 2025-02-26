@@ -19,13 +19,13 @@
 		replacement: "\\vec{[[0]]}_{[[1]]}",
 		options: "rmA"
 	},
-	{trigger: "span", replacement: "\\text{Span}\\{$0\\}", options: "mA"},
+	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
 
-	{trigger: "\\mathbb{R}n", replacement: "\\mathbb{R}^n", options: "mA"},
+	{trigger: "\\mathbb{R}([a-zA-Z0-9])", replacement: "mathbb{R}^[[0]]", options: "rmA"},
 	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "$\\text{Col [[0]]}$$0", options: "rtA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "\\text{Col [[0]]}$0", options: "rmA"},
-	{trigger: "[rR]ow ([a-zA-Z])", replacement: "$\\text{Row [[0]]}$$0", options: "rtA"},
+	{trigger: "[rR]ow ([a-zA-Z])", replacement: "$\\text{Row [[0]]}$$0", options: "rt"},
 	{trigger: "[rR]ow ([a-zA-Z])", replacement: "\\text{Row [[0]]}$0", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "r_{[[0]]} \\leftrightarrow r_{[[1]]}", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r_{[[1]]}$", options: "rtA"},
@@ -205,6 +205,7 @@
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
+	{trigger: "RR", replacement: "$\\mathbb{R}$", options: "t"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
 
