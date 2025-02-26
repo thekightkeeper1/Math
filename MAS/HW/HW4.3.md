@@ -197,6 +197,8 @@ we can see that $5=5(1)$
 # 14
 **A $\sim$ B. So find $\text{Col A}$, $\text{Row B}$ and $\text{Nul A}$**
 
+
+
 # 16
 
 # 20
