@@ -125,7 +125,7 @@
 	{trigger: "([a-zA-Z])tilde", replacement: "\\tilde{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])und", replacement: "\\underline{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
-	{trigger: "([a-zA-Z])vec", replacement: "$\\vec{[[0]]}$", options: "rtA"},
+	{trigger: "([a-zA-Z])vec", replacement: "$\\vec{[[0]]}$", options: "rtA", priority: 1},
 	{trigger: "0vec", replacement: "$\\vec{0}$", options: "tA"},
 	{trigger: "0vec", replacement: "\\vec{0}", options: "mA"},
 
