@@ -153,11 +153,32 @@ z
 \end{bmatrix}\space :\space x + 2y + z =0
 \right\} 
 $$
-All I have to do is form one more equation which eliminates one of the variables, and then put it into a matrix. 
+
+Since we know that tis a plane, I have 2 free variables. Let them be $s=y, t=z$
+$x=-2y-z \implies x=-2s-t$
 $$
-\begin{matrix}
-x=2y+z=0 \\
-\implies  x=-2y-z \\
-\implies
-\end{matrix}
+\left\{\begin{flalign}
+&x=-2s-t\\
+&y=s \\
+&z=t
+\end{flalign}\right.
 $$
+And that right there is our $\vec{x}$. 
+$$
+\begin{bmatrix}
+-2s -t \\
+s \\
+t
+\end{bmatrix} = s\begin{bmatrix}
+-2 \\
+1 \\
+0
+\end{bmatrix} + t \begin{bmatrix}
+-1 \\
+0 \\
+1
+\end{bmatrix}
+$$
+
+# 12
+Find a basis for the set 
