@@ -215,15 +215,24 @@ B^T\begin{bmatrix}
 2 & 0 & 0 & 0 \\
 0 & 5 & 0 & 0  \\
 4 & -7 & 0 & 0 \\
-5 & 8 & -9 & -0
+5 & 8 & -9 & 0
 \end{bmatrix} \sim \begin{bmatrix}
 1 & 0 & 0 & 0 \\
 2 & 0 & 0 & 0 \\
-\frac{20}{7}
+\frac{20}{7} & 0 & 0 & 0 \\
+4 & -7 & 0 & 0 \\
+5 & 8 & -9 & 0
 \end{bmatrix}
 $$
 
-We know the pivot columns and rows
+The pivot columns are $c_{1}$, $c_{3}$, $c_{5}$.
+$$\text{Col A}= \text{Span}\left\{ c_{1},c_{2},c_{3}\right\}$$
+$$
+\text{Row A} = \text{Span}\left\{
+r_{1},r_{2},r_{3}
+\right\}
+$$
+
 
 
 
