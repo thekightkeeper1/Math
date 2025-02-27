@@ -1,5 +1,5 @@
 {
-  "debug": false,
+  "debug": true,
   "pythonPath": "C:\\Users\\tysin\\anaconda3\\envs\\pytorch_latex_ocr\\python.exe",
   "cacheDirPath": "C:\\Program Files\\Obsidian\\.obsidian\\plugins\\latex-ocr\\model_cache",
   "delimiters": "$$",
