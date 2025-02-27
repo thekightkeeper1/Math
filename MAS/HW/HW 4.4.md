@@ -24,3 +24,31 @@ $$
 -7
 \end{bmatrix}
 $$
+
+## #3
+$$\mathcal{B}=\left\{\left[\begin{array}{l}{{1}}\\ {{-4}}\\ {{3}}\end{array}\right],\left[\begin{array}{l}{{5}}\\ {{2}}\\ {{-2}}\end{array}\right],\left[\begin{array}{l}{{4}}\\ {{-7}}\\ {{0}}\end{array}\right]\right\},\left[\,{\bf x}\,\right]_{\mathcal{B}}=\left[\begin{array}{l}{{3}}\\ {{0}}\\ {{-1}}\end{array}\right]$$
+
+$$
+\begin{bmatrix}
+1 & 5 & 4 \\
+-4 & 2 & -7 \\
+3 & -2 & 0
+\end{bmatrix} 
+\begin{bmatrix}
+3 \\
+0 \\
+-1
+\end{bmatrix} =
+\begin{bmatrix}
+3-4 \\
+-12+7 \\
+9
+\end{bmatrix}=\begin{bmatrix}
+-1 \\
+-5 \\
+9
+\end{bmatrix}
+$$
+
+# 7
+fin
