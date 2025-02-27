@@ -55,6 +55,45 @@ $$
 $$\mathcal{B} = \begin{bmatrix}1 & 2 \\ -3 & -5\end{bmatrix}, \space x = \begin{bmatrix}-2 \\ 1\end{bmatrix}$$
 
 
-This means solving for scalars $c_{1}$ and $c_{2}$ such that the linear combo of $\vec{b}_{1}$ and $\vec{b}_{2}$
+This means solving for scalars $c_{1}$ and $c_{2}$ such that the linear combo equation below holds.
 
-$$c_{1}\left[{1\atop{-3}}\right]+c_{2}\left[{2\atop{-5}}\right]=\left[{-2\atop1}\right]$$
+$$c_{1}\underbrace{ \left[{1\atop{-3}}\right] }_{ \vec{b}_{1} }+c_{2}\underbrace{ \left[{2\atop{-5}}\right] }_{ \vec{b}_{2} }=\underbrace{ \left[{-2\atop1}\right] }_{ x }$$
+$$\implies\left[{\begin{array}{l l}{1}&{2}\\ {-3}&{-5}\end{array}}\right]\left[{\begin{array}{l}{c_{1}}\\ {c_{2}}\end{array}}\right]=\left[{\begin{array}{l}{-2}\\ {1}\end{array}}\right]$$
+
+
+We can solve this with an augmented matrix, 
+
+$$
+\text{The augmented matrix:}
+\begin{bmatrix}
+1 & 2 & | & -2 \\
+-3 & -5 & | & 1
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 2 & | & -2 \\
+0 & 1 & | & -5
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 0 & | & 8 \\
+0 & 1 & | & -5
+\end{bmatrix}
+$$
+$$
+\text{So we know, starting from the bottom row: }\space c_{2} = -5, c_{1}=8
+$$
+$$
+\implies \left[\,\mathbf{x}\,\right]_{\mathcal{B}} = \begin{bmatrix}
+8 \\
+-5
+\end{bmatrix}
+$$
+
+
+# #13
+The set $\mathcal{B}=\left\{ 1-t^2, t-t^2, t \right\}$
+
+# 15, 16
+## #15
+## #16
