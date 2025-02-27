@@ -204,12 +204,15 @@
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
+	{trigger: "bcal", replacement: "\\mathcal{B}", options: "mA"},
+	{trigger: "bcal", replacement: "$\\mathcal{B}$", options: "tA"},
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
 	{trigger: "RR", replacement: "$\\mathbb{R}$", options: "t"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
+
 
     // Handle spaces and backslashes
 
