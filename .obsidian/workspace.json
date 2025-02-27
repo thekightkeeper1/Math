@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW4.3.md",
+                "file": "MAS/HW/HW 4.4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4.3"
+              "title": "HW 4.4"
             }
           }
         ]
@@ -211,15 +211,17 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "latex-ocr:LatexOCR": false
     }
   },
   "active": "a5e5ef9aa4b0c1dd",
   "lastOpenFiles": [
-    "4.6 notes.md",
+    "MAS/HW/HW4.3.md",
+    "MAS/HW/HW 4.4.md",
+    "MAS/NOTES/4.6 notes.md",
     "meta/images/Pasted image 20250225153815.png",
     "MAS/HW/4.3.md",
-    "MAS/HW/HW4.3.md",
     "MAS/HW/HW 4.2.md",
     "MAS/NOTES/4.2.md",
     "MAS/NOTES",
