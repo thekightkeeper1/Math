@@ -179,10 +179,23 @@ The number of vectors in a basis does tell us what space it looks like. Two basi
 - Or it could be a plane in 3d space, in which case there are 2 vectors, but its in $\mathbb{R}^3$ not $\mathbb{R}^2$
 
 ## #16
+**If $\mathcal{B}$ is the standard basis (e.g, $\vec{e}_1, \dots , \vec{e_n}$), then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}} = x$**
+
+This is true. 
 $$
-\begin{bmatrix}
+\text{Let } \vec{u} = \begin{bmatrix}
 x_{1} \\
 \vdots \\
 x_{n}
 \end{bmatrix}
 $$
+
+When we say that $\mathcal{B}$ is the standard base, we mean this:
+$$
+\mathcal{B} = \left\{\vec{b}_1, \dots , \vec{b_n} \right\}=I_{n}=\left\{ \vec{e}_1, \dots , \vec{e_n} \right\} 
+$$
+And so using the defin
+$$
+\implies c_{1}\vec{e}_1+ \dots + c_{n}\vec{e_n}=x_{1}\vec{b}_{1}+\dots+x_{2}\vec{b}_{n}
+$$
+Thats cause we are 
