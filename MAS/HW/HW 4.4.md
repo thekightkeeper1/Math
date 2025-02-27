@@ -92,7 +92,16 @@ $$
 
 
 # #13
-The set $\mathcal{B}=\left\{ 1-t^2, t-t^2, t \right\}$
+The set 
+$$
+\mathcal{B}=
+\left\{\begin{flalign}
+&1-t^{2} \\
+&t-t^{2} \\
+&2-2t+t^{2}
+\end{flalign}\right\}
+\text{  is a basis for } \mathbb{P}_2 
+$$
 
 # 15, 16
 ## #15

@@ -211,6 +211,7 @@
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
+	{trigger: "PP([n0-9])", replacement: "\\mathbb{P}_[[0]] ", options: "rmA"},
 	{trigger: "RR", replacement: "$\\mathbb{R}$", options: "t"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
