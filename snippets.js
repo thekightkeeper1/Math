@@ -36,6 +36,7 @@
 	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
 	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
 	{trigger: "\\dot{v}s", replacement: "\\vdots", options: "mA"},
+	{trigger: "([a-z])base", replacement: "\\left[\\,\\mathbf{[[0]]}\\,\\right]_{\\mathcal{B}}", options: "rmA"},
 
 	
 
