@@ -174,6 +174,15 @@ $$
 
 ## #15
 **If $x$ $\in$ $V$ and $\mathcal{B}$ has $n$ vectors, then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}}$ is in $\mathbb{R}^n$**
-The number of vectors in a basis does tell us what space it looks like. 2 Vectors would be a plane. However, it does not tell us how many dime
+The number of vectors in a basis does tell us what space it looks like. Two basis vectors **would** be a plane. However, it does not tell us what dimension that vector exists in. 
+- It could be a plane in 2 space, in which case the question is true.
+- Or it could be a plane in 3d space, in which case there are 2 vectors, but its in $\mathbb{R}^3$ not $\mathbb{R}^2$
 
 ## #16
+$$
+\begin{bmatrix}
+x_{1} \\
+\vdots \\
+x_{n}
+\end{bmatrix}
+$$
