@@ -4,7 +4,7 @@
   "cacheDirPath": "C:\\Users\\tysin\\tmp",
   "delimiters": "$$",
   "port": "50051",
-  "startServerOnLoad": true,
+  "startServerOnLoad": false,
   "showStatusBar": true,
   "useLocalModel": true,
   "hfApiKey": "",
