@@ -2657,6 +2657,7 @@ var require_client = __commonJS({
       }
       waitForReady(deadline, callback) {
         const checkState = (err) => {
+          console.log("hey there")
           if (err) {
             callback(new Error("Failed to connect before the deadline"));
             return;

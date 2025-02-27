@@ -14,5 +14,11 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "latex-ocr:paste-latex-from-clipboard": [
+    {
+      "modifiers": [],
+      "key": "F13"
+    }
   ]
 }

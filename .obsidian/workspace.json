@@ -25,22 +25,22 @@
         ]
       },
       {
-        "id": "b09ff7ff8f4f57ef",
+        "id": "71f8fb0075abb18b",
         "type": "tabs",
         "dimension": 50,
         "children": [
           {
-            "id": "0dce32908eaa281e",
+            "id": "0aca1b42647432b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW4.3.md",
+                "file": "MAS/HW/HW 4.4.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW4.3"
+              "title": "HW 4.4"
             }
           }
         ]
@@ -215,10 +215,17 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "a5e5ef9aa4b0c1dd",
+  "active": "b42fdf438ad77f0c",
   "lastOpenFiles": [
-    "MAS/HW/HW4.3.md",
+    "Untitled.md",
+    "Vocab",
     "MAS/HW/HW 4.4.md",
+    "meta/images/Pasted image 20250227131924.png",
+    "meta/images/Pasted image 20250227131922.png",
+    "meta/images/Pasted image 20250227131921.png",
+    "meta/images/Pasted image 20250227131840.png",
+    "meta/images/Pasted image 20250227131836.png",
+    "MAS/HW/HW4.3.md",
     "MAS/NOTES/4.6 notes.md",
     "meta/images/Pasted image 20250225153815.png",
     "MAS/HW/4.3.md",
@@ -230,13 +237,8 @@
     "meta/images/Pasted image 20250225165013.png",
     "meta/images/Pasted image 20250225161126.png",
     "meta/images/Pasted image 20250225160429.png",
-    "RREF.md",
+    "Vocab/RREF.md",
     "meta/images/Pasted image 20250225153814.png",
-    "meta/images/Pasted image 20250225153812.png",
-    "meta/images/Pasted image 20250225153811.png",
-    "meta/images/Pasted image 20250225153810.png",
-    "meta/images/Pasted image 20250225153808.png",
-    "meta/images/Pasted image 20250225153803.png",
     "meta/images",
     "meta",
     "MAS/HW/HW 1.2.md",

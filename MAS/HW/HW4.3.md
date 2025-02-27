@@ -218,7 +218,7 @@ $$
 r_{1},r_{2},r_{3}
 \right\}
 $$
-For $\text{Nul A}$ we need to reduce B to [[RREF]].
+For $\text{Nul A}$ we need to reduce B to [[Vocab/RREF]].
 $$
 B \sim \begin{bmatrix}
 1 & 2 & 0 & 4 & 0 \\

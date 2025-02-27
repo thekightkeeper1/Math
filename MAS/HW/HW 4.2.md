@@ -34,7 +34,7 @@ A = \begin{bmatrix}
 0 & 0 & 2 & 0
 \end{bmatrix}
 $$
-First get to [[RREF]]
+First get to [[Vocab/RREF]]
 $$
 \sim \begin{bmatrix}
 1 & -6 & 0 & 0 \\
