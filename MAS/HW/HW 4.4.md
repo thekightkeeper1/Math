@@ -100,7 +100,7 @@ $$
 &t-t^{2} \\
 &2-2t+t^{2}
 \end{flalign}\right\}
-\text{  is a basis for } \mathbb{P}_2 
+\text{  is a basis for } \mathbb{P}_2\space 
 $$
 
 # 15, 16
