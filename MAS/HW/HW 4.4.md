@@ -180,7 +180,10 @@ The number of vectors in a basis does tell us what space it looks like. Two basi
 
 ## #16
 **If $\mathcal{B}$ is the standard basis (e.g, $\vec{e}_1, \dots , \vec{e_n}$), then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}} = x$**
-
+When we say that $\mathcal{B}$ is the standard base, we mean this:
+$$
+\mathcal{B} =I_{n}=\left\{ \vec{e}_1, \dots , \vec{e_n} \right\} 
+$$
 This is true. 
 $$
 \text{Let } \vec{u} = \begin{bmatrix}
@@ -190,12 +193,21 @@ x_{n}
 \end{bmatrix}
 $$
 
-When we say that $\mathcal{B}$ is the standard base, we mean this:
+
+And so normally we put the matrix representing $\mathcal{B}$ on the left, and $\vec{v}$ which we want to make $\left[\,\mathbf{v}\,\right]_{\mathcal{B}}$ on the right of an augmented matrix.
 $$
-\mathcal{B} = \left\{\vec{b}_1, \dots , \vec{b_n} \right\}=I_{n}=\left\{ \vec{e}_1, \dots , \vec{e_n} \right\} 
+\begin{bmatrix}
+I & | & v  
+\end{bmatrix}
 $$
-And so using the defin
+Well, in this case there is nothing to solve, since the augmented matrix is reduced. We are left with:
 $$
-\implies c_{1}\vec{e}_1+ \dots + c_{n}\vec{e_n}=x_{1}\vec{b}_{1}+\dots+x_{2}\vec{b}_{n}
+\begin{bmatrix}
+c_{1} \\
+\vdots \\
+c_{n}
+\end{bmatrix} = 
+\begin{bmatrix}
+x_{1}
+\end{bmatrix}
 $$
-Thats cause we are 
