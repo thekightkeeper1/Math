@@ -136,12 +136,44 @@ $$
 $$
 \sim \begin{bmatrix}
 1 & 0 & 2 & | & 3 \\
-0 & t & -2t  & | & t \\
--t^{2} & -t^{2} & t^{2} & | & -6t^{2}
+0 & 1 & -2 & | & 1 \\
+-1 & -1 & 1 & | & -6
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 0 & 2 & | & 3 \\
+0 & 1 & -2 & | & 1 \\
+0 & -1 & 3 & | & -3
+\end{bmatrix} \sim 
+\begin{bmatrix}
+1 & 0 & 2 & | & 3 \\
+0 & 1 & -2 & | & 1 \\
+0 & 0 & 1 & | & -2
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 0 & 0 & | & 7 \\
+0 & 1 & 0 & | & -3 \\
+0 & 0 & 1 & | & -2
+\end{bmatrix} \implies
+\begin{bmatrix}
+c_{1} \\
+c_{2} \\
+c_{3}
+\end{bmatrix} = 
+\begin{bmatrix}
+7 \\
+-3 \\
+-2
 \end{bmatrix}
 $$
 
 
 # 15, 16
+**Mark each statement true or false. Justify. Assume $\mathcal{B}$ is a basis for vector space $V$**
+
 ## #15
+**If $x$ $\in$ $V$ and $\mathcal{B}$ has $n$ vectors, then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}}$ is in $\mathbb{R}^n$**
+The number of vectors in a basis does tell us what space it looks like. 2 Vectors would be a plane. However, it does not tell us how many dime
+
 ## #16
