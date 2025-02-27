@@ -100,8 +100,47 @@ $$
 &t-t^{2} \\
 &2-2t+t^{2}
 \end{flalign}\right\}
-\text{  is a basis for } \mathbb{P}_2\space 
+\text{  is a basis for } \mathbb{P}_2\space
 $$
+
+**Find $\left[\,\mathbf{p(t)}\,\right]_{\mathcal{B}}$**
+
+Oke, so we need:
+$$
+c_{1}\begin{bmatrix}
+1 \\
+0 \\
+-t^2
+\end{bmatrix} + c_{2}\begin{bmatrix}
+0 \\
+t \\
+-t^2
+\end{bmatrix} + c_{3}
+\begin{bmatrix}
+2 \\
+-2t \\
+t^{2}
+\end{bmatrix} = \begin{bmatrix}
+3 \\
+t \\
+-6t^{2}
+\end{bmatrix}
+$$
+$$
+\text{And getting rid of the units,  t}\implies \begin{bmatrix}
+1 & 0 & 2 & | & 3 \\
+0 & 1 & -2 & | & 1 \\
+-1 & -1 & 1 & | & -6
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 0 & 2 & | & 3 \\
+0 & t & -2t  & | & t \\
+-t^{2} & -t^{2} & t^{2} & | & -6t^{2}
+\end{bmatrix}
+$$
+
 
 # 15, 16
 ## #15

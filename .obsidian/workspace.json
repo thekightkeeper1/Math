@@ -244,10 +244,12 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "0aca1b42647432b7",
+  "active": "991cf9cfc4ae89db",
   "lastOpenFiles": [
     "MAS/NOTES/NOTES 4.4.md",
     "MAS/HW/HW 4.4.md",
+    "$/mathbb{P}_2$.md",
+    "$",
     "Untitled.md",
     "meta/images/Pasted image 20250227140621.png",
     "meta/images/Pasted image 20250227140548.png",
@@ -276,7 +278,6 @@
     "snippets.js",
     "snippets.json",
     "Untitled Document",
-    "latex-snippets.md",
-    "MAS"
+    "latex-snippets.md"
   ]
 }
