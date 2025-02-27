@@ -42,8 +42,25 @@ $$
 \end{bmatrix}
 $$
 
-![[meta/images/Pasted image 20250227134753.png]]
+![[meta/images/Pasted image 20250227134753.png|400]]
 
-This one can be logic'ed out pretty easily. I just multiplied the basis vectors by 2. So to represent a normal vector in $\mathcal{B}$, I just need to divide the $x$
+This one can be logic'ed out pretty easily. I just multiplied the basis vectors by 2. So to represent a normal vector in $\mathcal{B}$, I just need to divide the $x,y$ by 2.
 
+$$
+\left[\,\mathbf{a}\,\right]_{\mathcal{B}} = \begin{bmatrix}
+\frac{1}{2} \\
+\frac{1}{2} \\
+\end{bmatrix}
+$$
+And if you multiply by the matrix you will be able to see this.
+$$
+\mathcal{B}\left[\,\mathbf{a}\,\right]_{\mathcal{B}}=
+\begin{bmatrix}
+2 & 0 \\
+0 & 2
+\end{bmatrix}
+\begin{bmatrix}
+
+\end{bmatrix}
+$$
 
