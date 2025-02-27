@@ -60,7 +60,16 @@ $$
 0 & 2
 \end{bmatrix}
 \begin{bmatrix}
-
+.5 \\
+.5
+\end{bmatrix}
+=\begin{bmatrix}
+2\cdot \frac{1}{2}+2(0)\\
+2(0) +      2\cdot \frac{1}{2} \\
+\end{bmatrix} = \begin{bmatrix}
+1 \\
+1
 \end{bmatrix}
 $$
+In fact, you can see how to transform $\left[\,\mathbf{a}\,\right]_{\mathcal{B}}$ to just $\vec{a}$ you just need to multiply by the base.
 

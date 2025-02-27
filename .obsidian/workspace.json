@@ -36,7 +36,8 @@
               "title": "HW 4.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "71f8fb0075abb18b",
@@ -71,8 +72,7 @@
               "title": "NOTES 4.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,11 +244,13 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "a5e5ef9aa4b0c1dd",
+  "active": "991cf9cfc4ae89db",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250227140621.png",
+    "meta/images/Pasted image 20250227140548.png",
+    "MAS/NOTES/NOTES 4.4.md",
     "meta/images/Pasted image 20250227134753.png",
     "MAS/HW/HW 4.4.md",
-    "MAS/NOTES/NOTES 4.4.md",
     "snippets.js~",
     "meta/images/Pasted image 20250227132451.png",
     "Untitled.md",
@@ -267,8 +269,6 @@
     "MAS/NOTES",
     "MAS/HW",
     "meta/images/Pasted image 20250225165013.png",
-    "meta/images/Pasted image 20250225161126.png",
-    "meta/images/Pasted image 20250225160429.png",
     "Vocab/RREF.md",
     "meta/images",
     "meta",
