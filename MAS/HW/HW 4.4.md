@@ -50,5 +50,11 @@ $$
 \end{bmatrix}
 $$
 
-# 7
-fin
+# # 7
+**Find $\left[\,\mathbf{x}\,\right]_{\mathcal{B}}$**
+$$\mathcal{B} = \begin{bmatrix}1 & 2 \\ -3 & -5\end{bmatrix}, \space x = \begin{bmatrix}-2 \\ 1\end{bmatrix}$$
+
+
+This means solving for scalars $c_{1}$ and $c_{2}$ such that the linear combo of $\vec{b}_{1}$ and $\vec{b}_{2}$
+
+$$c_{1}\left[{1\atop{-3}}\right]+c_{2}\left[{2\atop{-5}}\right]=\left[{-2\atop1}\right]$$

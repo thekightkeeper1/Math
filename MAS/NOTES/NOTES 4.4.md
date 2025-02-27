@@ -72,4 +72,5 @@ $$
 \end{bmatrix}
 $$
 In fact, you can see how to transform $\left[\,\mathbf{a}\,\right]_{\mathcal{B}}$ to just $\vec{a}$ you just need to multiply by the base.
+---
 
