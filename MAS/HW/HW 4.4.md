@@ -180,11 +180,16 @@ The number of vectors in a basis does tell us what space it looks like. Two basi
 
 ## #16
 **If $\mathcal{B}$ is the standard basis (e.g, $\vec{e}_1, \dots , \vec{e_n}$), then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}} = x$**
+
+==This is true:==
 When we say that $\mathcal{B}$ is the standard base, we mean this:
 $$
-\mathcal{B} =I_{n}=\left\{ \vec{e}_1, \dots , \vec{e_n} \right\} 
+\mathcal{B} =\left\{ \vec{e}_1, \dots , \vec{e_n} \right\}
 $$
-This is true. 
+$$
+\underbrace{ [\vec{e}_1, \dots , \vec{e_n}] =I }_{ \text{So the matrix representing $\mathcal{B}$ is just $I$.} }
+$$
+
 $$
 \text{Let } \vec{u} = \begin{bmatrix}
 x_{1} \\
@@ -193,14 +198,13 @@ x_{n}
 \end{bmatrix}
 $$
 
-
-And so normally we put the matrix representing $\mathcal{B}$ on the left, and $\vec{v}$ which we want to make $\left[\,\mathbf{v}\,\right]_{\mathcal{B}}$ on the right of an augmented matrix.
+We normally convert from $\vec{u}$ to $\left[\,\mathbf{u}\,\right]_{\mathcal{B}}$ via solving an augmented matrix until the left side is row reduced.
 $$
 \begin{bmatrix}
 I & | & v  
 \end{bmatrix}
 $$
-Well, in this case there is nothing to solve, since the augmented matrix is reduced. We are left with:
+Well, in this case there is nothing to solve, since the identity matrix is already row reduced.
 $$
 \begin{bmatrix}
 c_{1} \\
@@ -208,6 +212,8 @@ c_{1} \\
 c_{n}
 \end{bmatrix} = 
 \begin{bmatrix}
-x_{1}
+x_{1} \\
+\vdots \\
+x_{n}
 \end{bmatrix}
 $$
