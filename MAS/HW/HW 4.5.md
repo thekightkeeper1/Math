@@ -40,7 +40,7 @@ $$
 $${\textbf{4}}.\,\,\left\{{\left[\begin{array}{l}{a+b}\\ {2a}\\ {3a-b}\\ {-b}\end{array}\right]}\colon a,b\operatorname{in}\mathbb{R}\right\}$$
 
 $$
-=
+=e
 \begin{bmatrix}
 1 & 1 \\
 2 & 0 \\
@@ -59,5 +59,6 @@ $${\textbf{6.}}\left\{{\left[\begin{array}{l}{3a+6b-c}\\ {6a-2b-2c}\\ {-9a+5b+3c
 
 
 # #10
+**Find the **
 
 # #12
