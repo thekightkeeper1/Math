@@ -135,19 +135,36 @@ $$
 
 We know from [[MAS/HW/HW 4.4|HW 4.4]] that to convert a single vector, you just augment it into the matrix representing a space. Well, you can just put another vector into the augmented matrix to solve vectors at once.
 
-The following should give us the $\mathcal{C}$ to $\mathcal{B}$ matrix.
+The following should give us the $\mathcal{C}$ to $\mathcal{B}$ matrix. *(Less fractions if we do this one first)*
 $$
-\left[  c_{1}\space c_{2} \, | \,b_{1}\space b_{2}\right] = \begin{bmatrix}
-7 & 2 & | & 4 & 5 \\
--2 & -1 & | 
-\end{bmatrix}
+\left[  c_{1}\space c_{2} \, | \,b_{1}\space b_{2}\right] = 
 \begin{bmatrix}
-
+4 & 5 & | & 7 & 2 \\
+1 & 2 & | & -2 & -1
 \end{bmatrix}
 $$
 $$
 \sim \begin{bmatrix}
-
+1 & 2 & | & -2 & -1 \\
+4 & 5 & | & 7 & 2 \\
+\end{bmatrix} 
+$$
+$$
+= \begin{bmatrix}
+1 & 2 & | & -2 & -1 \\
+0 & -3 & | & 15 & 6
+\end{bmatrix}
+$$
+$$
+= \begin{bmatrix}
+1 & 2 & | & -2 & -1 \\
+0 & 1 & | & -5 & -2
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+1 & 0 & | & 8 & 3 \\
+0 & 1 & | & -5 & -2
 \end{bmatrix}
 $$
 
