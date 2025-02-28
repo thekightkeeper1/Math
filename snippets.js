@@ -31,10 +31,12 @@
 	{trigger: "(\\d)lr(\\d)", replacement: "r_{[[0]]} \\leftrightarrow r_{[[1]]}", options: "rmA"},
 	{trigger: "(\\d)lr(\\d)", replacement: "$r_{[[0]]} \\leftrightarrow r_{[[1]]}$", options: "rtA"},
 	{trigger: "sim", replacement: "\\sim ", options: "mA"},
-	{trigger: "([a-z]),(\\d)", replacement: "\\vec{[[0]]}_1, \\dots , \\vec{[[0]]_[[1]]}", options: "rmA"},
+	{trigger: "([a-z]),([n0-9])", replacement: "\\vec{[[0]]}_1, \\dots , \\vec{[[0]]_[[1]]}", options: "rmA"},
 	{trigger: "sys", replacement: "\\left\\{\\begin{flalign}\n$0\n\\end{flalign}\\right.", options: "mA"},
 	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
 	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
+	{trigger: "\\dot{v}s", replacement: "\\vdots", options: "mA"},
+	{trigger: "([a-z])base", replacement: "\\left[\\,\\mathbf{[[0]]}\\,\\right]_{\\mathcal{B}}", options: "rmA"},
 
 	
 
@@ -204,12 +206,16 @@
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
+	{trigger: "bcal", replacement: "\\mathcal{B}", options: "mA"},
+	{trigger: "bcal", replacement: "$\\mathcal{B}$", options: "tA"},
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
+	{trigger: "PP([n0-9])", replacement: "\\mathbb{P}_[[0]] ", options: "rmA"},
 	{trigger: "RR", replacement: "$\\mathbb{R}$", options: "t"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
+
 
     // Handle spaces and backslashes
 

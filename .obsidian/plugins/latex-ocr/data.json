@@ -1,0 +1,12 @@
+{
+  "debug": true,
+  "pythonPath": "C:\\Users\\tysin\\anaconda3\\python.exe",
+  "cacheDirPath": "C:\\Users\\tysin\\tmp",
+  "delimiters": "$$",
+  "port": "50052",
+  "startServerOnLoad": false,
+  "showStatusBar": true,
+  "useLocalModel": true,
+  "hfApiKey": "",
+  "obfuscatedKey": ""
+}

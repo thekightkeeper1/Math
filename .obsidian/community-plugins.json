@@ -6,5 +6,9 @@
   "templater-obsidian",
   "obsidian-minimal-settings",
   "better-export-pdf",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "latex-ocr",
+  "oz-clear-unused-images",
+  "ink",
+  "obsidian-desmos"
 ]
