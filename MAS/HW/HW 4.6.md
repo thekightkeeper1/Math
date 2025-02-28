@@ -68,9 +68,11 @@ Therefore representing $\mathcal{D}$ with $\mathcal{A}$ must make :
 $P:D\to A$
 This is satisfied by the second equation, which converts from $\left[\mathbf{x}\right]_{\mathcal{D}}\to \left[\mathbf{x}\right]_{\mathcal{A}}$
 
-
+![[meta/images/Pasted image 20250228145154.png]]
 
 # #6
+
+
 # #10
 
 # #16
