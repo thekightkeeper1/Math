@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "HW 4.6"
             }
-          },
-          {
-            "id": "160eeab8e37f5117",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       },
@@ -49,6 +39,18 @@
               },
               "icon": "lucide-file",
               "title": "HW 4.6"
+            }
+          },
+          {
+            "id": "160eeab8e37f5117",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "meta/images/Pasted image 20250228121510.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250228121510"
             }
           }
         ]
@@ -224,12 +226,14 @@
   },
   "active": "d11aae6506b2095f",
   "lastOpenFiles": [
-    "snippets.js~",
-    "MAS/HW/HW 4.6.md",
     "meta/images/Pasted image 20250228121510.png",
+    "meta/images/Screenshot from 2025-02-25 14-08-22.png",
+    "meta/images/Pasted image 20250227134753.png",
+    "meta/images/Pasted image 20250225165013.png",
+    "MAS/HW/HW 4.6.md",
+    "snippets.js~",
     "MAS/HW/HW 4.5.md",
     "conflict-files-obsidian-git.md",
-    "meta/images/Pasted image 20250227134753.png",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
     "meta/images/Ink/Drawing",
     "meta/images/Ink",
@@ -246,12 +250,10 @@
     "RREF.md",
     "meta/images/Pasted image 20250225152924.png",
     "MAS/HW 4.2.md",
-    "meta/images/Pasted image 20250225165013.png",
     "meta/images/Pasted image 20250225161126.png",
     "meta/images/Pasted image 20250225160429.png",
     "meta/images/Pasted image 20250225153814.png",
     "meta/images/Pasted image 20250225153812.png",
-    "meta/images/Pasted image 20250225153811.png",
     "meta/images",
     "meta",
     "MAS/HW 1.2.md",

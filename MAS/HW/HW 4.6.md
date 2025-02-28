@@ -54,6 +54,21 @@ $\mathcal{D} =\{ d_{1},d_{2},d_{3} \}$
 And let:
 $P = \begin{bmatrix}\left[\,\mathbf{d}_1\,\right]_{\mathcal{A}} & \left[\,\mathbf{d}_2\,\right]_{\mathcal{A}} & \left[\,\mathbf{d}_3\,\right]_{\mathcal{A}}\end{bmatrix}$
 Which of the following equations is satisfied by $P$ for all $x$ in $V$.
+$$
+a)\,\,\,\,\,\,\left
+[\mathbf{x}\right]_{\mathcal{A}} = P\left[\mathbf{x}\right]_{\mathcal{D}}
+\,\,\,\,\,\,\,\,\,\,
+b)\,\,\,\,\,\,
+\left[\mathbf{x}\right]_{\mathcal{D}}=P\left[\mathbf{x}\right]_{\mathcal{A}}
+$$
+
+From #2 we know that when you represent $\mathcal{B}$ using $\mathcal{C}$, it creates
+$A:\mathcal{B}\to \mathcal{C}$
+Therefore representing $\mathcal{D}$ with $\mathcal{A}$ must make : 
+$P:D\to A$
+This is satisfied by the second equation, which converts from $\left[\mathbf{x}\right]_{\mathcal{D}}\to \left[\mathbf{x}\right]_{\mathcal{A}}$
+
+
 
 # #6
 # #10
