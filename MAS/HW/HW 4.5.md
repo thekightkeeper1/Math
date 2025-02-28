@@ -97,4 +97,4 @@ A=\begin{bmatrix}
 \end{bmatrix}
 $$
 
-It is in EF alread
+It is in EF already
