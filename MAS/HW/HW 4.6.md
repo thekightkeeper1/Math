@@ -112,8 +112,28 @@ $$
 
 
 # #10
+**Find the change of base matrix from $\mathcal{B}\to \mathcal{C}$ and $\mathcal{C} \to \mathcal{B}$**
 
+$$
+b_{1}=\begin{bmatrix}
+7 \\
+-2
+\end{bmatrix},
+b_{2}=\begin{bmatrix}
+2 \\
+-1
+\end{bmatrix},
+c_{1}=
+\begin{bmatrix}
+4 \\
+1
+\end{bmatrix}, c_{2} = \begin{bmatrix}
+5 \\
+2
+\end{bmatrix}
+$$
 
+We know from [[MAS/HW/HW 4.4|HW 4.4]] that to convert a single vector, you just augment it into the matrix representing a space. 
 
 # #16
 
