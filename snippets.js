@@ -36,7 +36,9 @@
 	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
 	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
 	{trigger: "\\dot{v}s", replacement: "\\vdots", options: "mA"},
-	{trigger: "([a-z])base([A-Z])", replacement: "\\left[\\,\\mathbf{[[0]]}\\,\\right]_{\\mathcal{[[1]]}}", options: "rmA"},
+	{trigger: "([a-z])base([A-Z])", replacement: "\\left[\\mathbf{[[0]]}\\right]_{\\mathcal{[[1]]}}", options: "rmA"},
+	{trigger: "\\left[\\mathbf{(\\w)}\\right]_{\\mathcal{(\\w)}}(\\d)",
+		replacement: "\\left[\\,\\mathbf{[[0]]}_[[2]]\\,\\right]_{\\mathcal{[[1]]}}", options: "rmA"},
 
 
 	// Texting for math

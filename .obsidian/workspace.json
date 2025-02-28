@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "HW 4.6"
             }
+          },
+          {
+            "id": "160eeab8e37f5117",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       },
@@ -215,9 +225,9 @@
   "active": "d11aae6506b2095f",
   "lastOpenFiles": [
     "snippets.js~",
+    "MAS/HW/HW 4.6.md",
     "meta/images/Pasted image 20250228121510.png",
     "MAS/HW/HW 4.5.md",
-    "MAS/HW/HW 4.6.md",
     "conflict-files-obsidian-git.md",
     "meta/images/Pasted image 20250227134753.png",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
