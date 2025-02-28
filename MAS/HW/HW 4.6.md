@@ -133,7 +133,24 @@ c_{1}=
 \end{bmatrix}
 $$
 
-We know from [[MAS/HW/HW 4.4|HW 4.4]] that to convert a single vector, you just augment it into the matrix representing a space. 
+We know from [[MAS/HW/HW 4.4|HW 4.4]] that to convert a single vector, you just augment it into the matrix representing a space. Well, you can just put another vector into the augmented matrix to solve vectors at once.
+
+The following should give us the $\mathcal{C}$ to $\mathcal{B}$ matrix.
+$$
+\left[  c_{1}\space c_{2} \, | \,b_{1}\space b_{2}\right] = \begin{bmatrix}
+7 & 2 & | & 4 & 5 \\
+-2 & -1 & | 
+\end{bmatrix}
+\begin{bmatrix}
+
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+
+\end{bmatrix}
+$$
+
 
 # #16
 
