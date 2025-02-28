@@ -17,7 +17,7 @@ $$\left[\,\mathbf{b}_1\,\right]_{\mathcal{C}}= \begin{bmatrix}
 \end{bmatrix}
 $$
 If you think about a linear transform, $A$ is just the base vectors transformed, and multiplying by $A$ transforms any vector to the new space.
-That means that 
+If A is the $\mathcal{B}$ vectors transformed to $\mathcal{C}$
 $$
 A=
 \begin{bmatrix}
@@ -25,7 +25,27 @@ A=
 4 & -3
 \end{bmatrix}
 $$
-Tells us how to write any $\vec{x} \in \mathcal{B}$ as $\left[\mathbf{x}\right]_{\mathcal{C}}$
+Then we just multiply it by any   $\vec{x} \in \mathcal{B}$ to transform (convert) it into $\left[\mathbf{x}\right]_{\mathcal{C}}$. 
+ $A:\mathcal{B} \to \mathcal{C}$
+
+$$
+A\left[\mathbf{x}\right]_{\mathcal{C}} = \begin{bmatrix}
+-1 & 5 \\
+4 & -3
+\end{bmatrix} \begin{bmatrix}
+5 \\
+3
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+-5+15 \\
+20-9
+\end{bmatrix} = \begin{bmatrix}
+10 \\
+11
+\end{bmatrix}
+$$
 
 # #4
 Let the following be bases for $V$
