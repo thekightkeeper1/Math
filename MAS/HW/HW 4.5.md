@@ -97,4 +97,12 @@ A=\begin{bmatrix}
 \end{bmatrix}
 $$
 
-It is in EF already
+
+It is in EF already, so we can easily see that it has 3 pivot columns. 
+by the Rank Nullity Theorem.
+rank($A$) + nullity($A$) = $n$
+Where n is the number of columns.
+$3 + x = 6\implies x=3$
+- $\text{nullity}(A) = 3$
+- $\text{dim}(\text{Row A})$
+- $\text{dim}(\text{Col A})$
