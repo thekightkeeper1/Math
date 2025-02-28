@@ -6,11 +6,12 @@ Let $\mathcal{B}=\{ b_{1},b_{2} \}$ and $\mathcal{C} = \{ c_{1},c_{2} \}$ be bas
 1. Find the transformation matrix from $\mathcal{B}$ to $\mathcal{C}$
 2. Find $\left[\,\mathbf{x}\,\right]_{\mathcal{C}}$ for $x=5b_{1}+3b_{2}$
 # #4
-Let $\mathcal{U} = \{ u_{1},u_{2} \}$ and $\mathcal{W} = \{ w_{1},w_{2} \}$ be bases for $V$.
-And let $P = \left[\,\mathbf{u}\,\right]_{\mathcal{W}}$
-$$
-v_{1}
-$$
+Let the following be bases for $V$
+$\mathcal{A} = \{ a_{1},a_{2},a_{3} \}$
+$\mathcal{D} =\{ d_{1},d_{2},d_{3} \}$
+And let:
+$P = \left[ d_{1}baseA \right]$
+
 # #6
 # #10
 
