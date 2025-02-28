@@ -11,7 +11,9 @@ $\mathcal{A} = \{ a_{1},a_{2},a_{3} \}$
 $\mathcal{D} =\{ d_{1},d_{2},d_{3} \}$
 And let:
 $P = \left[ d_{1}baseA \right]$
-$\left[\,\mathbf{x}\,\right]_{\mathcal{A}}1$
+$\left[\mathbf{x}\right]_{\mathcal{A}}$
+$\left[\mathbf{x}\right]_{\mathcal{B}}1$
+$\left[\mathbf{x}\right]_{\mathcal{B}}1$
 
 # #6
 # #10
