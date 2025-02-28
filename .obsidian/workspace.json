@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fab5d62970682062",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f01a0b489ed52a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/HW/HW 4.5.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW 4.5"
-            }
-          }
-        ]
-      },
-      {
         "id": "711e740f0e794b85",
         "type": "tabs",
         "children": [
@@ -31,14 +11,12 @@
             "id": "ee939004b1f8a824",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "MAS/HW/HW 4.5.md",
-                "mode": "source",
-                "source": false
+                "path": "MAS/HW"
               },
               "icon": "lucide-file",
-              "title": "HW 4.5"
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -94,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,13 +201,13 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "ee939004b1f8a824",
+  "active": "b42fdf438ad77f0c",
   "lastOpenFiles": [
+    "MAS/HW/HW 4.5.md",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
     "meta/images/Ink/Drawing",
     "meta/images/Ink",
     "Vault.md",
-    "MAS/HW/HW 4.5.md",
     "meta/images/Pasted image 20250227132451.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -260,7 +237,6 @@
     "MAS/HW",
     "MAS/Vocab/RREF.md",
     "meta/images",
-    "meta",
     "MAS/HW/HW 1.2.md",
     "Welcome.md",
     "latex-snippets.md"
