@@ -71,6 +71,14 @@ This is satisfied by the second equation, which converts from $\left[\mathbf{x}\
 ![[meta/images/Pasted image 20250228145154.png]]
 
 # #6
+Let the following be bases for $V$
+$\mathcal{D} = \left\{ d_{1},d_{2},d_{3} \right\}$
+$\mathcal{F} = \left\{ f_{1},f_{2},f_{3} \right\}$
+Find $A$ for $\mathcal{F}$ to $\mathcal{D}$ given:
+$f_{1}=2d_{1}-d_{2}+d_{3}$
+$f_{2} = 3d_{2}+d_{3}$
+$f_{3}=-3d_{1}+2d_{3}$
+
 
 
 # #10
