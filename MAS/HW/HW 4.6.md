@@ -168,6 +168,27 @@ $$
 \end{bmatrix}
 $$
 
+$$
+{P \atop\text{B to C}} =\begin{bmatrix}
+8 & 3 \\
+-5 & -2
+\end{bmatrix}
+$$
+$$
+{P^{-1} \atop\text{B to C}} = {P \atop\text{C to B}}=\frac{1}{-16+15}
+\begin{bmatrix}
+-2 & -5 \\
+3 & 8
+\end{bmatrix}
+$$
+$$
+=
+
+\begin{bmatrix}
+2 & 5 \\
+3 & 8
+\end{bmatrix}
+$$
 
 # #16
 

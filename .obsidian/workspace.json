@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 4.6.md",
-                "mode": "preview",
+                "file": "MAS/HW/HW 4.4.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW 4.6"
+              "title": "HW 4.4"
             }
           }
         ]
@@ -241,11 +241,13 @@
   "active": "d11aae6506b2095f",
   "lastOpenFiles": [
     "MAS/HW/HW 4.4.md",
-    "MAS/HW/HW 4.5.md",
     "MAS/HW/HW 4.6.md",
+    "meta/images/Pasted image 20250228121510.png",
+    "MAS/HW/HW 4.3.md",
+    "MAS/NOTES/inverse 2x2 matrix.md",
+    "MAS/HW/HW 4.5.md",
     "meta/images/Pasted image 20250228151216.png",
     "meta/images/Pasted image 20250228145154.png",
-    "meta/images/Pasted image 20250228121510.png",
     "meta/images/Screenshot from 2025-02-25 14-08-22.png",
     "meta/images/Pasted image 20250227134753.png",
     "meta/images/Pasted image 20250225165013.png",
@@ -259,7 +261,6 @@
     "MAS/Vocab",
     "MAS/NOTES/NOTES 4.4.md",
     "MAS/NOTES/4.6 notes.md",
-    "MAS/HW/HW 4.3.md",
     "MAS/HW/HW4.3.md",
     "4.6 notes.md",
     "meta/images/Pasted image 20250225153815.png",
