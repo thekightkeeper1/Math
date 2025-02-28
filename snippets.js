@@ -36,15 +36,7 @@
 	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
 	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
 	{trigger: "\\dot{v}s", replacement: "\\vdots", options: "mA"},
-	{trigger: "([a-z])base", replacement: "\\left[\\,\\mathbf{[[0]]}\\,\\right]_{\\mathcal{B}}", options: "rmA"},
-
-	
-
-
-
-
-
-
+	{trigger: "([a-z])base([A-Z])", replacement: "\\left[\\,\\mathbf{[[0]]}\\,\\right]_{\\mathcal{[[0]]}}", options: "rmA"},
 
 
 	// Texting for math
@@ -206,8 +198,11 @@
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
-	{trigger: "bcal", replacement: "\\mathcal{B}", options: "mA"},
-	{trigger: "bcal", replacement: "$\\mathcal{B}$", options: "tA"},
+	{trigger: "[A-Z]cal", replacement: "\\mathcal{[[0]]}", options: "rmA"},
+	{trigger: "[A-Z]cal", replacement: "$\\mathcal{[[0]]}$", options: "rtA"},
+	{trigger: "bcal", replacement: "\\mathcal{B}", options: "tA"},
+	{trigger: "bcal", replacement: "$\\mathcal{B}$", options: "mA"},
+
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
