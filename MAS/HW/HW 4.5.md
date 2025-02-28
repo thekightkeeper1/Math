@@ -93,6 +93,16 @@ $$
 1 & 3 & -4 & 2 & -1 & 6 \\
 0 & 0 & 1 & -3 & 7 & 0  \\
 0 & 0 & 0 & 1 & 4 & -3 \\
-
+0 & 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+

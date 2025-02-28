@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02bf228461d48776",
+        "id": "fab5d62970682062",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "991cf9cfc4ae89db",
+            "id": "1f01a0b489ed52a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,19 +24,18 @@
         ]
       },
       {
-        "id": "fab5d62970682062",
+        "id": "711e740f0e794b85",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "1f01a0b489ed52a9",
+            "id": "ee939004b1f8a824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MAS/HW/HW 4.5.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "HW 4.5"
@@ -96,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,9 +191,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "31e8d8176e980b56",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,12 +224,24 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "991cf9cfc4ae89db",
+  "active": "ee939004b1f8a824",
   "lastOpenFiles": [
+    "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
+    "meta/images/Ink/Drawing",
+    "meta/images/Ink",
+    "Vault.md",
+    "MAS/HW/HW 4.5.md",
+    "meta/images/Pasted image 20250227132451.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Tags",
+    "meta/images/Pasted image 20250227131922.png",
+    "meta/images/Pasted image 20250227131840.png",
+    "meta/images/Pasted image 20250225161126.png",
+    "meta/images/Pasted image 20250225160429.png",
     "meta/images/Pasted image 20250227193911.png",
     "meta/images/Pasted image 20250227193155.png",
     "MAS/HW/HW 4.3.md",
-    "MAS/HW/HW 4.5.md",
     "MAS/NOTES/NOTES 4.4.md",
     "MAS/HW/HW 4.4.md",
     "$/mathbb{P}_2$.md",
@@ -230,27 +251,18 @@
     "meta/images/Pasted image 20250227140548.png",
     "meta/images/Pasted image 20250227134753.png",
     "snippets.js~",
-    "meta/images/Pasted image 20250227132451.png",
-    "Vocab",
-    "meta/images/Pasted image 20250227131924.png",
-    "meta/images/Pasted image 20250227131922.png",
-    "meta/images/Pasted image 20250227131921.png",
-    "meta/images/Pasted image 20250227131840.png",
-    "meta/images/Pasted image 20250227131836.png",
+    "MAS/Vocab",
     "MAS/NOTES/4.6 notes.md",
     "MAS/HW/4.3.md",
     "MAS/HW/HW 4.2.md",
     "MAS/NOTES/4.2.md",
     "MAS/NOTES",
     "MAS/HW",
-    "Vocab/RREF.md",
+    "MAS/Vocab/RREF.md",
     "meta/images",
     "meta",
     "MAS/HW/HW 1.2.md",
     "Welcome.md",
-    "snippets.js",
-    "snippets.json",
-    "Untitled Document",
     "latex-snippets.md"
   ]
 }
