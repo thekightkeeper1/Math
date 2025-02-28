@@ -79,9 +79,41 @@ $f_{1}=2d_{1}-d_{2}+d_{3}$
 $f_{2} = 3d_{2}+d_{3}$
 $f_{3}=-3d_{1}+2d_{3}$
 
+$$
+A_{\mathcal{F}\to \mathcal{D}}=\begin{bmatrix}
+2 & 0 & -3 \\
+-1 & 3 & 0 \\
+1 & 1 & 2
+\end{bmatrix}
+$$
+
+Next, find $\left[\mathbf{x}\right]_{\mathcal{D}}$ given $x=f_{1}-2f_{2}+2f_{3}$
+$$
+\left[\mathbf{x}\right]_{\mathcal{D}}=Ax=\begin{bmatrix}2 & 0 & -3 \\
+-1 & 3 & 0 \\
+1 & 1 & 2
+\end{bmatrix} \begin{bmatrix}
+1 \\
+-2 \\
+2
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+2-6 \\
+-1-6 \\
+1-2+4
+\end{bmatrix} = \begin{bmatrix}
+-4 \\
+-7 \\
+3
+\end{bmatrix}
+$$
 
 
 # #10
+
+
 
 # #16
 
