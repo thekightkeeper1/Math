@@ -186,10 +186,38 @@ $$
 
 \begin{bmatrix}
 2 & 5 \\
-3 & 8
+-3 & -8
 \end{bmatrix}
 $$
 
 # #16
+![[meta/images/Pasted image 20250228155419.png]]
 
+Find ${P \atop \mathcal{B} \text{ to standard} }$ for $\mathcal{B}$ = $\left\{ 1-3t^2 ,2+t-5t^{2},1+2t\right\}$
+The matrix for $\mathcal{B}$ is:
+$$
+\begin{bmatrix}
+1 & 2 & 1 \\
+0 & 1 & 2 \\
+-3 & 5 & 0
+\end{bmatrix}
+$$
+This tells us how to represent any vector using $\vec{e}_1, \dots , \vec{e_3}$ as its basis to the basis $\mathcal{B}$.
+Its inverse must do the opposite. 
 
+$$
+\begin{bmatrix}
+1 & 2 & 1 & | & 1 & 0 & 0 \\
+0 & 1 & 2  & | & 0 & 1 & 0\\
+-3 & 5 & 0 & | & 0 & 0 & 1
+\end{bmatrix}
+$$
+$$
+\sim 
+\begin{bmatrix}
+1 & 2 & 1 & | & 1 & 0 & 0 \\
+0 & 1 & 2  & | & 0 & 1 & 0 \\
+0 & 11 & 3 & | & 3 & 0 & 1
+\end{bmatrix}
+
+$$
