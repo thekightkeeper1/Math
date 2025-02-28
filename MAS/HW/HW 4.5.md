@@ -89,7 +89,7 @@ There is a pivot in row 1, and with $r_{3}$-=$\frac{1}{2}r_{2}$ I would have a p
 - $\text{Col A}$
 
 $$
-\begin{bmatrix}
+A=\begin{bmatrix}
 1 & 3 & -4 & 2 & -1 & 6 \\
 0 & 0 & 1 & -3 & 7 & 0  \\
 0 & 0 & 0 & 1 & 4 & -3 \\
@@ -97,12 +97,4 @@ $$
 \end{bmatrix}
 $$
 
-```handdrawn-ink
-{
-	"versionAtEmbed": "0.3.4",
-	"filepath": "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
-	"width": 500,
-	"aspectRatio": 1
-}
-```
-
+It is in EF alread
