@@ -59,6 +59,40 @@ $${\textbf{6.}}\left\{{\left[\begin{array}{l}{3a+6b-c}\\ {6a-2b-2c}\\ {-9a+5b+3c
 
 
 # #10
-**Find the **
+**Find the dimension of the follwing span**
+$$
+\text{Span}\left\{
+\,\,\left[\begin{array}{c}{{1}}\\ {{-2}}\\ {{0}}\end{array}\right],\,\left[\begin{array}{c}{{-3}}\\ {{4}}\\ {{1}}\end{array}\right],\,\left[\begin{array}{c}{{-8}}\\ {{6}}\\ {{5}}\end{array}\right],\,\left[\begin{array}{c}{{-3}}\\ {{0}}\\ {{7}}\end{array}\right]
+\right\}
+$$
+Lets row reduce to find the number of pivots, since that tells us the dimension
+$$
+\begin{bmatrix}
+1 & -3 & -8 & -3 \\
+-2 & 4 & 5 & 0 \\
+0 & 1 & 5 & 7
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & -3 & -8 & -3 \\
+0 & -2 & -11 & -6 \\
+0 & 1 & 5 & 7
+\end{bmatrix}
+$$ 
+There is a pivot in row 1, and with $r_{3}$-=$\frac{1}{2}r_{2}$ I would have a pivot in row 2 and row 3.  Thats 3 total pivots and so ==the span is 3 dimensional==.
 
 # #12
+**Determine the dimension of:**
+- $\text{Nul A}$
+- $\text{Row A}$
+- $\text{Col A}$
+
+$$
+\begin{bmatrix}
+1 & 3 & -4 & 2 & -1 & 6 \\
+0 & 0 & 1 & -3 & 7 & 0  \\
+0 & 0 & 0 & 1 & 4 & -3 \\
+
+\end{bmatrix}
+$$
