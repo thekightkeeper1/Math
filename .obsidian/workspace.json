@@ -227,6 +227,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "latex-ocr:LatexOCR": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

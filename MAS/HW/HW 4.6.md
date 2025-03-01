@@ -193,7 +193,7 @@ $$
 # #16
 ![[meta/images/Pasted image 20250228155419.png]]
 
-Find ${P \atop \mathcal{B} \text{ to standard} }$ for $\mathcal{B}$ = $\left\{ 1-3t^2 ,2+t-5t^{2},1+2t\right\}$
+## a) Find ${P \atop \mathcal{B} \text{ to standard} }$ for $\mathcal{B}$ = $\left\{ 1-3t^2 ,2+t-5t^{2},1+2t\right\}$
 The matrix for $\mathcal{B}$ is:
 $$
 \begin{bmatrix}
@@ -244,4 +244,45 @@ $$
 0 & 0 & 1 & | & 3 & -1 & 1
 \end{bmatrix}
 $$
-So our 
+
+## b) write $\vec{u}=t^{2}$ in the form $\left[\mathbf{u}\right]_{\mathcal{B}}$ 
+Here again is our matrix for $\mathcal{B}$
+$$
+\begin{bmatrix}
+1 & 2 & 1 \\
+0 & 1 & 2 \\
+-3 & 5 & 0
+\end{bmatrix}
+$$
+And the vector we want to solve for is: 
+$$
+\vec{u} = \begin{bmatrix}
+0 \\
+0 \\
+1
+\end{bmatrix}
+$$
+
+$$
+\begin{bmatrix}
+1 & 2 & 1 &  | &  0\\
+0 & 1 & 2   & | &  0\\
+-3 & 5 & 0 & | & 1
+\end{bmatrix}
+$$
+Above is the matrix i would have to solve to find out the answer. However, I can atually already see that $\vec{e}_{3}=\vec{u}$. So the last column of  the matrix from part a) is the exact answer I want:
+$$
+\left[\,\mathbf{e}_3\,\right]_{\mathcal{B}}=\begin{bmatrix}
+3 \\
+-2 \\
+10
+\end{bmatrix}
+$$
+$$
+\implies \vec{u} = 3b_{1}-2b_{2}+b_{3}
+=3\begin{bmatrix}
+1 \\
+0 \\
+-3
+\end{bmatrix}
+$$
