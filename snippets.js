@@ -373,5 +373,7 @@
 		output = `\\begin{pmatrix}\n${output}\n\\end{pmatrix}`;
 		return output;
 	}, options: "mA", description: "N x N identity matrix"},
+	{trigger: "tayl", replacement: "", options: "mA"},
+
 ]
 

@@ -59,7 +59,7 @@ $${\textbf{6.}}\left\{{\left[\begin{array}{l}{3a+6b-c}\\ {6a-2b-2c}\\ {-9a+5b+3c
 
 
 # #10
-**Find the dimension of the follwing span**
+**Find the dimension of the following span**
 $$
 \text{Span}\left\{
 \,\,\left[\begin{array}{c}{{1}}\\ {{-2}}\\ {{0}}\end{array}\right],\,\left[\begin{array}{c}{{-3}}\\ {{4}}\\ {{1}}\end{array}\right],\,\left[\begin{array}{c}{{-8}}\\ {{6}}\\ {{5}}\end{array}\right],\,\left[\begin{array}{c}{{-3}}\\ {{0}}\\ {{7}}\end{array}\right]
@@ -104,5 +104,5 @@ rank($A$) + nullity($A$) = $n$
 Where n is the number of columns.
 $3 + x = 6\implies x=3$
 - $\text{nullity}(A) = 3$
-- $\text{dim}(\text{Row A})$
-- $\text{dim}(\text{Col A})$
+- $\text{dim}(\text{Row A}) = 3$
+- $\text{dim}(\text{Col A}) = 3$
