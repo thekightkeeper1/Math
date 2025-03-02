@@ -21,7 +21,7 @@
 	},
 	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
 
-	{trigger: "\\mathbb{R}([a-zA-Z0-9])", replacement: "mathbb{R}^[[0]]", options: "rmA"},
+	{trigger: "bb{R}([a-zA-Z0-9])", replacement: "bb{R}^[[0]]", options: "rmA"},
 	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
 	{trigger: "Nul ([a-zA-Z])", replacement: "\\text{Nul [[0]]}$0", options: "rmA"},
 	{trigger: "[cC]ol ([a-zA-Z])", replacement: "$\\text{Col [[0]]}$$0", options: "rtA"},
@@ -36,15 +36,9 @@
 	{trigger: "+=", replacement: "\\mathrel{+}=", options: "mA"},
 	{trigger: "*=", replacement: "\\mathrel{*}=", options: "mA"},
 	{trigger: "\\dot{v}s", replacement: "\\vdots", options: "mA"},
-	{trigger: "([a-z])base", replacement: "\\left[\\,\\mathbf{[[0]]}\\,\\right]_{\\mathcal{B}}", options: "rmA"},
-
-	
-
-
-
-
-
-
+	{trigger: "([a-z])base([A-Z])", replacement: "\\left[\\mathbf{[[0]]}\\right]_{\\mathcal{[[1]]}}", options: "rmA"},
+	{trigger: /\\left\[\\mathbf{(\w)}\\right\]_{\\mathcal{(\w)}}(\d)/,
+		replacement: "\\left[\\,\\mathbf{[[0]]}_[[2]]\\,\\right]_{\\mathcal{[[1]]}}", options: "rmA"},
 
 
 	// Texting for math
@@ -206,8 +200,11 @@
 	{trigger: "e\\xi sts", replacement: "\\exists", options: "mA", priority: 1},
 
 	{trigger: "LL", replacement: "\\mathcal{L}", options: "mA"},
-	{trigger: "bcal", replacement: "\\mathcal{B}", options: "mA"},
-	{trigger: "bcal", replacement: "$\\mathcal{B}$", options: "tA"},
+	{trigger: "([A-Z])cal", replacement: "\\mathcal{[[0]]}", options: "rmA"},
+	{trigger: "([A-Z])cal", replacement: "$\\mathcal{[[0]]}$", options: "rtA"},
+	{trigger: "bcal", replacement: "\\mathcal{B}", options: "tA"},
+	{trigger: "bcal", replacement: "$\\mathcal{B}$", options: "mA"},
+
 	{trigger: "HH", replacement: "\\mathcal{H}", options: "mA"},
 	{trigger: "CC", replacement: "\\mathbb{C}", options: "mA"},
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
