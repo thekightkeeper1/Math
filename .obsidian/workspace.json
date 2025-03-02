@@ -47,7 +47,7 @@
               "state": {
                 "file": "2025-03-02.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-03-02"
@@ -226,10 +226,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8658bab8b2a30a23",
+  "active": "3240568129596714",
   "lastOpenFiles": [
-    "2025-03-02.md",
     "meta/images/Pasted image 20250228145154.png",
+    "2025-03-02.md",
     "2025-03-01.md",
     "meta/images/Pasted image 20250228151216.png",
     "meta/images/Pasted image 20250228155419.png",
