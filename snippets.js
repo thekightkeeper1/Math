@@ -22,7 +22,7 @@
 	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
 
 	{trigger: "bb{R}([a-zA-Z0-9])", replacement: "bb{R}^[[0]]", options: "rmA"},
-	// {trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
+	{trigger: "[nN]ul ([a-zA-Z])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
 	{trigger: "Nul ([a-zA-Z])", replacement: "\\text{Nul [[0]]}$0", options: "rmA"},
 	{trigger: "[cC]ol([a-zA-Z])", replacement: "$\\text{Col [[0]]}$", options: "rtA"},
 	{trigger: "[cC]ol([a-zA-Z])", replacement: "\\text{Col [[0]]}", options: "rmA"},
