@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-02.md",
-                "mode": "preview",
+                "file": "2025-03-03.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-02"
+              "title": "2025-03-03"
             }
           }
         ],
@@ -228,8 +228,9 @@
   },
   "active": "3240568129596714",
   "lastOpenFiles": [
-    "meta/images/Pasted image 20250228145154.png",
     "2025-03-02.md",
+    "2025-03-03.md",
+    "meta/images/Pasted image 20250228145154.png",
     "2025-03-01.md",
     "meta/images/Pasted image 20250228151216.png",
     "meta/images/Pasted image 20250228155419.png",
