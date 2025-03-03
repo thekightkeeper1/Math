@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-03.md",
+                "file": "MAS/test_or_quizzes/Quiz 3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-03"
+              "title": "Quiz 3"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-03.md",
+                "file": "daily-notes/2025-03-03.md",
                 "mode": "preview",
                 "source": true
               },
@@ -230,12 +230,16 @@
   },
   "active": "0172b2ab76e36c41",
   "lastOpenFiles": [
+    "daily-notes/2025-03-01.md",
+    "MAS/test_or_quizzes/Quiz 3.md",
+    "MAS/test_or_quizzes",
+    "MAS/test_or_quizzes/Exam 2 review.md",
+    "daily-notes",
+    "daily-notes/2025-03-03.md",
     "snippets.js~",
     "MAS/HW/HW 4.6.md",
-    "2025-03-03.md",
-    "2025-03-02.md",
+    "daily-notes/2025-03-02.md",
     "meta/images/Pasted image 20250228145154.png",
-    "2025-03-01.md",
     "meta/images/Pasted image 20250228151216.png",
     "meta/images/Pasted image 20250228155419.png",
     "meta/images/Screenshot from 2025-02-25 14-08-22.png",
@@ -268,8 +272,6 @@
     "MAS/4.2.md",
     "Welcome.md",
     "snippets.js",
-    "snippets.json",
-    "Untitled Document",
     "latex-snippets.md"
   ]
 }
