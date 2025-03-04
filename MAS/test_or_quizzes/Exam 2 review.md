@@ -4,18 +4,20 @@
 	- negative
 - If E const row multiplication then:
 	- $\det A = \frac{1}{c}\det EA$
-- If $E$ is $r_{n}\mathrel{+}=cr_{m}$
-	- Then $\det A = c\det EA$
+- If $E$ adds $cr_{n}$ to another row,
+	- Then $\det A = \det EA$
 
 # Nul, Col, row
-if $A \sim B$ then $\text{Col A} = \text{Col B}$
+if $A \sim B$ 
+then $\text{Col A} = \text{Col B}$
+Aka, row operations dont affect the vector space
 
 # Dimension of a vector space
 The # basis vectors $= \dim V$
 $\dim \text{Col A} = \dim \text{Row A} = n$
  Sometimes you will see $\text{Col A}$ written as $\text{Range } A$
 $n$ is the rank.
-$\#\text{columns} -n =\text{Nullity} A$
+$\text{columns} -n =\text{Nullity} A$
 Where $\text{Nullity}$ is the number of basis vectors in $\text{Nul A}$
 
 # Change of basis

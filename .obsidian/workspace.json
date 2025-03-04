@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "MAS/test_or_quizzes/Exam 2 review.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -223,7 +223,7 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "ee939004b1f8a824",
+  "active": "f8abb0c108021160",
   "lastOpenFiles": [
     "MAS/HW/HW 4.5.md",
     "MAS/test_or_quizzes/Exam 2 review.md",
