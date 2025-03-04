@@ -1,8 +1,9 @@
 # Determinant and row operations
-- if E $r_{n} \leftrightarrow r_{m}$ then
+- if E swaps rows then
 	- |A| = -|EA|
-- If E $Cr_{n}$ then:
-	- $\det A = c\det EA$
+	- negative
+- If E const row multiplication then:
+	- $\det A = \frac{1}{c}\det EA$
 - If $E$ is $r_{n}\mathrel{+}=cr_{m}$
 	- Then $\det A = c\det EA$
 
@@ -53,7 +54,8 @@ Find a basis of $\text{Nul A}$,  $\text{Col A}$ and $\text{Row A}$
 
 
 ## Solution:
-
+### Null space:
+To get null space, we need to find the free variables and write the $\vec{x}$ in terms of $x_{n}\vec{v}_{n}$
 
 $$
 B \sim \begin{bmatrix}
@@ -71,25 +73,9 @@ $$
 0 & 0 & 0 & 0 & 1 \\
 0 & 0 & 0 & 0 & 0  \\
 \end{bmatrix}
-{r_{1}\mathrel{+}=8r_{3} \atop }
+{r_{2}\mathrel{+}=-8r_{3} \atop r_{1} \mathrel{+}= -3r_{3}}
 $$
-$$
-\sim  
-\begin{bmatrix}
-1 & 2 & 0 & 4 & 0 \\
-0 & 0 & 5 & -7 & 0 \\
-0 & 0 & 0 & 0 & 1 \\
-0 & 0 & 0 & 0 & 0  \\
-\end{bmatrix}
-$$
-$$
-\sim \begin{bmatrix}
-1 & 2 & 0 & 4 & 0 \\
-0 & 0 & 1 & -\frac{7}{5} & 0 \\
-0 & 0 & 0 & 0 & 1 \\
-0 & 0 & 0 & 0 & 0  \\
-\end{bmatrix}
-$$
+
 
 Assuming $B\vec{x} = 0$ we get:
 $$
@@ -118,10 +104,20 @@ $$
 And the span of the 2 vectors on the right are the null space
 Notice that we just don't use $x_{5}$ at all. It must always be 0.
 
+### Row, Col spaces
 B has $1, 3, 5$ as pivot columns.
 $$
 \text{Col A} = \text{Span}\left\{
 \vec{a}_{1},\vec{a}_{3},\vec{a}_{5}
+\right\}
+$$
+The row space has the same dimension as the columns space, according the that rank theorm. Its just that instead of looking at what columns have pivots, we look at what rows have pivots. That would be:
+$$
+r_{1},r_{2},r_{3}
+$$
+$$
+\implies \text{Row A} = \text{Span}\left\{
+\vec{r}_{1},\vec{r}_{2},\vec{r}_{3}
 \right\}
 $$
 
