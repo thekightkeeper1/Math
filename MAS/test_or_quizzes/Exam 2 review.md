@@ -53,15 +53,28 @@ Find a basis of $\text{Nul A}$,  $\text{Col A}$ and $\text{Row A}$
 
 
 ## Solution:
-B has $1, 3, 5$ as pivot clmns.
-$$
-\text{Col A} = \text{Span}\left\{
-\vec{a}_{1},\vec{a}_{3},\vec{a}_{5}
-\right\}
-$$
+
 
 $$
-B \sim 
+B \sim \begin{bmatrix}
+1 & 2 & 0 & 4 & 3 \\
+0 & 0 & 5 & -7 & 8 \\
+0 & 0 & 0 & 0 & -9 \\
+0 & 0 & 0 & 0 & 0  \\
+\end{bmatrix}
+r_{3}\mathrel{*}=-\frac{1}{9}
+$$
+$$
+ \sim \begin{bmatrix}
+1 & 2 & 0 & 4 & 0 \\
+0 & 0 & 5 & -7 & 0 \\
+0 & 0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0 & 0  \\
+\end{bmatrix}
+{r_{1}\mathrel{+}=8r_{3} \atop }
+$$
+$$
+\sim  
 \begin{bmatrix}
 1 & 2 & 0 & 4 & 0 \\
 0 & 0 & 5 & -7 & 0 \\
@@ -102,6 +115,14 @@ x_{4} \\
 \end{bmatrix}
 $$
 
+And the span of the 2 vectors on the right are the null space
 Notice that we just don't use $x_{5}$ at all. It must always be 0.
+
+B has $1, 3, 5$ as pivot columns.
+$$
+\text{Col A} = \text{Span}\left\{
+\vec{a}_{1},\vec{a}_{3},\vec{a}_{5}
+\right\}
+$$
 
 
