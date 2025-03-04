@@ -22,14 +22,43 @@ Where $\text{Nullity}$ is the number of basis vectors in $\text{Nul A}$
 
 # Change of basis
 Given $\left\{ \vec{b}_1, \dots , \vec{b_n} \right\} \land \left\{ \vec{c}_1, \dots , \vec{c_n} \right\}$ are basis for $V$.
-$\left[\mathbf{x}\right]_{\mathcal{B}} ={P \atop B <- C} \left[\mathbf{x}\right]_{\mathcal{C}}$
+$\left[\mathbf{x}\right]_{\mathcal{B}} ={P \atop B \leftarrow C} \left[\mathbf{x}\right]_{\mathcal{C}}$
 Where $P = \left[ \left[\,\mathbf{b}_1\,\right]_{\mathcal{C}},\dots \left[\,\mathbf{b}_2\,\right]_{\mathcal{C}} \right]$
 
  
 e.g
 $\vec{b}_{1} = -\vec{c}_{1}+4\vec{c}_{2}, \vec{b}_{2} = 5\vec{c}_{1}-3\vec{c}_{2}$
-a) Find ${P \atop \mathcal{B} <- \mathcal{C}}$ 
+a) Find ${P \atop \mathcal{C} <- \mathcal{B}}$ 
 b) find $\left[\mathbf{x}\right]_{\mathcal{C}}$ for $\vec{x} = 5\vec{b}_{1} + 3\vec{b}_{2}$
+
+## Solution
+$$
+{P \atop \mathcal{C} \leftarrow \mathcal{B}} = [\vec{b}_{1}, \vec{b}_{2}] = \begin{bmatrix}
+-1 & 5 \\
+4 & -3
+\end{bmatrix}
+$$
+$$
+\left[\mathbf{x}\right]_{\mathcal{C}} = P\vec{x} = \begin{bmatrix}
+-1 & 5 \\
+4 & -3
+\end{bmatrix}
+\begin{bmatrix}
+5 \\
+3
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+-5+15 \\
+20-9
+\end{bmatrix}
+=
+\begin{bmatrix}
+10 \\
+11
+\end{bmatrix}
+$$ 
 
 # Q 14
 $$
