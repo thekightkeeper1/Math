@@ -46,6 +46,7 @@ B=
 0 & 0 & 0 & 0 & -9 \\
 0 & 0 & 0 & 0 & 0  \\
 \end{bmatrix}
+
 $$
 Give $A \sim B$
 Find a basis of $\text{Nul A}$,  $\text{Col A}$ and $\text{Row A}$

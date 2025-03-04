@@ -27,51 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-03-03.md",
+                "file": "MAS/test_or_quizzes/Exam 2 review.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-03"
+              "title": "Exam 2 review"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7b32949413b22a4d",
+        "id": "7a51c06bd378239d",
         "type": "tabs",
         "children": [
           {
-            "id": "be1173acceb2f3fe",
+            "id": "fb939a3ade6efe53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/test_or_quizzes/Quiz 3.md",
+                "file": "MAS/test_or_quizzes/Exam 2 review.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Quiz 3"
-            }
-          },
-          {
-            "id": "1f08ee5f2f39a381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2025-03-03.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-03"
+              "title": "Exam 2 review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +219,6 @@
       "latex-ocr:LatexOCR": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -243,14 +227,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f08ee5f2f39a381",
+  "active": "fb939a3ade6efe53",
   "lastOpenFiles": [
+    "MAS/HW/HW 1.2.md",
+    "MAS/test_or_quizzes/Exam 2 review.md",
+    "MAS/HW/HW 4.3.md",
+    "daily-notes/2025-03-03.md",
     "MAS/test_or_quizzes/Quiz 3.md",
     "daily-notes/2025-03-01.md",
     "MAS/test_or_quizzes",
-    "MAS/test_or_quizzes/Exam 2 review.md",
     "daily-notes",
-    "daily-notes/2025-03-03.md",
     "snippets.js~",
     "MAS/HW/HW 4.6.md",
     "daily-notes/2025-03-02.md",
@@ -262,7 +248,6 @@
     "meta/images/Pasted image 20250225165013.png",
     "meta/images/Pasted image 20250227134753.png",
     "MAS/HW/HW 4.4.md",
-    "MAS/HW/HW 4.3.md",
     "MAS/NOTES/inverse 2x2 matrix.md",
     "MAS/HW/HW 4.5.md",
     "conflict-files-obsidian-git.md",
