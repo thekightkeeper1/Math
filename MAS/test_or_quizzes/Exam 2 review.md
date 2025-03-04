@@ -1,0 +1,107 @@
+# Determinant and row operations
+- if E $r_{n} \leftrightarrow r_{m}$ then
+	- |A| = -|EA|
+- If E $Cr_{n}$ then:
+	- $\det A = c\det EA$
+- If $E$ is $r_{n}\mathrel{+}=cr_{m}$
+	- Then $\det A = c\det EA$
+
+# Nul, Col, row
+if $A \sim B$ then $\text{Col A} = \text{Col B}$
+
+# Dimension of a vector space
+The # basis vectors $= \dim V$
+$\dim \text{Col A} = \dim \text{Row A} = n$
+ Sometimes you will see $\text{Col A}$ written as $\text{Range } A$
+$n$ is the rank.
+$\#\text{columns} -n =\text{Nullity} A$
+Where $\text{Nullity}$ is the number of basis vectors in $\text{Nul A}$
+
+# Change of basis
+Given $\left\{ \vec{b}_1, \dots , \vec{b_n} \right\} \land \left\{ \vec{c}_1, \dots , \vec{c_n} \right\}$ are basis for $V$.
+$\left[\mathbf{x}\right]_{\mathcal{B}} ={P \atop B <- C} \left[\mathbf{x}\right]_{\mathcal{C}}$
+Where $P = \left[ \left[\,\mathbf{b}_1\,\right]_{\mathcal{C}},\dots \left[\,\mathbf{b}_2\,\right]_{\mathcal{C}} \right]$
+
+ 
+e.g
+$\vec{b}_{1} = -\vec{c}_{1}+4\vec{c}_{2}, \vec{b}_{2} = 5\vec{c}_{1}-3\vec{c}_{2}$
+a) Find ${P \atop \mathcal{B} <- \mathcal{C}}$ 
+b) find $\left[\mathbf{x}\right]_{\mathcal{C}}$ for $\vec{x} = 5\vec{b}_{1} + 3\vec{b}_{2}$
+
+# Q 14
+$$
+A = \begin{bmatrix}
+1 & 2 & -5 & 11 & -3 \\
+2 & 4 & -5 & 15 & 2  \\
+ 1 & 2 & 0 & 4 & 5 \\
+3 & 6 & -5 & 19 & -2
+\end{bmatrix}
+$$
+
+$$
+B=
+\begin{bmatrix}
+1 & 2 & 0 & 4 & 3 \\
+0 & 0 & 5 & -7 & 8 \\
+0 & 0 & 0 & 0 & -9 \\
+0 & 0 & 0 & 0 & 0  \\
+\end{bmatrix}
+
+$$
+Give $A \sim B$
+Find a basis of $\text{Nul A}$,  $\text{Col A}$ and $\text{Row A}$
+
+
+## Solution:
+B has $1, 3, 5$ as pivot clmns.
+$$
+\text{Col A} = \text{Span}\left\{
+\vec{a}_{1},\vec{a}_{3},\vec{a}_{5}
+\right\}
+$$
+
+$$
+B \sim 
+\begin{bmatrix}
+1 & 2 & 0 & 4 & 0 \\
+0 & 0 & 5 & -7 & 0 \\
+0 & 0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0 & 0  \\
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 2 & 0 & 4 & 0 \\
+0 & 0 & 1 & -\frac{7}{5} & 0 \\
+0 & 0 & 0 & 0 & 1 \\
+0 & 0 & 0 & 0 & 0  \\
+\end{bmatrix}
+$$
+
+Assuming $B\vec{x} = 0$ we get:
+$$
+\vec{x}= \begin{bmatrix}
+-2x_{2}-4x_{4} \\ 
+x_{2} \\
+\frac{7}{5}x_{4} \\
+x_{4} \\
+0
+\end{bmatrix}
+=x_{2}\begin{bmatrix}
+-2 \\
+1 \\
+0 \\
+0 \\
+0
+\end{bmatrix} + x_{4}\begin{bmatrix}
+-4 \\
+0 \\
+\frac{7}{5} \\
+1 \\
+0
+\end{bmatrix}
+$$
+
+Notice that we just don't use $x_{5}$ at all. It must always be 0.
+
+
