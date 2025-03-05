@@ -56,5 +56,4 @@ $\det B$ is now $k$ times whatever $\det A$ was.
 So lets say that $\det A = 2$. This means that $\det B = 2k$.
 If we wanted to get the determinant of the original matrix, matrix $A$, then we would have to multiply $\det B$ by $\frac{1}{k}$ .
 
-
-#
+# 3.3 pg
