@@ -170,8 +170,11 @@ $$W=\left\{{\left[\begin{array}{l}{x}\\ {y}\end{array}\right]}:x y\geq0\right\}$
 left=-2; right=2;
 bottom=-2; top=2;
 height=300; width=300;
+degreeMode=degrees;
 ---
 x^2+y^2<=1
+[[]]
+(0,0),(\cos45,\sin45)
 ```
 
 Is this a sub-space of $\mathbb{R}^2$?
@@ -184,6 +187,6 @@ bottom=-2; top=2;
 height=300; width=300;
 ---
 x^2+y^2<=1
-([0,\sin(45)],[0,\sin(45)])
+([0,0],[\sin(45),\sin(45)])
 
 ```
