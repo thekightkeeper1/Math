@@ -162,10 +162,14 @@ c+d
 $$
 The final vector is in $V$ because $a,b,c,d$ are $\in\mathbb{R}\text{ and } \geq 0$
 
+b.)
+No.
+Let $c=-1$. $c\vec{v}$ would be in the third quadrant, which is not part of the set.
+ 
 ---
 ## 3.)
 Let $H$ be the set of points inside and on the unit circle
-$$W=\left\{{\left[\begin{array}{l}{x}\\ {y}\end{array}\right]}:x y\geq0\right\}$$
+$$H=\left\{\left[\begin{array}{l}{{x}}\\ {{y}}\end{array}\right]:x^{2}+y^{2}\leq1\right\}.$$
 
 ```desmos-graph
 left=-2; right=2;
@@ -177,7 +181,7 @@ x^2+y^2<=1
 
 ```
 
-Is this a sub-space of $\mathbb{R}^2$?
+Is this a sub-space of $\mathbb{R}^2$?$$\LaTeX \text{ is being generated... } \vphantom{183}$$
 
 **Solution**
 No, because the circle is not a subspace. It fails scalar multiplcation
@@ -239,6 +243,9 @@ $$
 1 & 2 & 4 & | & 3 \\
 0 & 1 & 2 & | & 1 \\
  -1 & -3 & 6 & | & 2
+\end{bmatrix} \sim 
+\begin{bmatrix}
+
 \end{bmatrix}
 $$
 
