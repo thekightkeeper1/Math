@@ -1,4 +1,5 @@
 # 3.1 pg 177
+---
 Calculate $Det A$ using cofactor expansion. If possible, choose a row/column that has the least number of operations to complete.
 
 ## #7
@@ -13,7 +14,7 @@ $$
 $$
 Det A = 4
 $$
-
+---
 ## #9
 $$
 \begin{vmatrix}
@@ -57,3 +58,16 @@ So lets say that $\det A = 2$. This means that $\det B = 2k$.
 If we wanted to get the determinant of the original matrix, matrix $A$, then we would have to multiply $\det B$ by $\frac{1}{k}$ .
 
 # 3.3 pg
+---
+## # 5
+$${\bf5.}\left|\begin{array}{r r r}{{1}}&{{5}}&{{-4}}\\ {{-1}}&{{-4}}&{{5}}\\ {{-2}}&{{-8}}&{{7}}\end{array}\right|$$
+
+### Solution
+$$
+-3
+$$
+
+## # 9
+$${\bf{9.}}\left|{\begin{array}{r r r r}{1}&{-1}&{-3}&{0}\\ {0}&{1}&{5}&{4}\\ {-1}&{0}&{5}&{3}\\ {3}&{-3}&{-2}&{3}\end{array}}\right|$$
+
+### Solution

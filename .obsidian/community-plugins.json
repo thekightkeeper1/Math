@@ -10,5 +10,7 @@
   "latex-ocr",
   "oz-clear-unused-images",
   "ink",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-style-settings",
+  "editing-toolbar"
 ]
