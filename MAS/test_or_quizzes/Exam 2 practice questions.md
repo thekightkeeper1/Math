@@ -338,4 +338,47 @@ You can solve this matrix and get 2 pivots. If im not mistaken $\text{Row A}$ is
 
 ---
 
-1.
+## 1.)
+
+==For questions 1-8 Determine:
+a) which sets are bases
+b) If *not* base, then at least which vectors are linearly indepndent.
+c) which span $\mathbb{R}^3$==
+$$\mathbf{1.}\;{\left[\begin{array}{l}{1}\\ {0}\\ {0}\end{array}\right]},{\left[\begin{array}{l}{1}\\ {1}\\ {0}\end{array}\right]},{\left[\begin{array}{l}{1}\\ {1}\\ {1}\end{array}\right]}$$
+**Solution**
+There is a pivot in every column so it is a base. 
+Since there are no free variables it spans $\mathbb{R}^3$
+
+## 3.)
+$${\bf3.}\,\,\left[{\begin{array}{r}{1}\\ {0}\\ {-2}\end{array}}\right]\!,\,\left[{\begin{array}{r}{3}\\ {2}\\ {-4}\end{array}}\right]\!,\,\left[{\begin{array}{r}{-3}\\ {-5}\\ {1}\end{array}}\right]$$
+
+**Solution**
+Linearly depended, and does not span $\mathbb{R}^3$
+$$
+A \sim 
+\begin{bmatrix}
+1 & 3 & -3 \\
+0 & 2 & -5 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+However $c_{1}$ is linearly independent of $c_{2}$. because they have pivots.
+
+## 5.)
+$${\bf5.}\,\,\left[\begin{array}{c}{{1}}\\ {{-3}}\\ {{0}}\end{array}\right]\!,\,\left[\begin{array}{c}{{-2}}\\ {{9}}\\ {{0}}\end{array}\right]\!,\,\left[\begin{array}{c}{{0}}\\ {{0}}\\ {{0}}\end{array}\right]\!,\,\left[\begin{array}{c}{{0}}\\ {{-3}}\\ {{5}}\end{array}\right]$$
+
+**Solution**
+The $\vec{0}$ is in the set, so it is linearly dependent. However:
+$$
+\begin{bmatrix}
+1 & -2 & 0 & 0 \\
+-3 & 9 & 0 & -3 \\
+0 & 0 & 0 & 5
+\end{bmatrix} \sim \begin{bmatrix}
+1 & -2 & 0 & 0 \\
+0 & 3 & 0 & -3 \\
+0 & 0 & 0 & 5
+\end{bmatrix}
+$$
+This does have 3 pivots, and so it does have exactly enough vectors to span $\mathbb{R}^3$
+
