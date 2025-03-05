@@ -173,20 +173,41 @@ height=300; width=300;
 degreeMode=degrees;
 ---
 x^2+y^2<=1
-[[]]
-(0,0),(\cos45,\sin45)
+
 ```
 
 Is this a sub-space of $\mathbb{R}^2$?
 
 **Solution**
-No. 
+No, because the circle is not a subspace. It fails scalar multiplcation
+$$
+\vec{v}\begin{bmatrix}
+\frac{\sqrt{ 2 }}{2} \\
+\frac{\sqrt{ 2 }}{2}
+\end{bmatrix} \text{The green one.}
+$$
+Multiplying this vector by 2 brings it off of the circle.
 ```desmos-graph
 left=-2; right=2;
 bottom=-2; top=2;
 height=300; width=300;
+degreeMode=degrees;
 ---
 x^2+y^2<=1
-([0,0],[\sin(45),\sin(45)])
-
+y=x \{0<x<2\sin45\}|red
+y=x \{0<x<\sin45\}||label:original
 ```
+
+---
+
+## 11.)
+Show that the set $W$ which is all vectors in the form:
+$$\begin{bmatrix}
+5b+2c \\
+b \\
+c
+\end{bmatrix}
+$$
+Form a subspace of $\mathbb{R}^3$ and find the span.
+
+**Solution**
