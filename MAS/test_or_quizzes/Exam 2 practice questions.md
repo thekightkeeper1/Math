@@ -2,7 +2,7 @@
 ---
 Calculate $Det A$ using cofactor expansion. If possible, choose a row/column that has the least number of operations to complete.
 
-## #7
+## 7.)
 $$
 \begin{bmatrix}
 4 & 3 & 0 \\
@@ -10,12 +10,12 @@ $$
 9 & 7 & 3
 \end{bmatrix}
 $$
-### Solution:
+**Solution**:
 $$
 Det A = 4
 $$
 ---
-## #9
+## 9.)
 $$
 \begin{vmatrix}
 4 & 0 & 0 & 5 \\
@@ -24,7 +24,7 @@ $$
 8 & 3 & 1 & 7
 \end{vmatrix}
 $$
-### Solution:
+**Solution**
 Start with row 3.
 
 ![[meta/images/Pasted image 20250304193336.png|406]]
@@ -41,33 +41,73 @@ $$
 \det A = 15
 $$
 
-## #19
+---
+
+## 19.)
 
 $$19.\ {\Biggl[}{\begin{array}{l l}{a}&{b}\\ {c}&{d}\end{array}}{\Biggr]},{\Biggl[}{\begin{array}{l l}{c}&{d}\\ {a}&{b}\end{array}}{\Biggr]}$$
 
-### Solution
+**Solution**
 It swapped rows. 
 You need to multiply the determinant by $-1$
 
-## #20
+---
+
+## 20.)
 $${\bf20.}\ \left[{\begin{array}{l l}{a}&{\ \ \ b}\\ {c}&{\ \ \ d}\end{array}}\right],\left[{\begin{array}{l l}{a}&{\ \ \ b}\\ {k c}&{\ \ \ k d}\end{array}}\right]$$
 
-### Solution
+Solution
 $\det B$ is now $k$ times whatever $\det A$ was. 
 So lets say that $\det A = 2$. This means that $\det B = 2k$.
 If we wanted to get the determinant of the original matrix, matrix $A$, then we would have to multiply $\det B$ by $\frac{1}{k}$ .
 
-# 3.3 pg
 ---
-## # 5
+# 3.3 pg
+
+## 5.)
 $${\bf5.}\left|\begin{array}{r r r}{{1}}&{{5}}&{{-4}}\\ {{-1}}&{{-4}}&{{5}}\\ {{-2}}&{{-8}}&{{7}}\end{array}\right|$$
 
-### Solution
+**Solution**
 $$
--3
+\det A = -3
 $$
 
-## # 9
+---
+
+## 9.)
 $${\bf{9.}}\left|{\begin{array}{r r r r}{1}&{-1}&{-3}&{0}\\ {0}&{1}&{5}&{4}\\ {-1}&{0}&{5}&{3}\\ {3}&{-3}&{-2}&{3}\end{array}}\right|$$
 
-### Solution
+**Solution**
+$$
+\det A =-28
+$$
+
+---
+**Given the following, solve questions 15-20**
+$$\left|{\begin{array}{l l l}{a}&{b}&{\;\;\;c}\\ {d}&{\;\;e}&{\;\;\;f}\\ {g}&{h}&{\;\;\;i}\end{array}}\right|=7.$$
+(Rember that the verticle bars mean determinant)
+
+---
+## 15.)
+$$
+\begin{vmatrix}
+a & b & c \\
+d & e & f \\
+3g & 3h & 3i
+\end{vmatrix}
+$$
+
+**Solution**
+$$
+\det A = 3\times 7 = 21
+$$
+Ima be honest this rule confuses me. But TIL from a friend that you can kinda just think of it as pulling the 3 outside of the matrix.
+
+---
+## 17.)
+$${\bf17.}\left|\begin{array}{c c c}{{a+d}}&{{\;\ \ b+e}}&{{\;\ c+f}}\\ {{d}}&{{\;\ \ e}}&{{\;\ f}}\\ {{g}}&{{h}}&{{\;\ \ i}}\end{array}\right|$$
+
+**Solution**
+$$
+
+$$
