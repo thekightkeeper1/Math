@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-03-05.md",
+                "file": "MAS/NOTES/inverse 2x2 matrix.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-03-05"
+              "title": "inverse 2x2 matrix"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "latex-ocr:LatexOCR": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -194,11 +195,18 @@
   },
   "active": "54c2e4a7744f4901",
   "lastOpenFiles": [
-    "MAS/test_or_quizzes/Quiz 3.md",
+    "MAS/NOTES/does_not_span_but_is_a_basis.md",
     "daily-notes/2025-03-05.md",
+    "Vault.md",
+    "MAS/NOTES/4.2.md",
+    "2025-03-03.md",
+    "MAS/NOTES/NOTES 4.4.md",
+    "MAS/NOTES/inverse 2x2 matrix.md",
+    "MAS/NOTES/4.6 notes.md",
     "daily-notes/2025-03-01.md",
-    "daily-notes/2025-03-02.md",
     "daily-notes/2025-03-03.md",
+    "MAS/test_or_quizzes/Quiz 3.md",
+    "daily-notes/2025-03-02.md",
     "MAS/test_or_quizzes/Exam 2 review.md",
     "meta/images/Pasted image 20250304224105.png",
     "meta/images/Pasted image 20250304224057.png",
@@ -212,7 +220,6 @@
     "meta/images/Pasted image 20250304193334.png",
     "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing",
     "MAS/test_or_quizzes/Exam 2 practice questions.md",
-    "2025-03-03.md",
     "MAS/HW/HW 1.2.md",
     "MAS/HW/HW 4.3.md",
     "MAS/test_or_quizzes",
@@ -220,25 +227,19 @@
     "snippets.js~",
     "MAS/HW/HW 4.6.md",
     "MAS/HW/HW 4.4.md",
-    "MAS/NOTES/inverse 2x2 matrix.md",
     "MAS/HW/HW 4.5.md",
     "conflict-files-obsidian-git.md",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
     "meta/images/Ink/Drawing",
     "meta/images/Ink",
-    "Vault.md",
     "MAS/Vocab/RREF.md",
     "MAS/Vocab",
-    "MAS/NOTES/NOTES 4.4.md",
-    "MAS/NOTES/4.6 notes.md",
     "MAS/HW/HW4.3.md",
     "4.6 notes.md",
     "RREF.md",
     "MAS/HW 4.2.md",
     "meta/images",
     "meta",
-    "MAS/HW 1.2.md",
-    "MAS/4.2.md",
-    "Welcome.md"
+    "MAS/HW 1.2.md"
   ]
 }
