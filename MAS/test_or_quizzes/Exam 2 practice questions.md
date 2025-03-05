@@ -310,4 +310,32 @@ $$7.\;\;\left\{{\left[\begin{array}{l}{a}\\ {b}\\ {c}\end{array}\right]}\colon a
 Not a vector space. There is a constant in that equation, which means that this set will not contain $(0,0,0)$ 
 
 ## 9.) 
-$${\bf9.}\;\left\{{\left[\begin{array}{l}{{a}}\\ {{b}}\\ {{c}}\\ {{d}}\end{array}\right]};{\begin{array}{l}{{a-2b=4c}}\\ {{2a=c+3d}}\end{array}\right\}}$$
+$${\textbf{9.}}\left\{{\left[\begin{array}{l}{a}\\ {b}\\ {c}\\ {d}\end{array}\right]}\colon{\begin{array}{l}{a-2b=4c}\\ {2a=c+3d}\end{array}}\right\}$$
+
+**Solution**
+Yes it is a set.
+$W$ is the set of solution of the homogenous system:
+$$
+\begin{matrix}
+& a & -2b & -4c & +0  & =0 \\
+&2a & +0  & -c  & -3d & =0
+\end{matrix}
+$$
+If that doesnt make sense. Then just write the system of equations in a matrix
+$$
+\begin{bmatrix}
+1 & -2 & -4  & 0 \\
+2 & 0 & -1 & -3
+\end{bmatrix}
+$$
+You can solve this matrix and get 2 pivots. If im not mistaken $\text{Row A}$ is the same as $W$
+
+
+
+---
+
+# 4.3 pp 228
+
+---
+
+1.
