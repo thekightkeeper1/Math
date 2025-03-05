@@ -104,10 +104,60 @@ $$
 Ima be honest this rule confuses me. But TIL from a friend that you can kinda just think of it as pulling the 3 outside of the matrix.
 
 ---
-## 17.)
-$${\bf17.}\left|\begin{array}{c c c}{{a+d}}&{{\;\ \ b+e}}&{{\;\ c+f}}\\ {{d}}&{{\;\ \ e}}&{{\;\ f}}\\ {{g}}&{{h}}&{{\;\ \ i}}\end{array}\right|$$
+## 19.)
+$${\bf19.}\,\,\left|\begin{array}{c c c}{{a}}&{{b}}&{{c}}\\ {{2d+a}}&{{2e+b}}&{{2f+c}}\\ {{g}}&{{h}}&{{i}}\end{array}\right|$$
 
 **Solution**
 $$
-
+{r_{2}=2r_{2} \atop r_{2}=r_{2}+r_{1}}
 $$
+$$
+\det A = 7*2 = 14
+$$
+
+## Not a question but...
+
+> [!Important] Title
+> If the determinant is non-zero, then the matrix is invertible.
+> If you really want to, then make up a $An\times n$ matrix and test it out. Didnt think it was worth making a question for though
+
+---
+# 4.1
+---
+## 1.)
+Let $V$ be in the first quadrant:
+$$V=\left\{\left[{\begin{array}{l}{x}\\ {y}\end{array}}\right]:x\geq0,y\geq0\right\}$$
+
+a.) is this closed under addition
+b.) is this closed under scalar multiplication
+
+**Solution**
+a.) Yes. 
+$$
+\vec{u}=\begin{bmatrix}
+a \\
+b
+\end{bmatrix}
+,
+\vec{v}=\begin{bmatrix}
+c \\
+d
+\end{bmatrix}
+,
+\vec{u},\vec{v} \in V
+$$
+$$
+\vec{u}+\vec{v}=\begin{bmatrix}
+a \\
+c
+\end{bmatrix}
++
+\begin{bmatrix}
+b \\
+d
+\end{bmatrix}=\begin{bmatrix}
+a+b \\
+c+d
+\end{bmatrix}
+$$
+The final vector is in $V$ because a,b,c,d are $\in\mathbb{R}\text{ and } \geq 0$
