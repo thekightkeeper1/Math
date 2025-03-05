@@ -211,3 +211,50 @@ $$
 Form a subspace of $\mathbb{R}^3$ and find the span.
 
 **Solution**
+$$
+\text{Span}\left\{
+u,v
+\right\}
+$$
+$${\mathbf{u}}={\left[\begin{array}{l}{5}\\ {1}\\ {0}\end{array}\right]},{\mathbf{v}}={\left[\begin{array}{l}{2}\\ {0}\\ {1}\end{array}\right]}$$
+This is a subspace because any set that can be represented as a span will follow all the rules to qualify as a vector space.
+
+---
+## 13.)
+$$13.\,\,\operatorname{Let}\,\mathbf{v}_{1}={\left[\begin{array}{l}{1}\\ {0}\\ {-1}\end{array}\right]},\mathbf{v}_{2}={\left[\begin{array}{l}{2}\\ {1}\\ {3}\end{array}\right]},\mathbf{v}_{3}={\left[\begin{array}{l}{4}\\ {2}\\ {6}\end{array}\right]},\operatorname{and}\,\mathbf{w}={\left[\begin{array}{l}{3}\\ {1}\\ {2}\end{array}\right]}.$$
+
+Prove or disprove $\vec{w}$ is in the span of $\vec{v}_1, \dots , \vec{v_3}$
+
+**Solution**
+Yes it is.
+Solve the follow augmented matrix. Since it is **consistent** then we know $\vec{w}$ is in $V$.
+$$
+\begin{bmatrix}
+v_{1} & v_{2} & v_{3} & | & \vec{w}
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+1 & 2 & 4 & | & 3 \\
+0 & 1 & 2 & | & 1 \\
+ -1 & -3 & 6 & | & 2
+\end{bmatrix}
+$$
+
+---
+
+## 14.)
+$$14.\,\operatorname{Let}\mathbf{v}_{1},\mathbf{v}_{2},\mathbf{v}_{3}\,\mathrm{be\;as\;in\;Exercise\;13,\,and\;let}\;\mathbf{w}={\left[\begin{array}{l}{8}\\ {4}\\ {7}\end{array}\right]}$$
+Is $\vec{w}$ in the span $\vec{v}_1, \dots , \vec{v_3}$?
+
+**Solution**
+No.
+Solve the same matrix as above, but use the new $\vec{w}$. Your last row looks like:
+$$
+\begin{bmatrix}
+a & b & c & | & d \\
+\vdots & \vdots & \vdots & | & \vdots \\
+0 & 0 & 0 & | & e
+\end{bmatrix}
+$$
+This implies that $0=e$ which is 
