@@ -62,7 +62,7 @@ So lets say that $\det A = 2$. This means that $\det B = 2k$.
 If we wanted to get the determinant of the original matrix, matrix $A$, then we would have to multiply $\det B$ by $\frac{1}{k}$ .
 
 ---
-# 3.3 pg
+# 3.2 pg 185 
 
 ## 5.)
 $${\bf5.}\left|\begin{array}{r r r}{{1}}&{{5}}&{{-4}}\\ {{-1}}&{{-4}}&{{5}}\\ {{-2}}&{{-8}}&{{7}}\end{array}\right|$$
@@ -122,7 +122,7 @@ $$
 > If you really want to, then make up a $An\times n$ matrix and test it out. Didnt think it was worth making a question for though
 
 ---
-# 4.1
+# 4.1 208
 ---
 ## 1.)
 Let $V$ be in the first quadrant:
@@ -254,7 +254,60 @@ $$
 \begin{bmatrix}
 a & b & c & | & d \\
 \vdots & \vdots & \vdots & | & \vdots \\
-0 & 0 & 0 & | & e
+0 & 0 & 0 & | & 1
 \end{bmatrix}
 $$
-This implies that $0=e$ which is 
+
+This implies that $0=1$ which is not **consistent**.
+
+---
+
+# 4.2 pp 219
+
+---
+## 1.)
+$$\begin{array}{r}{{\mathbf{1.~Determine~if~w}=\left[\begin{array}{c}{{1}}\\ {{3}}\\ {{-4}}\end{array}\right]}{\mathrm{~is~in~Nul~}}A,{\mathrm{where}}}\\ {{}}\\ {{A=\left[\begin{array}{c c c}{{3}}&{{-5}}&{{-3}}\\ {{6}}&{{-2}}&{{0}}\\ {{-8}}&{{4}}&{{1}}\end{array}\right]}.}\end{array}$$
+
+**Solution**
+$A\vec{w}=\vec{0}$ So $\vec{w}$ $\in$ $A$
+$${\left[\begin{array}{l l l}{3}&{-5}&{-3}\\ {6}&{-2}&{0}\\ {-8}&{4}&{1}\end{array}\right]}{\left[\begin{array}{l}{1}\\ {3}\\ {-4}\end{array}\right]}={\left[\begin{array}{l}{0}\\ {0}\\ {0}\end{array}\right]}$$
+
+## 5.)
+Describe $\text{Nul A}$ by listing the spanning vectors. 
+$$
+\begin{bmatrix}
+1 & -2 & 0 & 4 & 0 \\
+0 & 0 & 1 & -9 & 0 \\
+0 & 0 & 0 & 0 & 1
+\end{bmatrix}
+$$
+
+**Solution**
+Its already in echelon form, so just write the $\vec{x}$
+$$
+\begin{bmatrix}
+2 \\
+1 \\
+0 \\
+0 \\
+0
+\end{bmatrix}, \begin{bmatrix}
+-4 \\
+0 \\
+9 \\
+1 \\
+0
+\end{bmatrix}
+$$
+
+---
+
+## 7.)
+==For problems 7-14 show that the set $W$ is a vector space, or use an example to disprove it.==
+
+$$7.\;\;\left\{{\left[\begin{array}{l}{a}\\ {b}\\ {c}\end{array}\right]}\colon a+b+c=2\right\}$$
+**Solution**
+Not a vector space. There is a constant in that equation, which means that this set will not contain $(0,0,0)$ 
+
+## 9.) 
+$${\bf9.}\;\left\{{\left[\begin{array}{l}{{a}}\\ {{b}}\\ {{c}}\\ {{d}}\end{array}\right]};{\begin{array}{l}{{a-2b=4c}}\\ {{2a=c+3d}}\end{array}\right\}}$$
