@@ -166,6 +166,7 @@ The final vector is in $V$ because $a,b,c,d$ are $\in\mathbb{R}\text{ and } \geq
 ## 3.)
 Let $H$ be the set of points inside and on the unit circle
 $$W=\left\{{\left[\begin{array}{l}{x}\\ {y}\end{array}\right]}:x y\geq0\right\}$$
+
 ```desmos-graph
 left=-2; right=2;
 bottom=-2; top=2;
