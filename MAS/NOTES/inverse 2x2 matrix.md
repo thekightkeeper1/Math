@@ -16,6 +16,9 @@ a  & b \\
 c & d
 \end{bmatrix} \sim\space \begin{bmatrix}
 a & b \\
-c - a \times 
+c - a \times \frac{c}{a} & d - b\times \frac{c}{a}
 \end{bmatrix}
+$$
+$$
+d- b\times \frac{c}{a}= d-\frac{cb}{a}
 $$
