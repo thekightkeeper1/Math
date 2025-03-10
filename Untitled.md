@@ -9,5 +9,5 @@
 ```
 
 $$
-\sum _{k=0}^{\log_{2}n} \frac{2^k}{}
+\sum _{k=0}^{\log_{2}n} \frac{2^k}{n}\times \frac{1}{2}
 $$
