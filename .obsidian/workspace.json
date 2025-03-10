@@ -70,8 +70,7 @@
               "title": "5.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +242,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1fe44cdda19b71bf",
+  "active": "7964fbe549f0a082",
   "lastOpenFiles": [
-    "MAS/NOTES/5.1 Eigenvectors.md",
     "MAS/NOTES/5.2.md",
+    "MAS/NOTES/5.1 Eigenvectors.md",
     "meta/images/Pasted image 20250310170415.png",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
     "Untitled.md",
