@@ -7,3 +7,7 @@
 	"aspectRatio": 1
 }
 ```
+
+$$
+\sum _{k=0}^{\log_{2}n} \frac{2^k}{}
+$$
