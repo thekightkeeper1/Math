@@ -55,8 +55,23 @@
               "icon": "lucide-file",
               "title": "5.1 Eigenvectors"
             }
+          },
+          {
+            "id": "1fe44cdda19b71bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAS/NOTES/5.2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "5.2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,11 +243,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7964fbe549f0a082",
+  "active": "1fe44cdda19b71bf",
   "lastOpenFiles": [
+    "MAS/NOTES/5.1 Eigenvectors.md",
+    "MAS/NOTES/5.2.md",
+    "meta/images/Pasted image 20250310170415.png",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
     "Untitled.md",
-    "MAS/NOTES/5.1 Eigenvectors.md",
     "meta/images/Ink/Drawing/2025.3.7 - 12.56pm.drawing",
     "MAS/NOTES/inverse 2x2 matrix.md",
     "MAS/NOTES/does_not_span_but_is_a_basis.md",
@@ -256,7 +273,6 @@
     "meta/images/Pasted image 20250304221655.png",
     "meta/images/Pasted image 20250304212005.png",
     "meta/images/Pasted image 20250304193336.png",
-    "meta/images/Pasted image 20250304193334.png",
     "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing",
     "MAS/test_or_quizzes/Exam 2 practice questions.md",
     "MAS/HW/HW 1.2.md",
@@ -273,8 +289,6 @@
     "meta/images/Ink",
     "MAS/Vocab/RREF.md",
     "MAS/Vocab",
-    "MAS/HW/HW4.3.md",
-    "4.6 notes.md",
-    "meta/images"
+    "MAS/HW/HW4.3.md"
   ]
 }
