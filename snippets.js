@@ -121,8 +121,8 @@
 	{trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 1},
 	{trigger: "([a-zA-Z])tilde", replacement: "\\tilde{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])und", replacement: "\\underline{[[0]]}", options: "rmA"},
-	{trigger: /(?<!eigen)([a-zA-Z])vec\n/, replacement: "\\vec{[[0]]}", options: "rmA"},
-	{trigger: "(?<!eigen)([a-zA-Z])vec\n", replacement: "$\\vec{[[0]]}$", options: "rtA", priority: 1},
+	{trigger: /((?<!eige)([a-zA-Z]))vec/, replacement: "\\vec{[[0]]}", options: "rmA"},
+	{trigger: /((?<!eige)([a-zA-Z]))vec/, replacement: "$\\vec{[[0]]}$", options: "rtA", priority: 1},
 	{trigger: "0vec", replacement: "$\\vec{0}$", options: "tA"},
 	{trigger: "0vec", replacement: "\\vec{0}", options: "mA"},
 
