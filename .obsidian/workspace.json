@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/5.2.md",
+                "file": "MAS/NOTES/5.1 Eigenvectors.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5.2"
+              "title": "5.1 Eigenvectors"
             }
           }
         ]
@@ -40,8 +40,23 @@
               "icon": "lucide-file",
               "title": "5.2"
             }
+          },
+          {
+            "id": "90521237fd043f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAS/NOTES/5.1 Eigenvectors.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "5.1 Eigenvectors"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +229,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7964fbe549f0a082",
+  "active": "90521237fd043f9f",
   "lastOpenFiles": [
-    "MAS/NOTES/5.1 Eigenvectors.md",
     "MAS/HW/5.2.md",
+    "MAS/NOTES/5.1 Eigenvectors.md",
     "meta/images/Pasted image 20250310171924.png",
     "MAS/NOTES/5.2.md",
     "meta/images/Pasted image 20250310170415.png",
