@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "79b352e8884ef32b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54c2e4a7744f4901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/NOTES/inverse 2x2 matrix.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "inverse 2x2 matrix"
-            }
-          },
-          {
-            "id": "55e1d7b6929402f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/NOTES/5.1 Eigenvectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 Eigenvectors"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "8dd63b6e8f51ca65",
         "type": "tabs",
         "children": [
@@ -48,22 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/NOTES/5.1 Eigenvectors.md",
+                "file": "MAS/HW/5.2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5.1 Eigenvectors"
+              "title": "5.2"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "be5ce73463de58d1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1fe44cdda19b71bf",
+            "id": "e010d7bad2199769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/NOTES/5.2.md",
-                "mode": "source",
+                "file": "MAS/HW/5.2.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -127,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "132a14367827260f",
@@ -244,9 +216,10 @@
   },
   "active": "7964fbe549f0a082",
   "lastOpenFiles": [
+    "MAS/NOTES/5.1 Eigenvectors.md",
+    "MAS/HW/5.2.md",
     "meta/images/Pasted image 20250310171924.png",
     "MAS/NOTES/5.2.md",
-    "MAS/NOTES/5.1 Eigenvectors.md",
     "meta/images/Pasted image 20250310170415.png",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
     "Untitled.md",
@@ -272,7 +245,6 @@
     "meta/images/Pasted image 20250304223039.png",
     "meta/images/Pasted image 20250304221655.png",
     "meta/images/Pasted image 20250304212005.png",
-    "meta/images/Pasted image 20250304193336.png",
     "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing",
     "MAS/test_or_quizzes/Exam 2 practice questions.md",
     "MAS/HW/HW 1.2.md",
