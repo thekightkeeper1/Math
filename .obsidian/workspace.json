@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "132a14367827260f",
@@ -231,6 +230,7 @@
   },
   "active": "7964fbe549f0a082",
   "lastOpenFiles": [
+    "snippets.js~",
     "meta/images/Pasted image 20250312150325.png",
     "meta/images/Pasted image 20250312150321.png",
     "meta/images/Pasted image 20250312150300.png",
@@ -260,14 +260,12 @@
     "meta/images/Pasted image 20250304223854.png",
     "meta/images/Pasted image 20250304223736.png",
     "meta/images/Pasted image 20250304223309.png",
-    "meta/images/Pasted image 20250304223039.png",
     "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing",
     "MAS/test_or_quizzes/Exam 2 practice questions.md",
     "MAS/HW/HW 1.2.md",
     "MAS/HW/HW 4.3.md",
     "MAS/test_or_quizzes",
     "daily-notes",
-    "snippets.js~",
     "MAS/HW/HW 4.6.md",
     "MAS/HW/HW 4.4.md",
     "MAS/HW/HW 4.5.md",
