@@ -55,6 +55,42 @@ $$
 $$
 \sim 
 \begin{bmatrix}
+-1 & 1 & 1 \\
+0 & -8 & -2 \\
+0 & 1 & -2
+\end{bmatrix}
+$$
+We can see there will not be a free variable
 
+# #10
+Find the eigenspace
+
+![[meta/images/Pasted image 20250312155023.png]]
+
+$$
+\begin{bmatrix}
+6 & -9 \\
+4 & -6
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & -\frac{3}{2} \\
+4 & -6
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & -\frac{3}{2} \\
+0 & 0
+\end{bmatrix}
+$$
+$$
+\vec{x}=\begin{bmatrix}
+\frac{3}{2}x_{2} \\
+x_{2}
+\end{bmatrix}=x_{2}\begin{bmatrix}
+\frac{3}{2} \\
+1
 \end{bmatrix}
 $$
