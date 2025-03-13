@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.2 Characteristic.md",
+                "file": "MAS/HW/HW 5.2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5.2 Characteristic"
+              "title": "HW 5.2"
             }
           }
         ],
@@ -68,6 +68,20 @@
               },
               "icon": "lucide-file",
               "title": "HW 5.1"
+            }
+          },
+          {
+            "id": "3342a3471c733424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAS/HW/HW 5.2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HW 5.2"
             }
           },
           {
@@ -257,9 +271,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acc731185278e960",
+  "active": "3342a3471c733424",
   "lastOpenFiles": [
     "5.2 Characteristic.md",
+    "MAS/HW/HW 5.2.md",
+    "MAS/HW/Untitled",
     "MAS/NOTES/5.1 Eigenvectors.md",
     "MAS/HW/HW 5.1.md",
     "meta/images/Pasted image 20250312155023.png",
@@ -299,11 +315,8 @@
     "MAS/HW/HW 4.6.md",
     "MAS/HW/HW 4.4.md",
     "MAS/HW/HW 4.5.md",
-    "conflict-files-obsidian-git.md",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
     "meta/images/Ink/Drawing",
-    "meta/images/Ink",
-    "MAS/Vocab/RREF.md",
-    "MAS/Vocab"
+    "meta/images/Ink"
   ]
 }
