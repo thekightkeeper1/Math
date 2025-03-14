@@ -87,3 +87,63 @@ $$
 
 \end{align}
 $$
+
+# #12
+$$
+\begin{bmatrix}
+1 & 0 & 1 \\
+-3 & 6 & 1 \\
+0 & 0 & 4
+\end{bmatrix}
+$$
+
+$$
+\begin{vmatrix}
+1-\lambda & 0 & 1 \\
+-3 & 6-\lambda & 1 \\
+0 & 0 & 4-\lambda
+\end{vmatrix}
+$$
+$$
+=6-\lambda \begin{vmatrix}
+1-\lambda & 1 \\
+0 & 4-\lambda
+\end{vmatrix}
+$$
+$$
+\begin{align}
+&=(6-\lambda)(\lambda^2-5\lambda-4) \\
+&=(6\lambda^2-30\lambda-24-(\lambda^3-5\lambda^2-4\lambda)) \\
+&=-\lambda^3+11\lambda^2-26\lambda-24)
+
+\end{align}
+$$
+
+# #14
+$$
+\begin{bmatrix}
+3 & -2 & 3 \\
+0 & -1 & 0 \\
+6 & 7 & -4
+\end{bmatrix}
+$$
+
+$$
+\begin{vmatrix}
+3-\lambda & -2 & 3 \\
+0 & -1-\lambda & 0 \\
+6 & 7 & -4-\lambda
+\end{vmatrix}
+$$
+
+$$-(1+\lambda)
+\begin{vmatrix}
+3-\lambda & 3 \\
+6 & -4-\lambda
+\end{vmatrix}
+$$
+
+# #16
+![[meta/images/Pasted image 20250313201723.png]]
+
+5,-4,1,1
