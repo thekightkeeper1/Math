@@ -136,14 +136,22 @@ $$
 \end{vmatrix}
 $$
 
-$$-(1+\lambda)
+$$
+-(1+\lambda)
 \begin{vmatrix}
 3-\lambda & 3 \\
 6 & -4-\lambda
 \end{vmatrix}
 $$
 
+$$
+\begin{align}
+&=-(1+\lambda)(\lambda^{2}+\lambda-12-18) \\
+&=-(1+\lambda)(\lambda^{2}+\lambda-30) \\
+&=-(1+\lambda)(5-\lambda)(6+\lambda)
+\end{align}
+$$
+
 # #16
 ![[meta/images/Pasted image 20250313201723.png]]
-
 5,-4,1,1
