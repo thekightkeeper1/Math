@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 5.2.md",
+                "file": "MAS/NOTES/6.1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.2"
+              "title": "6.1"
             }
           }
         ]
@@ -42,20 +42,6 @@
             }
           },
           {
-            "id": "3342a3471c733424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/HW/HW 5.2.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW 5.2"
-            }
-          },
-          {
             "id": "90521237fd043f9f",
             "type": "leaf",
             "state": {
@@ -69,8 +55,7 @@
               "title": "5.2 Characteristic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,11 +227,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "acc731185278e960",
+  "active": "e010d7bad2199769",
   "lastOpenFiles": [
+    "MAS/HW/HW 5.2.md",
+    "MAS/NOTES/6.1.md",
     "meta/images/Pasted image 20250313201723.png",
     "MAS/NOTES/5.1 Eigenvectors.md",
-    "MAS/HW/HW 5.2.md",
     "5.2 Characteristic.md",
     "MAS/HW/Untitled",
     "MAS/HW/HW 5.1.md",
@@ -261,7 +247,6 @@
     "meta/images/Pasted image 20250312150300.png",
     "meta/images/Pasted image 20250310171924.png",
     "MAS/NOTES/5.2.md",
-    "meta/images/Pasted image 20250310170415.png",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
     "Untitled.md",
     "meta/images/Ink/Drawing/2025.3.7 - 12.56pm.drawing",
