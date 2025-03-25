@@ -20,6 +20,8 @@
 		options: "rmA"
 	},
 	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
+	{trigger: "len", replacement: "\\left| $0 \\right|", options: "mA"},
+
 
 	{trigger: "bb{R}([A-Z0-9])", replacement: "bb{R}^[[0]]", options: "rmA"},
 	{trigger: "[nN]ul([A-H])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},

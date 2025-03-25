@@ -24,35 +24,21 @@
         ]
       },
       {
-        "id": "be5ce73463de58d1",
+        "id": "1bb4592be499a5ed",
         "type": "tabs",
         "children": [
           {
-            "id": "e010d7bad2199769",
+            "id": "b190eda9239461d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 5.1.md",
+                "file": "MAS/NOTES/6.1.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.1"
-            }
-          },
-          {
-            "id": "90521237fd043f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.2 Characteristic.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "5.2 Characteristic"
+              "title": "6.1"
             }
           }
         ]
@@ -227,25 +213,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e010d7bad2199769",
+  "active": "acc731185278e960",
   "lastOpenFiles": [
+    "snippets.js~",
+    "meta/images/Pasted image 20250324172215.png",
+    "MAS/HW/HW 5.1.md",
     "MAS/HW/HW 5.2.md",
     "MAS/NOTES/6.1.md",
     "meta/images/Pasted image 20250313201723.png",
     "MAS/NOTES/5.1 Eigenvectors.md",
     "5.2 Characteristic.md",
     "MAS/HW/Untitled",
-    "MAS/HW/HW 5.1.md",
     "meta/images/Pasted image 20250312155023.png",
     "meta/images/Pasted image 20250312154517.png",
     "meta/images/Pasted image 20250312154138.png",
     "meta/images/Pasted image 20250312154123.png",
     "meta/images/Pasted image 20250312153955.png",
-    "snippets.js~",
     "meta/images/Pasted image 20250312150325.png",
     "meta/images/Pasted image 20250312150321.png",
     "meta/images/Pasted image 20250312150300.png",
-    "meta/images/Pasted image 20250310171924.png",
     "MAS/NOTES/5.2.md",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
     "Untitled.md",
@@ -271,7 +257,6 @@
     "daily-notes",
     "MAS/HW/HW 4.6.md",
     "MAS/HW/HW 4.4.md",
-    "MAS/HW/HW 4.5.md",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
     "meta/images/Ink/Drawing",
     "meta/images/Ink"
