@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 5.2.md",
+                "file": "MAS/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.2"
+              "title": "Untitled"
             }
           }
         ]
@@ -213,8 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc9d1fff9c9fbc88",
+  "active": "acc731185278e960",
   "lastOpenFiles": [
+    "MAS/HW/HW 5.2.md",
+    "MAS/Untitled.md",
     "MAS/HW/HW 5.1.md",
     "meta/images/Pasted image 20250326125454.png",
     "meta/images/Pasted image 20250326123904.png",
@@ -222,7 +224,6 @@
     "MAS/NOTES/6.1.md",
     "snippets.js~",
     "meta/images/Pasted image 20250324172215.png",
-    "MAS/HW/HW 5.2.md",
     "meta/images/Pasted image 20250313201723.png",
     "MAS/NOTES/5.1 Eigenvectors.md",
     "5.2 Characteristic.md",

@@ -153,4 +153,5 @@ $$
 
 # #16
 ![[meta/images/Pasted image 20250313201723.png]]
+just read off of the diagonal
 5,-4,1,1
