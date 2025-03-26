@@ -158,6 +158,30 @@ $$
 \sim \begin{bmatrix}
 1 & 1 & 1 \\
 0 & 8 & 4 \\
-0 & -8 & - \\
+0 & -8 & -4 \\
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 1 & 1 \\
+0 & 1 & .5 \\
+0 & 0 & 0 
 \end{bmatrix}
 $$
+$$
+\sim \begin{bmatrix}
+1 & 0 & .5 \\
+0 & 1 & .5 \\
+0 & 0 & 0 
+\end{bmatrix}
+$$
+$$
+\text{Span}\left\{
+\begin{bmatrix}
+-.5 \\
+-.5 \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+# #16
+![[meta/images/Pasted image 20250326125454.png]]
+**Find the eigenspace**
