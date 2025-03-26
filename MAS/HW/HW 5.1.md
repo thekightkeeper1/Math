@@ -137,3 +137,27 @@ $$
 $$
 
 # 14
+![[meta/images/Pasted image 20250326123904.png]]
+**Find the eigenspace**
+
+$$
+\begin{bmatrix}
+7 & -1 & 3 \\
+-1 & 7 & 3 \\
+6 & 6 & 6
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 1 & 1 \\
+-1 & 7 & 3 \\
+7 & -1 & 3 \\
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 1 & 1 \\
+0 & 8 & 4 \\
+0 & -8 & - \\
+\end{bmatrix}
+$$
