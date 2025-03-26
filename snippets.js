@@ -20,6 +20,9 @@
 		options: "rmA"
 	},
 	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
+	{trigger: "magn", replacement: "\\left| \\left| $0 \\right| \\right| $1", options: "mA"},
+	{trigger: "[a-z]dist[a-z]", replacement: "\\left| \\left| $0 \\right| \\right|", options: "rmA"},
+
 
 	{trigger: "bb{R}([A-Z0-9])", replacement: "bb{R}^[[0]]", options: "rmA"},
 	{trigger: "[nN]ul([A-H])", replacement: "$\\text{Nul [[0]]}$$0", options: "rtA"},
@@ -121,8 +124,8 @@
 	{trigger: "([a-zA-Z])ddot", replacement: "\\ddot{[[0]]}", options: "rmA", priority: 1},
 	{trigger: "([a-zA-Z])tilde", replacement: "\\tilde{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])und", replacement: "\\underline{[[0]]}", options: "rmA"},
-	{trigger: "([a-zA-Z])vec", replacement: "\\vec{[[0]]}", options: "rmA"},
-	{trigger: "([a-zA-Z])vec", replacement: "$\\vec{[[0]]}$", options: "rtA", priority: 1},
+	{trigger: /((?<!eige)([a-zA-Z]))vec/, replacement: "\\vec{[[0]]}", options: "rmA"},
+	{trigger: /((?<!eige)([a-zA-Z]))vec/, replacement: "$\\vec{[[0]]}$", options: "rtA", priority: 1},
 	{trigger: "0vec", replacement: "$\\vec{0}$", options: "tA"},
 	{trigger: "0vec", replacement: "\\vec{0}", options: "mA"},
 
