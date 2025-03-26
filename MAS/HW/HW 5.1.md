@@ -11,7 +11,7 @@ $$
 3  & 1
 \end{bmatrix}
 $$
-We can see that there is a free variable which means that it has an eigenspace
+We can see that there is a free variable which means that it was an eigenvalue
 
 # 6
 ![[meta/images/Pasted image 20250312154138.png]]

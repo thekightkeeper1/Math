@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/NOTES/5.1 Eigenvectors.md",
+                "file": "MAS/HW/HW 5.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 Eigenvectors"
+              "title": "HW 5.1"
             }
           }
         ]
@@ -225,8 +225,9 @@
   },
   "active": "9e96eac9a5b91d22",
   "lastOpenFiles": [
-    "MAS/HW/HW 5.1.md",
     "MAS/HW/HW 5.2.md",
+    "MAS/HW/HW 5.1.md",
+    "MAS/NOTES/5.1 Eigenvectors.md",
     "MAS/test_or_quizzes/Exam 2 practice questions.md",
     "conflict-files-obsidian-git.md",
     "meta/images/Pasted image 20250324172215.png",
@@ -246,7 +247,6 @@
     "MAS/NOTES/does_not_span_but_is_a_basis.md",
     "MAS/NOTES/6.1.md",
     "MAS/NOTES/5.2.md",
-    "MAS/NOTES/5.1 Eigenvectors.md",
     "5.2 Characteristic.md",
     "MAS/HW/HW 4.6.md",
     "MAS/HW/HW 4.2.md",
