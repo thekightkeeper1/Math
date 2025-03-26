@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "132a14367827260f",
@@ -230,6 +231,7 @@
   },
   "active": "acc731185278e960",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250326165408.png",
     "meta/images/Pasted image 20250326164148.png",
     "MAS/HW/HW 5.2.md",
     "MAS/HW/HW 5.3.md",
@@ -251,7 +253,6 @@
     "meta/images/Pasted image 20250312154138.png",
     "meta/images/Pasted image 20250312154123.png",
     "meta/images/Pasted image 20250312153955.png",
-    "meta/images/Pasted image 20250312150325.png",
     "MAS/NOTES/5.2.md",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
     "Untitled.md",

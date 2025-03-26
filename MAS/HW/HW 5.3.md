@@ -17,5 +17,32 @@ $$
 PD^4=PI=P
 $$
 $$
-\implies PD^4P^{-1}=PP^{-1}
+\implies PD^4P^{-1}=PP^{-1}=I
+$$
+$$
+\begin{bmatrix}
+19 & 12 \\
+30 & -19
+\end{bmatrix}
+$$
+
+# #1
+![[meta/images/Pasted image 20250326165408.png]]
+$$
+P^{-1}=\begin{bmatrix}
+3 & -7 \\
+2 & 5
+\end{bmatrix}
+$$
+$$
+PD = \begin{bmatrix}
+10 & 7  \\
+4 & 3
+\end{bmatrix} 
+$$
+$$
+A = \begin{bmatrix}
+44 & -35 \\
+18 & -13
+\end{bmatrix}
 $$
