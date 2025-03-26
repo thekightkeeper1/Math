@@ -81,9 +81,19 @@ $$
 so the null space is:
 $$
 \vec{x}=\begin{bmatrix}
-
+3x_{3} \\
+2x_{3} \\
+1
 \end{bmatrix}
- = $$
+\implies
+\text{Span}\left\{
+\begin{bmatrix}
+3 \\
+2 \\
+1
+\end{bmatrix}
+\right\}
+ $$
 
 # #10
 Find the eigenspace
@@ -117,3 +127,13 @@ x_{2}
 1
 \end{bmatrix}
 $$
+$$
+\implies \text{Span}\left\{
+\begin{bmatrix}
+\frac{3}{2}  \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+# 14
