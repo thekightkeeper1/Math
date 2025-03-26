@@ -112,9 +112,8 @@ $$
 $$
 $$
 \begin{align}
-&=(6-\lambda)(\lambda^2-5\lambda-4) \\
-&=(6\lambda^2-30\lambda-24-(\lambda^3-5\lambda^2-4\lambda)) \\
-&=-\lambda^3+11\lambda^2-26\lambda-24)
+&=(6-\lambda)(\lambda^2-5\lambda+4) \\
+&=(6-\lambda)(5-\lambda)(4-\lambda)
 
 \end{align}
 $$
@@ -154,4 +153,5 @@ $$
 
 # #16
 ![[meta/images/Pasted image 20250313201723.png]]
+just read off of the diagonal
 5,-4,1,1

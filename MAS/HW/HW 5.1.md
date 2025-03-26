@@ -56,11 +56,44 @@ $$
 \sim 
 \begin{bmatrix}
 -1 & 1 & 1 \\
-0 & -8 & -2 \\
+3 & -5 & 1 \\
+0 & 1 & -2
+\end{bmatrix} \sim 
+\begin{bmatrix}
+-1 & 1 & 1 \\
+0 & -2 & 4 \\
 0 & 1 & -2
 \end{bmatrix}
 $$
-We can see there will not be a free variable
+We can see there is a free variable
+$$
+\sim \begin{bmatrix}
+-1 & 1 & 1 \\
+0 & 1 & -2 \\
+0 & 0 & 0
+\end{bmatrix} \sim
+\begin{bmatrix}
+-1 & 0 & 3 \\
+0 & 1 & -2 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+so the null space is:
+$$
+\vec{x}=\begin{bmatrix}
+3x_{3} \\
+2x_{3} \\
+1
+\end{bmatrix}
+\implies
+\text{Span}\left\{
+\begin{bmatrix}
+3 \\
+2 \\
+1
+\end{bmatrix}
+\right\}
+ $$
 
 # #10
 Find the eigenspace
@@ -94,3 +127,61 @@ x_{2}
 1
 \end{bmatrix}
 $$
+$$
+\implies \text{Span}\left\{
+\begin{bmatrix}
+\frac{3}{2}  \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+# 14
+![[meta/images/Pasted image 20250326123904.png]]
+**Find the eigenspace**
+
+$$
+\begin{bmatrix}
+7 & -1 & 3 \\
+-1 & 7 & 3 \\
+6 & 6 & 6
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 1 & 1 \\
+-1 & 7 & 3 \\
+7 & -1 & 3 \\
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 1 & 1 \\
+0 & 8 & 4 \\
+0 & -8 & -4 \\
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 1 & 1 \\
+0 & 1 & .5 \\
+0 & 0 & 0 
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 0 & .5 \\
+0 & 1 & .5 \\
+0 & 0 & 0 
+\end{bmatrix}
+$$
+$$
+\text{Span}\left\{
+\begin{bmatrix}
+-.5 \\
+-.5 \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+# #16
+![[meta/images/Pasted image 20250326125454.png]]
+**Find the eigenspace**

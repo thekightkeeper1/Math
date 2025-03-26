@@ -10,7 +10,7 @@
   "maxWidth": 95,
   "textNormal": 20,
   "textSmall": 16,
-  "imgGrid": true,
+  "imgGrid": false,
   "imgWidth": "img-default-width",
   "tableWidth": "table-100",
   "iframeWidth": "iframe-100",
