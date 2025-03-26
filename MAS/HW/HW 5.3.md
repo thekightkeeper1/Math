@@ -30,6 +30,12 @@ PD^4P^{-1} =
 2 & 5
 \end{bmatrix}
 $$
+$$
+=\begin{bmatrix}
+240 +14 & -560 +35 \\
+96+96 & -224+240
+\end{bmatrix}
+$$
 
 
 # #2
@@ -67,7 +73,17 @@ $$
 $$
 =
 \begin{bmatrix}
-2
+2^k & 2^{k+1} \\
+2^k & -2^k
+\end{bmatrix}
+\begin{bmatrix}
+-1 & 2 \\
+1 & -1
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+-2^{k+1}+2^k
 \end{bmatrix}
 $$
 
