@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/NOTES/5.3.md",
+                "file": "MAS/HW/HW 5.3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "5.3"
+              "title": "HW 5.3"
             }
           }
         ]
@@ -47,15 +47,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 5.2.md",
+                "file": "MAS/HW/HW 5.3.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.2"
+              "title": "HW 5.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,18 +228,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c1e1df3c2304ad6",
+  "active": "fc9d1fff9c9fbc88",
   "lastOpenFiles": [
+    "MAS/HW/HW 5.2.md",
+    "MAS/HW/HW 5.3.md",
+    "MAS/NOTES/6.1.md",
+    "MAS/NOTES/5.3.md",
     "MAS/NOTES/4.6 notes.md",
     "MAS/NOTES/5.1.md",
-    "MAS/NOTES/5.3.md",
-    "MAS/HW/HW 5.3.md",
-    "MAS/HW/HW 5.2.md",
     "MAS/HW/HW 5.1.md",
     "meta/images/Pasted image 20250326125454.png",
     "meta/images/Pasted image 20250326123904.png",
     "Test.md",
-    "MAS/NOTES/6.1.md",
     "snippets.js~",
     "meta/images/Pasted image 20250324172215.png",
     "meta/images/Pasted image 20250313201723.png",
