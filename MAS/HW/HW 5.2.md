@@ -48,7 +48,7 @@ $$
 $$
 
 # #10
-**Same as above, but reccomended to do cofactor expansion**
+Just find the equation, not the eigenvalus. Do cofactor expansion**
 
 $$
 \begin{bmatrix}
