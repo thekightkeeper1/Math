@@ -45,10 +45,35 @@ $$
 $$
 \implies PD^4P^{-1}=PP^{-1}=I
 $$
+
+
+# #4
+![[meta/images/Pasted image 20250326194406.png|528]]
 $$
 \begin{bmatrix}
-19 & 12 \\
-30 & -19
+1 & 2 \\
+1 & 1
+\end{bmatrix}
+\begin{bmatrix}
+2^k & 0 \\
+0 & -2^k
+\end{bmatrix}
+\begin{bmatrix}
+-1 & 2 \\
+1 & -1
 \end{bmatrix}
 $$
+
+$$
+=
+\begin{bmatrix}
+2
+\end{bmatrix}
+$$
+
+# #6
+# #8
+# #12
+# #14
+# #16
 
