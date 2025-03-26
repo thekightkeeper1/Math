@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 5.2.md",
+                "file": "MAS/HW/HW 5.3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.2"
+              "title": "HW 5.3"
             }
           }
         ]
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "MAS/HW/HW 5.3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -223,8 +223,10 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "9e96eac9a5b91d22",
+  "active": "71c3a11ab40896f4",
   "lastOpenFiles": [
+    "MAS/HW/HW 5.2.md",
+    "MAS/HW/HW 5.3.md",
     "MAS/HW/HW 5.1.md",
     "conflict-files-obsidian-git.md",
     "meta/images/Pasted image 20250326165408.png",
@@ -234,8 +236,6 @@
     "Test.md",
     "MAS/NOTES/5.3.md",
     "MAS/NOTES/5.1.md",
-    "MAS/HW/HW 5.3.md",
-    "MAS/HW/HW 5.2.md",
     "MAS/NOTES/5.1 Eigenvectors.md",
     "MAS/test_or_quizzes/Exam 2 practice questions.md",
     "meta/images/Pasted image 20250324172215.png",
