@@ -199,9 +199,87 @@ $$
 -1 & -1 & 2
 \end{bmatrix}
 $$
+$$
+\space\space\space\space\space\space\space\space\space\space\space\space \sim \begin{bmatrix}
+-1 & -1 & 2 \\ \
+-1 & 2 & -1 \\
+2 & -1 & -1 \\
+\end{bmatrix}
+$$
+$$
+\space\space\space\space\space\space\space\space\space \sim  \begin{bmatrix}
+-1 & -1 & 2 \\
+0 & 3 & -3 \\
+0 & -3 & 3
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+-1 & -1 & 2 \\
+0 & 1 & -1 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+-1 & 0 & 1 \\
+0 & 1 & -1 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\implies \begin{bmatrix}
+x_{3} \\
+x_{3} \\
+x_{3}
+\end{bmatrix} \implies \text{Span}\left\{
+\begin{bmatrix}
+1 \\
+1 \\
+1 \\
+\end{bmatrix}
+\right\}
+$$
+
+And so we have our eigen vectors
+$$
+P=
+\begin{bmatrix}
+1 & -1 & -1 \\
+1 & 1 & 0 \\
+1 & 0 & 1
+\end{bmatrix}
+$$
+And our eigenvalues:
+$$
+D=\begin{bmatrix}
+1 & 0 & 0 \\
+0 & 4 & 0 \\
+0 & 0 & 4
+\end{bmatrix}
+$$
 
 # #14
-
+![[meta/images/Pasted image 20250326210315.png]]
+**Same as above and our eigenvalues are $\lambda=3,4$**
+$$
+\lambda=3:\space 
+\begin{bmatrix}
+1 & 0 & 2 \\
+2 & 0 & 4 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 0 & 2 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\implies 
+$$
 
 # #16
 
