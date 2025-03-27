@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 6.1.md",
+                "file": "MAS/NOTES/6.1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 6.1"
+              "title": "6.1"
             }
           }
         ]
@@ -27,6 +27,20 @@
         "id": "1e322a823cbda0dc",
         "type": "tabs",
         "children": [
+          {
+            "id": "7cd8e052cba8623a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAS/NOTES/6.1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "6.1"
+            }
+          },
           {
             "id": "2c1e1df3c2304ad6",
             "type": "leaf",
@@ -55,8 +69,7 @@
               "title": "HW 5.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +243,10 @@
   },
   "active": "acc731185278e960",
   "lastOpenFiles": [
-    "MAS/NOTES/4.2.md",
+    "snippets.js~",
     "MAS/HW/HW 6.1.md",
+    "MAS/NOTES/5.2 Characteristic.md",
+    "MAS/NOTES/4.2.md",
     "6.1.md",
     "MAS/HW/HW 5.3.md",
     "conflict-files-obsidian-git.md",
@@ -252,8 +267,6 @@
     "MAS/NOTES/5.1.md",
     "MAS/HW/HW 5.1.md",
     "Test.md",
-    "snippets.js~",
-    "5.2 Characteristic.md",
     "MAS/HW/Untitled",
     "MAS/NOTES/5.2.md",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
@@ -269,7 +282,6 @@
     "daily-notes/2025-03-03.md",
     "MAS/test_or_quizzes/Quiz 3.md",
     "daily-notes/2025-03-02.md",
-    "MAS/test_or_quizzes/Exam 2 review.md",
     "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing",
     "MAS/test_or_quizzes",
     "daily-notes",
