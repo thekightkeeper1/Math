@@ -301,8 +301,118 @@ $$
 0 & 0 & 2 \\
 2 & -1 & 0 \\
 0 & 0 & -1
+\end{bmatrix} \sim \begin{bmatrix}
+2 & -1 & 0 \\
+0 & 0 & 1 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\implies \begin{bmatrix}
+.5x_{2} \\
+x_{2} \\
+0
+\end{bmatrix} \implies \text{Span}\left\{
+\begin{bmatrix}
+.5 \\
+1 \\
+0
+\end{bmatrix}
+\right\}
+$$
+
+$$
+P = \begin{bmatrix}
+0 & -2 & \frac{1}{2} \\
+1 & 0 & 1 \\
+0 & 1 & 0
 \end{bmatrix}
 $$
 
+$$
+D = \begin{bmatrix}
+3 & 0 & 0 \\
+0 & 3 & 0 \\
+0 & 0 & 4
+\end{bmatrix}
+$$
 # #16
+![[meta/images/Pasted image 20250326213044.png]]
+**Same as above and $\lambda=2,1$**
 
+$$
+\lambda=1:\space\space \begin{bmatrix}
+-1 & -4 & -6 \\
+-1 & -1 & -3 \\
+1 & 2 & 4
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+-1 & -4 & -6 \\
+0 & 3 & 3 \\
+0 & -2 & -2
+\end{bmatrix} \sim \begin{bmatrix}
+-1 & -4 & -6 \\
+0 & 1 & 1
+\end{bmatrix} \sim \begin{bmatrix}
+-1 & 0 & -2 \\
+0 & 1 & 1 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\implies \begin{bmatrix}
+-2x_3 \\
+-1x_{3} \\
+x_{3}
+\end{bmatrix} \implies \text{Span}\left\{
+\begin{bmatrix}
+-2 \\
+-1 \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+The next eigenvalue:
+$$
+\lambda=2:\space\space \begin{bmatrix}
+-2 & -4 & -6 \\
+-1 & -2 & -3 \\
+1 & 2 & 3
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 2 & 3 \\
+-2 & -4 & -6 \\
+-1 & -2 & -3 \\
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 2 & 3 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\implies \begin{bmatrix}
+-2x_{2}-3x_{3} \\
+x_{2} \\
+x_{3}
+\end{bmatrix} \implies \text{Span}\left\{
+\begin{bmatrix}
+-2 \\
+1 \\
+0
+\end{bmatrix},
+\begin{bmatrix}
+-3 \\
+0 \\
+1
+\end{bmatrix}
+\right\}
+$$
+Solution
+$$
+D = b
+$$
