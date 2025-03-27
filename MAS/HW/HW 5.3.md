@@ -414,5 +414,16 @@ x_{3}
 $$
 Solution
 $$
-D = b
+D = \begin{bmatrix}
+1 & 0 & 0 \\
+0 & 2 & 0 \\
+0 & 0 & 2
+\end{bmatrix}
+$$
+$$
+P = \begin{bmatrix}
+-2 & -2 & -3 \\
+-1 & 1 & 0  \\
+1 & 0 & 1
+\end{bmatrix}
 $$
