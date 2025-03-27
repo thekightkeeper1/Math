@@ -89,12 +89,69 @@ $$
 $$
 $$
 =\begin{bmatrix}
--2^k -(-2)^{k+1} & 2^{k+1}+
+-2^k -(-2)^{k+1} & 2^{k+1}+(-2)^{k+1} \\
+-2^k+ (-2)^k  & 2^{k+1}-(-2)^k
 \end{bmatrix}
 $$
 
 # #6
+**Find Eigen values and Eigenspace**
+![[meta/images/Pasted image 20250326203116.png]]
+
+Eigenvalues = 
+$$
+3,4
+$$
+
+Eigenspace = 
+$$
+\lambda=3:\space 
+\text{Span}\left\{
+\begin{bmatrix}
+2 \\
+1 \\
+1
+\end{bmatrix}
+,
+\begin{bmatrix}
+-1 \\
+-1 \\
+0
+\end{bmatrix}
+\right\}
+$$
+$$
+\lambda = 4:\space\space \text{Span}\left\{
+\begin{bmatrix}
+-2 \\
+-1 \\
+0
+\end{bmatrix}
+\right\}
+$$
+
 # #8
+**Diagonalize**
+![[meta/images/Pasted image 20250326203324.png|164]]
+Its triangular so eigenvalue = $5$. Next we solve for the Nul space:
+
+$$
+\begin{bmatrix}
+0 & 1 \\
+0 & 5
+\end{bmatrix} \sim\space \begin{bmatrix}
+0 & 1 \\
+0 & 0
+\end{bmatrix} \implies \vec{x}=\begin{bmatrix}
+0 \\
+x_{3}
+\end{bmatrix} \implies \text{Nul A}=\text{Span}\left\{
+\begin{bmatrix}
+0 \\
+1
+\end{bmatrix}
+\right\}
+$$
 # #12
 # #14
 # #16
