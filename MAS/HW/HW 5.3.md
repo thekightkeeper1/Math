@@ -31,10 +31,10 @@ $$
 $$
 P^{-1}=\begin{bmatrix}
 3 & -7 \\
-2 & 5
+-2 & 5
 \end{bmatrix}
 $$
-$$
+- [ ] $$
 PD = \begin{bmatrix}
 10 & 7  \\
 4 & 3
@@ -42,7 +42,21 @@ PD = \begin{bmatrix}
 $$
 $$
 A = \begin{bmatrix}
-44 & -35 \\
-18 & -13
+16 & -35 \\
+6 & -13
+\end{bmatrix}
+$$
+
+$$
+P = 
+\begin{bmatrix}
+5 & 7 \\
+2 & 3
+\end{bmatrix}
+$$
+$$
+D = \begin{bmatrix}
+2 & 0 \\
+0 & 1
 \end{bmatrix}
 $$
