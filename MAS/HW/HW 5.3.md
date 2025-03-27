@@ -152,10 +152,56 @@ x_{1} \\
 \end{bmatrix}
 \right\}
 $$
-$$
-P = [1]
-$$
+There arent' enough eigenvectors to make a 2x2 matrix, so this matrix is not diagonalizable
+
 # #12
+![[meta/images/Pasted image 20250326205133.png|356]]
+**Same as above, but we are given $\lambda=4, 1$** 
+$$
+\lambda=4:\space 
+\begin{bmatrix}
+-1 & -1 & -1 \\
+-1 & -1 & -1 \\
+-1 & -1 & -1
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 1 & 1 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{bmatrix}
+\implies \begin{bmatrix}
+-x_{2}-x_{3} \\
+x_{2} \\
+x_{3}
+\end{bmatrix}
+$$
+$$
+\implies \text{eigenspace}_{4} = \text{Span}\left\{
+\begin{bmatrix}
+-1 \\
+1 \\
+0
+\end{bmatrix},
+\begin{bmatrix}
+-1 \\
+0 \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+$$
+\lambda=1:\space \begin{bmatrix}
+2 & -1 & -1 \\
+-1 & 2 & -1 \\
+-1 & -1 & 2
+\end{bmatrix}
+$$
+
 # #14
+
+
 # #16
 
