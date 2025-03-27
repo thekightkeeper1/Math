@@ -143,14 +143,17 @@ $$
 0 & 1 \\
 0 & 0
 \end{bmatrix} \implies \vec{x}=\begin{bmatrix}
-0 \\
-x_{3}
+x_{1} \\
+0
 \end{bmatrix} \implies \text{Nul A}=\text{Span}\left\{
 \begin{bmatrix}
-0 \\
-1
+1 \\
+0
 \end{bmatrix}
 \right\}
+$$
+$$
+P = [1]
 $$
 # #12
 # #14
