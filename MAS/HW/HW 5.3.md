@@ -83,7 +83,14 @@ $$
 $$
 $$
 =\begin{bmatrix}
--2^{k+1}+2^k
+-2^k+2^{k+1}  & 2^{k+1}-2^{k+1}\\
+-2^k-2^k & 2^{k+1}+2^k
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+2^k & 0 \\
+-2^{k+1} & 3(2^k)
 \end{bmatrix}
 $$
 
