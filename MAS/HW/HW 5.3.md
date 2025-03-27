@@ -278,7 +278,30 @@ $$
 \end{bmatrix}
 $$
 $$
-\implies 
+\implies \begin{bmatrix}
+-2x_{3} \\
+x_{2} \\
+x_{3}
+\end{bmatrix} \implies \text{Span}\left\{
+\begin{bmatrix}
+0 \\
+1 \\
+0
+\end{bmatrix},
+\begin{bmatrix}
+-2 \\
+0 \\
+1
+\end{bmatrix}
+\right\}
+$$
+
+$$
+\lambda=4:\space\space\space \begin{bmatrix}
+0 & 0 & 2 \\
+2 & -1 & 0 \\
+0 & 0 & -1
+\end{bmatrix}
 $$
 
 # #16
