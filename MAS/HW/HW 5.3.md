@@ -62,7 +62,7 @@ $$
 \end{bmatrix}
 \begin{bmatrix}
 2^k & 0 \\
-0 & -2^k
+0 & (-2)^k
 \end{bmatrix}
 \begin{bmatrix}
 -1 & 2 \\
@@ -73,8 +73,8 @@ $$
 $$
 =
 \begin{bmatrix}
-2^k & 2^{k+1} \\
-2^k & -2^k
+2^k & 2\times(-2)^{k} \\
+2^k & (-2)^k
 \end{bmatrix}
 \begin{bmatrix}
 -1 & 2 \\
@@ -83,7 +83,7 @@ $$
 $$
 $$
 =\begin{bmatrix}
--2^k+2^{k+1}  & 2^{k+1}-2^{k+1}\\
+-2^k+2\times(-2)^{k}  & 2^{k+1}-2^{k+1}\\
 -2^k-2^k & 2^{k+1}+2^k
 \end{bmatrix}
 $$
