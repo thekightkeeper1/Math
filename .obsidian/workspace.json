@@ -29,7 +29,7 @@
               "state": {
                 "file": "MAS/HW/HW 6.1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "HW 6.1"
@@ -230,6 +230,10 @@
   },
   "active": "f4fcb64be4a3e4d2",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250327202517.png",
+    "meta/images/Pasted image 20250327202429.png",
+    "meta/images/Pasted image 20250327202423.png",
+    "meta/images/Pasted image 20250327202408.png",
     "MAS/NOTES/6.1.md",
     "MAS/HW/HW 6.1.md",
     "meta/images/Pasted image 20250327201602.png",
@@ -246,9 +250,6 @@
     "meta/images/Pasted image 20250326210315.png",
     "meta/images/Pasted image 20250326205133.png",
     "meta/images/Pasted image 20250326205110.png",
-    "meta/images/Pasted image 20250326203324.png",
-    "meta/images/Pasted image 20250326203116.png",
-    "meta/images/Pasted image 20250326194406.png",
     "MAS/HW/HW 5.2.md",
     "MAS/NOTES/4.6 notes.md",
     "MAS/NOTES/5.1.md",
