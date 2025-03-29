@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 6.1.md",
+                "file": "MAS/NOTES/6.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW 6.1"
+              "title": "6.2"
             }
           },
           {
@@ -256,6 +256,9 @@
   },
   "active": "26a685acae432bca",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250329134132.png",
+    "MAS/HW/HW 6.1.md",
+    "MAS/NOTES/6.2.md",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Pasted image 20250328220840.png",
     "meta/images/Pasted image 20250328220055.png",
@@ -267,7 +270,6 @@
     "meta/images/Pasted image 20250328212738.png",
     "meta/images/Pasted image 20250328212125.png",
     "conflict-files-obsidian-git.md",
-    "MAS/HW/HW 6.1.md",
     "meta/images/Pasted image 20250327202517.png",
     "meta/images/Pasted image 20250327202429.png",
     "meta/images/Pasted image 20250327202423.png",
@@ -297,11 +299,9 @@
     "MAS/HW/HW 4.5.md",
     "2025-03-03.md",
     "daily-notes/2025-03-01.md",
-    "daily-notes/2025-03-03.md",
     "daily-notes",
     "MAS/test_or_quizzes",
     "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
-    "meta/images/Ink/Drawing",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
