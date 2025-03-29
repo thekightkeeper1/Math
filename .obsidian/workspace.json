@@ -6,6 +6,7 @@
       {
         "id": "1a18995ab61ca38f",
         "type": "tabs",
+        "dimension": 38.98916967509025,
         "children": [
           {
             "id": "71c3a11ab40896f4",
@@ -41,6 +42,7 @@
       {
         "id": "00b7ad60b1d62d70",
         "type": "tabs",
+        "dimension": 61.01083032490975,
         "children": [
           {
             "id": "26a685acae432bca",
@@ -252,8 +254,11 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "38da03c8acfe3842",
+  "active": "26a685acae432bca",
   "lastOpenFiles": [
+    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
+    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
+    "meta/images/Ink/Drawing/2025.3.28 - 21.54pm.drawing",
     "meta/images/Pasted image 20250328213235.png",
     "meta/images/Pasted image 20250328213131.png",
     "meta/images/Pasted image 20250328212738.png",
@@ -268,7 +273,6 @@
     "meta/images/Pasted image 20250327201602.png",
     "meta/images/Pasted image 20250327191132.png",
     "MAS/NOTES/5.2 Characteristic.md",
-    "meta/images/Pasted image 20250326213048.png",
     "MAS/HW/HW 5.2.md",
     "MAS/HW/HW 5.1.md",
     "Test.md",
@@ -299,8 +303,6 @@
     "meta/images/Ink/Drawing",
     "meta/images/Ink",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Tags",
-    "$"
+    "Untitled.canvas"
   ]
 }

@@ -70,7 +70,22 @@ $$
 **No.**
 
 # 20
-True or false
+**True or false**
+$$
+\vec{u} \cdot \vec{v} - \vec{v} \cdot \vec{u} = 0
+$$
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
+	"width": 660,
+	"aspectRatio": 1.4634146341463414
+}
+```
+
+**Clearly true**
+
 
 # 21
 # 22
