@@ -88,5 +88,11 @@ See my notes. yes, this is true.
 Lets evaluate the right side:
 
 $$
-\left| \left| u+v \right| \right| ^2
+\begin{align}
+ & \left| \left| u+v \right| \right| ^2 \\
+= & (u+v)^2 \\
+= & (u+v)(u+v) \\
+=  & u^2+v^2+2u\cdot v
+\end{align}
 $$
+This is true, since those expressions are equivalelnt only when $u \cdot v = 0$
