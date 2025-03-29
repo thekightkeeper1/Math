@@ -84,5 +84,9 @@ This is just basic algebra. It is commutative so we can rearrange the right side
 See my notes. yes, this is true.
 # 22
 ![[meta/images/Pasted image 20250328220840.png]]
-translates to:
-If the $len^2$ of each v
+
+Lets evaluate the right side:
+
+$$
+\left| \left| u+v \right| \right| ^2
+$$
