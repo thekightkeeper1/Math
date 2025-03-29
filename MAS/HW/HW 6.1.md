@@ -26,7 +26,33 @@ $$
 
 
 # 12
+![[meta/images/Pasted image 20250328212125.png]]
+$$
+\left| \left| v \right| \right|\space = \sqrt{ \frac{64}{9} +1 } = \sqrt{ \frac{73}{9} }=\frac{1}{3}\sqrt{  \frac{73}{3}}
+$$
+$$
+\text{Unit vector = } \begin{bmatrix}
+\frac{8}{3}* \frac{3}{\sqrt{ \frac{73}{3} }} \\
+\frac{1}{\sqrt{ \frac{73}{3} }}
+\end{bmatrix} = \begin{bmatrix}
+\frac{8}{\sqrt{ \frac{73}{3} }} \\
+\sqrt{\frac{1}{\frac{73}{3}}  }
+\end{bmatrix}
+$$
+
 # 14
+![[meta/images/Pasted image 20250328212738.png]]
+
+$$
+\left| \left| \vec{u} - \vec{z} \right| \right| = \left| \left| \begin{bmatrix}
+4 \\
+-4 \\
+-2
+\end{bmatrix} \right| \right| 
+$$
+$$
+=\left| \left|  \right| \right| 
+$$
 # 16
 # 18
 # 20
