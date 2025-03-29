@@ -21,7 +21,8 @@
 	},
 	{trigger: "span", replacement: "\\text{Span}\\left\\{\n$0\n\\right\\}", options: "mA"},
 	{trigger: "magn", replacement: "\\left| \\left| $0 \\right| \\right| $1", options: "mA"},
-	{trigger: "[a-z]dist[a-z]", replacement: "\\left| \\left| $0 \\right| \\right|", options: "rmA"},
+		{trigger: "([a-z])len", replacement: "\\left| \\left| [[0]] \\right| \\right| ", options: "rmA"},
+
 
 
 	{trigger: "bb{R}([A-Z0-9])", replacement: "bb{R}^[[0]]", options: "rmA"},
