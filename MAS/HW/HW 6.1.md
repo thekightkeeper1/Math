@@ -51,10 +51,26 @@ $$
 \end{bmatrix} \right| \right| 
 $$
 $$
-=\left| \left|  \right| \right| 
+=\sqrt{ 16+16+4 }=6
 $$
 # 16
+**Is this orthogonal?**
+![[meta/images/Pasted image 20250328213131.png]]
+$$
+\vec{u} \cdot \vec{v} = 24-9-15=0
+$$
+**Yes.**
+
 # 18
+**Is this orthogonal?**
+![[meta/images/Pasted image 20250328213235.png]]
+$$
+\vec{y} \cdot \vec{z} = -3-56+60+0=1
+$$
+**No.**
+
 # 20
+True or false
+
 # 21
 # 22
