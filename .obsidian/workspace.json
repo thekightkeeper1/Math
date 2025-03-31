@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "6.2"
             }
+          },
+          {
+            "id": "a2c3ab6fbad44812",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "00b7ad60b1d62d70",
@@ -239,10 +250,11 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "33f4a64ab118aedc",
+  "active": "a2c3ab6fbad44812",
   "lastOpenFiles": [
-    "MAS/HW/HW 6.1.md",
     "MAS/NOTES/6.2.md",
+    "meta/images/Pasted image 20250331091941.png",
+    "MAS/HW/HW 6.1.md",
     "meta/images/Pasted image 20250331085208.png",
     "meta/images/Pasted image 20250331085009.png",
     "meta/images/Pasted image 20250329134132.png",
@@ -257,7 +269,6 @@
     "meta/images/Pasted image 20250328212738.png",
     "meta/images/Pasted image 20250328212125.png",
     "conflict-files-obsidian-git.md",
-    "meta/images/Pasted image 20250327202517.png",
     "MAS/HW/HW 5.3.md",
     "MAS/NOTES/5.2 Characteristic.md",
     "MAS/HW/HW 5.2.md",
