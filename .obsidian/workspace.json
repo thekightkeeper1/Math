@@ -4,45 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "1a18995ab61ca38f",
+        "id": "2805b482dae7b738",
         "type": "tabs",
-        "dimension": 38.98916967509025,
+        "dimension": 56.103896103896105,
         "children": [
           {
-            "id": "71c3a11ab40896f4",
+            "id": "33f4a64ab118aedc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 5.3.md",
+                "file": "MAS/NOTES/6.2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.3"
-            }
-          },
-          {
-            "id": "38da03c8acfe3842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/HW/HW 6.1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HW 6.1"
+              "title": "6.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "00b7ad60b1d62d70",
         "type": "tabs",
-        "dimension": 61.01083032490975,
+        "dimension": 43.896103896103895,
         "children": [
           {
             "id": "26a685acae432bca",
@@ -254,13 +239,13 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "26a685acae432bca",
+  "active": "33f4a64ab118aedc",
   "lastOpenFiles": [
+    "MAS/HW/HW 6.1.md",
+    "MAS/NOTES/6.2.md",
     "meta/images/Pasted image 20250331085208.png",
     "meta/images/Pasted image 20250331085009.png",
     "meta/images/Pasted image 20250329134132.png",
-    "MAS/HW/HW 6.1.md",
-    "MAS/NOTES/6.2.md",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Pasted image 20250328220840.png",
     "meta/images/Pasted image 20250328220055.png",
@@ -273,7 +258,6 @@
     "meta/images/Pasted image 20250328212125.png",
     "conflict-files-obsidian-git.md",
     "meta/images/Pasted image 20250327202517.png",
-    "meta/images/Pasted image 20250327202429.png",
     "MAS/HW/HW 5.3.md",
     "MAS/NOTES/5.2 Characteristic.md",
     "MAS/HW/HW 5.2.md",
