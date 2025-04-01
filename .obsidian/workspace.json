@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "MAS/NOTES/6.2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "6.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c08794698d1d9360",
@@ -228,11 +227,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f4fcb64be4a3e4d2",
+  "active": "acc731185278e960",
   "lastOpenFiles": [
-    "meta/images/Pasted image 20250331220533.png",
-    "MAS/NOTES/6.2.md",
     "MAS/HW/6.2.md",
+    "MAS/NOTES/6.2.md",
+    "meta/images/Pasted image 20250331222559.png",
+    "meta/images/Pasted image 20250331220533.png",
     "MAS/NOTES/6.1.md",
     "meta/images/Pasted image 20250331215128.png",
     "meta/images/Pasted image 20250331213242.png",
@@ -244,8 +244,6 @@
     "meta/images/Pasted image 20250331085208.png",
     "meta/images/Pasted image 20250331085009.png",
     "meta/images/Pasted image 20250329134132.png",
-    "meta/images/Pasted image 20250328220840.png",
-    "meta/images/Pasted image 20250328220055.png",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
