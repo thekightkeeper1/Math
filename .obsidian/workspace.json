@@ -26,10 +26,14 @@
             "id": "a2c3ab6fbad44812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MAS/HW/HW 6.1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HW 6.1"
             }
           }
         ],
@@ -252,6 +256,7 @@
   },
   "active": "a2c3ab6fbad44812",
   "lastOpenFiles": [
+    "MAS/HW/HW 6.3.md",
     "meta/images/Pasted image 20250331225039.png",
     "meta/images/Pasted image 20250331223921.png",
     "meta/images/Pasted image 20250331223632.png",
@@ -261,12 +266,10 @@
     "meta/images/Pasted image 20250331213242.png",
     "meta/images/Pasted image 20250331212409.png",
     "meta/images/Pasted image 20250331210651.png",
-    "MAS/HW/HW 6.3.md",
     "MAS/HW/6.2.md",
     "MAS/NOTES/6.2.md",
     "meta/images/Pasted image 20250331091941.png",
     "MAS/HW/HW 6.1.md",
-    "meta/images/Pasted image 20250331085208.png",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
