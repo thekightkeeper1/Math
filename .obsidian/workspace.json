@@ -4,72 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2805b482dae7b738",
+        "id": "8dd63b6e8f51ca65",
         "type": "tabs",
-        "dimension": 56.103896103896105,
         "children": [
           {
-            "id": "33f4a64ab118aedc",
+            "id": "acc731185278e960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MAS/NOTES/6.2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "6.2"
             }
-          },
-          {
-            "id": "a2c3ab6fbad44812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/NOTES/6.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "00b7ad60b1d62d70",
+        "id": "c08794698d1d9360",
         "type": "tabs",
-        "dimension": 43.896103896103895,
         "children": [
           {
-            "id": "26a685acae432bca",
+            "id": "f85020d325beba95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/NOTES/6.2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6.2"
-            }
-          },
-          {
-            "id": "9e96eac9a5b91d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/HW/HW 5.3.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HW 5.3"
+              "title": "New tab"
             }
           }
         ]
@@ -129,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "132a14367827260f",
@@ -208,8 +173,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -218,22 +183,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "31e8d8176e980b56",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,67 +197,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "latex-ocr:LatexOCR": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "latex-ocr:LatexOCR": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a2c3ab6fbad44812",
+  "active": "acc731185278e960",
   "lastOpenFiles": [
+    "MAS/HW/6.2.md",
     "meta/images/Pasted image 20250401163231.png",
-    "MAS/HW/HW 6.2.md",
     "MAS/NOTES/6.3.md",
-    "MAS/HW/HW 6.1.md",
-    "MAS/HW/HW 6.3.md",
+    "MAS/HW/HW 6.2.md",
     "meta/images/Pasted image 20250331225039.png",
     "meta/images/Pasted image 20250331223921.png",
     "meta/images/Pasted image 20250331223632.png",
+    "MAS/NOTES/6.2.md",
     "meta/images/Pasted image 20250331222559.png",
     "meta/images/Pasted image 20250331220533.png",
+    "MAS/NOTES/6.1.md",
     "meta/images/Pasted image 20250331215128.png",
     "meta/images/Pasted image 20250331213242.png",
     "meta/images/Pasted image 20250331212409.png",
+    "MAS/HW/HW 6.3.md",
     "meta/images/Pasted image 20250331210651.png",
-    "MAS/NOTES/6.2.md",
-    "meta/images/Pasted image 20250331091941.png",
+    "MAS/HW/HW 6.1.md",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
-    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
+    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.54pm.drawing",
-    "conflict-files-obsidian-git.md",
-    "MAS/HW/HW 5.3.md",
+    "snippets.js~",
+    "MAS/NOTES/5.3.md",
     "MAS/NOTES/5.2 Characteristic.md",
+    "MAS/NOTES/4.2.md",
+    "6.1.md",
+    "MAS/HW/HW 5.3.md",
+    "conflict-files-obsidian-git.md",
     "MAS/HW/HW 5.2.md",
+    "MAS/NOTES/4.6 notes.md",
+    "MAS/NOTES/5.1.md",
     "MAS/HW/HW 5.1.md",
     "Test.md",
-    "MAS/NOTES/5.3.md",
-    "MAS/NOTES/5.1.md",
-    "MAS/NOTES/5.1 Eigenvectors.md",
-    "MAS/test_or_quizzes/Exam 2 practice questions.md",
-    "meta/images/Ink/Drawing/2025.3.7 - 12.56pm.drawing",
-    "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
-    "daily-notes/2025-03-05.md",
-    "Untitled.md",
-    "MAS/NOTES/does_not_span_but_is_a_basis.md",
-    "MAS/NOTES/6.1.md",
+    "MAS/HW/Untitled",
     "MAS/NOTES/5.2.md",
-    "5.2 Characteristic.md",
-    "MAS/HW/HW 4.6.md",
-    "MAS/HW/HW 4.2.md",
-    "MAS/HW/HW 4.3.md",
-    "MAS/test_or_quizzes/Exam 2 review.md",
+    "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
+    "Untitled.md",
+    "meta/images/Ink/Drawing/2025.3.7 - 12.56pm.drawing",
+    "MAS/NOTES/inverse 2x2 matrix.md",
+    "MAS/NOTES/does_not_span_but_is_a_basis.md",
+    "daily-notes/2025-03-05.md",
+    "Vault.md",
+    "2025-03-03.md",
     "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing",
-    "daily-notes",
-    "MAS/test_or_quizzes",
-    "meta/images/Ink/Drawing/2025.2.27 - 19.50pm.drawing",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "MAS/test_or_quizzes"
   ]
 }
