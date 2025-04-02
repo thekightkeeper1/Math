@@ -78,6 +78,26 @@ u_{1}^{2} = 18 \\
 u_{2}^{2} = 2
 \end{align}
 $$
+ew  I do not want to work with those numbers
+$$
+-\frac{19}{18}\begin{bmatrix}
+-4 \\
+-1 \\
+1
+\end{bmatrix}+\frac{5}{2}
+\begin{bmatrix}
+0 \\
+1 \\
+1
+\end{bmatrix}
+$$
+$$
+=\begin{bmatrix}
+38 / 9 \\
+19 / 18 \\
+
+\end{bmatrix}
+$$
 
 # #8
 # #10
