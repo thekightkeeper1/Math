@@ -95,11 +95,27 @@ $$
 =\begin{bmatrix}
 38 / 9 \\
 19 / 18 \\
-
+- 19 / 18
+\end{bmatrix}
++\begin{bmatrix}
+0 \\
+5 / 2 \\
+5 / 2
 \end{bmatrix}
 $$
 
 # #8
+**Find the projection of y onto W given by the $u$s **
+![[meta/images/Pasted image 20250401222924.png]]
+$$
+\begin{align}
+y \cdot u_{1} = 6 \\
+y \cdot u_{2} = 7 \\
+u_{1} ^{2} =26 \\
+u_{2}^{2} = 3
+\end{align}
+$$
+
 # #10
 # #12
 # #14
