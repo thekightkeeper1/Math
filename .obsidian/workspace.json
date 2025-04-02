@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/NOTES/6.2.md",
+                "file": "MAS/NOTES/6.1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6.2"
+              "title": "6.1"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "orthogonal matrix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,11 +257,13 @@
   },
   "active": "a2c3ab6fbad44812",
   "lastOpenFiles": [
+    "MAS/NOTES/6.1.md",
+    "MAS/HW/HW 6.1.md",
+    "MAS/NOTES/6.2.md",
+    "MAS/NOTES/6.3.md",
     "meta/images/Pasted image 20250401203837.png",
     "meta/images/Pasted image 20250401163231.png",
     "MAS/HW/HW 6.2.md",
-    "MAS/NOTES/6.3.md",
-    "MAS/HW/HW 6.1.md",
     "MAS/HW/HW 6.3.md",
     "meta/images/Pasted image 20250331225039.png",
     "meta/images/Pasted image 20250331223921.png",
@@ -270,8 +273,6 @@
     "meta/images/Pasted image 20250331215128.png",
     "meta/images/Pasted image 20250331213242.png",
     "meta/images/Pasted image 20250331212409.png",
-    "meta/images/Pasted image 20250331210651.png",
-    "MAS/NOTES/6.2.md",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
@@ -291,7 +292,6 @@
     "daily-notes/2025-03-05.md",
     "Untitled.md",
     "MAS/NOTES/does_not_span_but_is_a_basis.md",
-    "MAS/NOTES/6.1.md",
     "MAS/NOTES/5.2.md",
     "5.2 Characteristic.md",
     "MAS/HW/HW 4.6.md",
