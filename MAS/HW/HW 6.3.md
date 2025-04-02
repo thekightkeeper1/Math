@@ -4,19 +4,43 @@
 Because $\vec{u}_1, \dots , \vec{u_4}$ is a orthogonal set, I can just projeect v onto $u$.
 $$
 \frac{v \cdot u_{1}}{u_{1} \cdot u_{1}}u_{1}
-=(4+10-2+2)u_{1} = 14\begin{bmatrix}
+=\frac{4+10-2+2}{7}u_{1} = 2\begin{bmatrix}
 1 \\
 2 \\
 1 \\
 1
 \end{bmatrix} = \begin{bmatrix}
-14 \\
-28 \\
-14 \\
-14
+2 \\
+4 \\
+2 \\
+2
+\end{bmatrix} = \hat{v}
+$$
+$$
+v - \hat{v} = \begin{bmatrix}
+4 \\
+5 \\
+-2 \\
+2
+\end{bmatrix} - \begin{bmatrix}
+2 \\
+4 \\
+2 \\
+2
+\end{bmatrix} = \begin{bmatrix}
+2 \\
+1 \\
+-4 \\
+0
 \end{bmatrix}
 $$
+I can check the answer by ensuring it is linearly dependent with $\vec{u}_2, \dots , \vec{u_4}$
+
 # #4
+**Verify $\vec{u}_1, \dots , \vec{u_2}$ is orthogonal, then find the orthogonal projection y onto it** 
+![[meta/images/Pasted image 20250401215218.png]]
+Pretty much the same as above, except now im projecting onto 2 vectors simultaneously:
+$$
 # #6
 # #8
 # #10
