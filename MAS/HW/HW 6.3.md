@@ -40,7 +40,7 @@ I can check the answer by ensuring it is linearly dependent with $\vec{u}_2, \do
 **Verify $\vec{u}_1, \dots , \vec{u_2}$ is orthogonal, then find the orthogonal projection y onto it** 
 ![[meta/images/Pasted image 20250401215218.png]]
 Pretty much the same as above, except now im projecting onto 2 vectors simultaneously:
-$$
+
 # #6
 # #8
 # #10
