@@ -35,6 +35,23 @@ v - \hat{v} = \begin{bmatrix}
 \end{bmatrix}
 $$
 I can check the answer by ensuring it is linearly dependent with $\vec{u}_2, \dots , \vec{u_4}$
+$$
+v = \begin{bmatrix}
+2 \\
+4 \\
+2 \\
+2
+\end{bmatrix} + \begin{bmatrix}
+2 \\
+1 \\
+-4 \\
+0\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+2
+\end{bmatrix}
+$$
 
 # #4
 **Verify $\vec{u}_1, \dots , \vec{u_2}$ is orthogonal, then find the orthogonal projection y onto it** 

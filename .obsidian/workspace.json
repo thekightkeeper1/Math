@@ -36,7 +36,8 @@
               "title": "HW 6.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "552fe1fe21502894",
@@ -239,12 +240,12 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "a2c3ab6fbad44812",
+  "active": "bbd85e8ce22cfe0e",
   "lastOpenFiles": [
+    "MAS/HW/HW 6.4.md",
+    "MAS/HW/HW 6.3.md",
     "meta/images/Pasted image 20250403142209.png",
     "meta/images/Pasted image 20250403141128.png",
-    "MAS/HW/HW 6.3.md",
-    "MAS/HW/HW 6.4.md",
     "meta/images/Pasted image 20250403133941.png",
     "MAS/NOTES/6.4.md",
     "MAS/HW/HW 5.3.md",
@@ -261,7 +262,6 @@
     "meta/images/Pasted image 20250401163231.png",
     "MAS/HW/HW 6.2.md",
     "meta/images/Pasted image 20250331225039.png",
-    "meta/images/Pasted image 20250331223921.png",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
