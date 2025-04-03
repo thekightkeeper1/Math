@@ -6,84 +6,41 @@
       {
         "id": "2805b482dae7b738",
         "type": "tabs",
-        "dimension": 38.98916967509025,
+        "dimension": 50,
         "children": [
-          {
-            "id": "33f4a64ab118aedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/NOTES/6.1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "6.1"
-            }
-          },
           {
             "id": "a2c3ab6fbad44812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 6.3.md",
+                "file": "MAS/NOTES/6.4.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 6.3"
+              "title": "6.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "00b7ad60b1d62d70",
+        "id": "552fe1fe21502894",
         "type": "tabs",
-        "dimension": 61.01083032490974,
+        "dimension": 50,
         "children": [
           {
-            "id": "c532437a646731a4",
+            "id": "cb894f6bac3e008d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/HW 6.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HW 6.3"
-            }
-          },
-          {
-            "id": "26a685acae432bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/NOTES/6.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.2"
-            }
-          },
-          {
-            "id": "9e96eac9a5b91d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAS/HW/HW 5.3.md",
+                "file": "MAS/HW/HW 6.4.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.3"
+              "title": "HW 6.4"
             }
           }
         ]
@@ -270,13 +227,15 @@
   },
   "active": "a2c3ab6fbad44812",
   "lastOpenFiles": [
+    "MAS/HW/HW 6.4.md",
+    "MAS/NOTES/6.4.md",
+    "MAS/HW/HW 5.3.md",
+    "MAS/HW/HW 6.3.md",
     "meta/images/Pasted image 20250401222924.png",
     "meta/images/Pasted image 20250401222922.png",
     "meta/images/Pasted image 20250401215849.png",
     "conflict-files-obsidian-git.md",
-    "MAS/HW/HW 6.3.md",
     "meta/images/Pasted image 20250401215218.png",
-    "MAS/HW/Untitled.md",
     "MAS/NOTES/6.3.md",
     "MAS/NOTES/6.1.md",
     "MAS/HW/HW 6.1.md",
@@ -288,12 +247,10 @@
     "meta/images/Pasted image 20250331223921.png",
     "meta/images/Pasted image 20250331223632.png",
     "meta/images/Pasted image 20250331222559.png",
-    "meta/images/Pasted image 20250331220533.png",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.54pm.drawing",
-    "MAS/HW/HW 5.3.md",
     "MAS/NOTES/5.2 Characteristic.md",
     "MAS/HW/HW 5.2.md",
     "MAS/HW/HW 5.1.md",
