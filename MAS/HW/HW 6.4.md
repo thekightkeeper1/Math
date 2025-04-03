@@ -128,6 +128,24 @@ u_{3} = x_{3} - \text{proj}_{W_{2}}x_{3}=\begin{bmatrix}
 9 \\
 31 / 2 \\
 -7
+\end{bmatrix} = \begin{bmatrix}
+-17 / 2 \\
+-6 \\
+-19 / 2 \\
+4
+\end{bmatrix} \sim  \begin{bmatrix}
+-17 \\
+-12 \\
+-19 \\
+8
+\end{bmatrix}
+$$
+$$
+\begin{bmatrix}
+-1 & 3 & -17 \\
+3 & 1 & -12 \\
+1 & 1 & -19 \\
+1 & -1 & 8
 \end{bmatrix}
 $$
 
