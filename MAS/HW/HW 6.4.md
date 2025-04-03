@@ -124,24 +124,51 @@ u_{3} = x_{3} - \text{proj}_{W_{2}}x_{3}=\begin{bmatrix}
 6 \\
 -3
 \end{bmatrix} - \begin{bmatrix}
--8 \\
--4 \\
--4 \\
-3
-\end{bmatrix} = \begin{bmatrix}
-14 \\
 7 \\
-10 \\
-0
+4 \\
+3 \\
+-2
+\end{bmatrix} = \begin{bmatrix}
+-1\\
+-1 \\
+3 \\
+-1
 \end{bmatrix}
 $$
 $$
 \begin{bmatrix}
--1 & 3 & -17 \\
-3 & 1 & -12 \\
-1 & 1 & -19 \\
-1 & -1 & 8
+-1 & 3 & -1 \\
+3 & 1 & -1 \\
+1 & 1 & -3 \\
+1 & -1 & -1
 \end{bmatrix}
 $$
 
 # #14
+**Find QR factorization**
+![[meta/images/Pasted image 20250403155745.png|528]]
+$$
+\begin{align}
+A = QR \\
+Q^TA=R
+\end{align}
+$$
+$$
+Q^T = \begin{bmatrix}
+-\frac{2}{7}  & \frac{5}{7}  & \frac{2}{7}  & \frac{4}{7} \\
+\frac{5}{7} & \frac{2}{7} & -\frac{4}{7} & \frac{2}{7}
+\end{bmatrix}
+$$
+$$
+Q^TA=\begin{bmatrix}
+-\frac{2}{7}  & \frac{5}{7}  & \frac{2}{7}  & \frac{4}{7} \\
+\frac{5}{7} & \frac{2}{7} & -\frac{4}{7} & \frac{2}{7}
+\end{bmatrix} \begin{bmatrix}
+-2  & 3 \\
+5 & 7 \\
+2 & -2 \\
+4 & 6
+\end{bmatrix} = \begin{bmatrix}
+\frac{4}{7}
+\end{bmatrix}
+$$
