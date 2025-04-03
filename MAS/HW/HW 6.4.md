@@ -100,7 +100,7 @@ u_{1} = \begin{bmatrix}
 $$
 
 $$
-u_{2} = x_{2} - \text{proj}_{W_{2}}x_{2} = \begin{bmatrix}
+u_{2} = x_{2} - \text{proj}_{W_{1}}x_{2} = \begin{bmatrix}
 6 \\
 -8 \\
 -2 \\
@@ -110,6 +110,24 @@ u_{2} = x_{2} - \text{proj}_{W_{2}}x_{2} = \begin{bmatrix}
 -9 \\
 -3 \\
 -3
+\end{bmatrix} = \begin{bmatrix}
+3 \\
+1 \\
+1 \\
+-1
+\end{bmatrix}
+$$
+$$
+u_{3} = x_{3} - \text{proj}_{W_{2}}x_{3}=\begin{bmatrix}
+6 \\
+3 \\
+6 \\
+-3
+\end{bmatrix} - \begin{bmatrix}
+29 / 2 \\
+9 \\
+31 / 2 \\
+-7
 \end{bmatrix}
 $$
 
