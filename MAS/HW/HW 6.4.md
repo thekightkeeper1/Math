@@ -170,5 +170,9 @@ Q^TA=\begin{bmatrix}
 4 & 6
 \end{bmatrix} = \begin{bmatrix}
 \frac{4}{7}
+\end{bmatrix}=\begin{bmatrix}
+7 & 7 \\
+0 & 7
 \end{bmatrix}
 $$
+Note that r will always be a triangular matrix. Therefore, you don't have to worry about computing elements you know will just be 0 (those below the diagonal).
