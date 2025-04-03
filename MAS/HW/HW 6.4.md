@@ -72,8 +72,45 @@ $$
 $$
 u_{2} = x_{2}-\text{proj}_{W_{1}}x_{2}
 = \begin{bmatrix}
-
+-3 \\
+14 \\
+-7
+\end{bmatrix} - \begin{bmatrix}
+-6 \\
+8 \\
+-10
+\end{bmatrix}
+=\begin{bmatrix}
+3 \\
+6 \\
+3
 \end{bmatrix}
 $$
 # #10
+**Same as above but just use the the Column vectors of this matrix as $\vec{u}_1, \dots , \vec{u_n}$**
+![[meta/images/Pasted image 20250403142209.png|342]]
+
+$$
+u_{1} = \begin{bmatrix}
+-1 \\
+3 \\
+1 \\
+1 \\
+\end{bmatrix}
+$$
+
+$$
+u_{2} = x_{2} - \text{proj}_{W_{2}}x_{2} = \begin{bmatrix}
+6 \\
+-8 \\
+-2 \\
+-4
+\end{bmatrix} - \begin{bmatrix}
+3 \\
+-9 \\
+-3 \\
+-3
+\end{bmatrix}
+$$
+
 # #14
