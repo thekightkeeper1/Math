@@ -124,20 +124,15 @@ u_{3} = x_{3} - \text{proj}_{W_{2}}x_{3}=\begin{bmatrix}
 6 \\
 -3
 \end{bmatrix} - \begin{bmatrix}
-29 / 2 \\
-9 \\
-31 / 2 \\
--7
+-8 \\
+-4 \\
+-4 \\
+3
 \end{bmatrix} = \begin{bmatrix}
--17 / 2 \\
--6 \\
--19 / 2 \\
-4
-\end{bmatrix} \sim  \begin{bmatrix}
--17 \\
--12 \\
--19 \\
-8
+14 \\
+7 \\
+10 \\
+0
 \end{bmatrix}
 $$
 $$
