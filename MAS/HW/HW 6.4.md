@@ -1,6 +1,5 @@
-6.4 2,4,10,14
-# #2
-Produce an orthogonal basis for $W$ which is given by the span of the below vectors.
+6.4 2,4,10,14 pp 380# #2
+**Produce an orthogonal basis for $W$ which is given by the span of the below vectors.**
 ![[meta/images/Pasted image 20250403133941.png]]
 
 $$
@@ -38,12 +37,12 @@ $$
 -7
 \end{bmatrix} - \begin{bmatrix}
 0 \\
-1 \\
-2
+2 \\
+1
 \end{bmatrix} = \begin{bmatrix}
 5 \\
-5 \\
--9
+4 \\
+-8
 \end{bmatrix}
 $$
 And we check by seeing if they are orthogonal
@@ -54,11 +53,27 @@ $$
 2
 \end{bmatrix} \cdot \begin{bmatrix}
 5 \\
-5 \\
--9
-\end{bmatrix} = 20-18
+4 \\
+-8
+\end{bmatrix} = \6-16
 $$
 
 # #4
+**Same as above**
+![[meta/images/Pasted image 20250403141128.png|325]]
+
+$$
+u_{1} = x_{1} = \begin{bmatrix}
+3 \\
+-4 \\
+5
+\end{bmatrix}
+$$
+$$
+u_{2} = x_{2}-\text{proj}_{W_{1}}x_{2}
+= \begin{bmatrix}
+
+\end{bmatrix}
+$$
 # #10
 # #14
