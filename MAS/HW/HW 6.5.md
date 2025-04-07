@@ -52,9 +52,27 @@ $$
 \end{bmatrix}
 $$
 $$
-(A^TA)^{-1}A^Tb=\begin{bmatrix}
+(A^TA)^{-1}A^Tb= \frac{1}{56}\begin{bmatrix}
 10 & -8 \\
 -8 & 12
+\end{bmatrix} \begin{bmatrix}
+-24 \\
+-2
+\end{bmatrix}
+$$
+$$
+=\frac{1}{56}\begin{bmatrix}
+-240+16 \\
+192-24
+\end{bmatrix}
+$$
+$$
+\frac{1}{56} \begin{bmatrix}
+224 \\
+168
+\end{bmatrix} = \begin{bmatrix}
+4 \\
+3
 \end{bmatrix}
 $$
 
