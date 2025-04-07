@@ -124,7 +124,37 @@ $$
 2 & 1 & 1 & 9 \\
 1 & 1 & 0 & 4 \\
 1 & 0 & 1 & 5
-\end{bmatrix} \sim 
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 0 & 1 & 5 \\
+1 & 1 & 0 & 4 \\
+2 & 1 & 1 & 9
+\end{bmatrix}
+$$
+$$
+\sim \begin{bmatrix}
+1 & 0 & 1 & 5 \\
+0 & 1 & -1 & -1 \\
+0 & 1 & -1 & -1
+\end{bmatrix} \sim \begin{bmatrix}
+1 & 0 & 1 & 5 \\
+0 & 1 & -1 & -1 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\hat{x} = \begin{bmatrix}
+5-1x_{3} \\
+-1+x_{3} \\
+x_{3}
+\end{bmatrix} = \begin{bmatrix}
+5 \\
+-1 \\
+0
+\end{bmatrix} + \begin{bmatrix}
+-1 \\
+1 \\
+1
+\end{bmatrix}x_{3}
 $$
 
 # #10
