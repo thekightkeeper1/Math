@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/NOTES/6.2.md",
-                "mode": "preview",
+                "file": "MAS/NOTES/6.5.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "6.2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9292f2c9780db9bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3bc3e65e5c23238",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6.5"
             }
           }
         ]
@@ -212,6 +196,7 @@
   "active": "acc731185278e960",
   "lastOpenFiles": [
     "MAS/NOTES/6.3.md",
+    "MAS/NOTES/6.5.md",
     "MAS/NOTES/6.2.md",
     "MAS/NOTES/6.1.md",
     "MAS/HW/HW 6.1.md",
