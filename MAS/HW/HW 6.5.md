@@ -37,7 +37,24 @@ A^Tb=\begin{bmatrix}
 8 \\
 1
 \end{bmatrix} = \begin{bmatrix}
--10-16
+-10-16+2 \\
+-5+0+3
+\end{bmatrix} = \begin{bmatrix}
+-24 \\
+-2
+\end{bmatrix}
+$$
+This is a 2x2, probably inverible matrix, so lets invert it instead of row operations:
+$$
+(A^TA)^{-1} = \space \frac{1}{156}\begin{bmatrix}
+10 & -8 \\
+-8 & 12
+\end{bmatrix}
+$$
+$$
+(A^TA)^{-1}A^Tb=\begin{bmatrix}
+10 & -8 \\
+-8 & 12
 \end{bmatrix}
 $$
 
