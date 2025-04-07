@@ -77,6 +77,24 @@ $$
 $$
 
 # #6
+**Pretty much just the same as above**
+![[meta/images/Pasted image 20250407150504.png]]
+
+$$
+A^T = \begin{bmatrix}
+1 & 1 & 1 & 1 & 1 & 1 \\
+1 & 1 & 1 & 0 & 0 & 0 \\
+0 & 0 & 0 & 1 & 1 & 1 \\
+\end{bmatrix}
+$$
+$$
+A^TA = \begin{bmatrix}
+6 & 3 & 3 \\
+3 & 3 & 0 \\
+3 & 0 & 3
+\end{bmatrix}
+$$
+
 # #10
 # #12
 # #14
