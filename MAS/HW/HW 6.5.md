@@ -94,7 +94,41 @@ A^TA = \begin{bmatrix}
 3 & 0 & 3
 \end{bmatrix}
 $$
+$$
+A^Tb=\begin{bmatrix}
+1 & 1 & 1 & 1 & 1 & 1 \\
+1 & 1 & 1 & 0 & 0 & 0 \\
+0 & 0 & 0 & 1 & 1 & 1 \\
+\end{bmatrix} \begin{bmatrix}
+7 \\
+2 \\
+3 \\
+6 \\
+5 \\
+4
+\end{bmatrix} = \begin{bmatrix}
+27 \\
+12 \\
+15
+\end{bmatrix}
+$$
+$$
+A^Tb=A^TAx
+$$
+$$
+\implies \begin{bmatrix}
+6 & 3 & 3 & 27 \\
+3 & 3 & 0 & 12 \\
+3 & 0 & 3 & 15
+\end{bmatrix} \sim \begin{bmatrix}
+2 & 1 & 1 & 9 \\
+1 & 1 & 0 & 4 \\
+1 & 0 & 1 & 5
+\end{bmatrix} \sim 
+$$
 
 # #10
+
+
 # #12
 # #14
