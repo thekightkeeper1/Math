@@ -16,7 +16,29 @@ A^T = \begin{bmatrix}
 \end{bmatrix}
 $$
 $$
-A^TA = b
+A^TA = \begin{bmatrix}
+2 & -2 & 2 \\
+1 & 0 & 3
+\end{bmatrix} \begin{bmatrix}
+2 & 1 \\
+-2 & 0 \\
+2 & 3
+\end{bmatrix} = \begin{bmatrix}
+12 & 8 \\
+8 & 10
+\end{bmatrix}
+$$
+$$
+A^Tb=\begin{bmatrix}
+2 & -2 & 2 \\
+1 & 0 & 3
+\end{bmatrix} \begin{bmatrix}
+-5 \\
+8 \\
+1
+\end{bmatrix} = \begin{bmatrix}
+-10-16
+\end{bmatrix}
 $$
 
 # #6
