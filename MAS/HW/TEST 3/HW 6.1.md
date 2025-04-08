@@ -26,6 +26,7 @@ $$
 
 
 # 12
+**Normalize**
 ![[meta/images/Pasted image 20250328212125.png]]
 $$
 \left| \left| v \right| \right|\space = \sqrt{ \frac{64}{9} +1 } = \sqrt{ \frac{73}{9} }=\frac{1}{3}\sqrt{  \frac{73}{3}}

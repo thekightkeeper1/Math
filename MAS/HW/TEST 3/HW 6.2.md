@@ -61,7 +61,8 @@ $$
 \frac{1}{2}
 \end{bmatrix}
 $$
-Note that the professor or textbook might ask not for the vector transformed to a different base, but instead simply to write $x$ as a linear comb of $U$ e.g.,
+
+Note that the professor will prolly as you to write $x$ as a linear combo of the basis vectors:
 $$
 3\begin{bmatrix}
 2 \\
@@ -69,7 +70,7 @@ $$
 \end{bmatrix} + \frac{1}{2}\begin{bmatrix}
 6 \\
 4
-\end{bmatrix}
+\end{bmatrix} = 3u_{1} + \frac{1}{2} u_{2}
 $$
 
 # #9
