@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/TEST 3/HW 5.2.md",
+                "file": "MAS/HW/TEST 3/HW 5.3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.2"
+              "title": "HW 5.3"
             }
           },
           {
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/TEST 3/HW 5.2.md",
+                "file": "MAS/HW/TEST 3/HW 5.3.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 5.2"
+              "title": "HW 5.3"
             }
           }
         ]
@@ -242,11 +242,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "702de916e65a2311",
+  "active": "dd9af3a20fdf5b33",
   "lastOpenFiles": [
-    "MAS/HW/TEST 3/HW 5.1.md",
     "MAS/HW/TEST 3/HW 5.2.md",
     "MAS/HW/TEST 3/HW 5.3.md",
+    "MAS/HW/TEST 3/HW 5.1.md",
     "MAS/HW/TEST 3/HW 6.2.md",
     "MAS/HW/TEST 3/HW 6.5.md",
     "MAS/HW/TEST 3/HW 6.4.md",

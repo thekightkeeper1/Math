@@ -89,7 +89,7 @@ $$
 $$
 
 # #12
-**Find the characterist**
+**Find the characteristic equation**
 $$
 \begin{bmatrix}
 1 & 0 & 1 \\
@@ -120,6 +120,7 @@ $$
 $$
 
 # #14
+**Find the characteristic equation**
 $$
 \begin{bmatrix}
 3 & -2 & 3 \\
@@ -153,6 +154,7 @@ $$
 $$
 
 # #16
+**Find the eigenvalues**
 ![[meta/images/Pasted image 20250313201723.png]]
-just read off of the diagonal
+just read off of the diagonal cause its already a UR matrix
 5,-4,1,1
