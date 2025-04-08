@@ -185,3 +185,41 @@ $$
 # #16
 ![[meta/images/Pasted image 20250326125454.png]]
 **Find the eigenspace**
+$$
+\begin{bmatrix}
+-1 & 0 & 2 & 0 \\
+1 & -1 & 1 & 0 \\
+0 & 1 & -3 & 0 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+$$ r_{2}\mathrel{+}=r_{1}\implies
+\begin{bmatrix}
+-1 & 0 & 2 & 0 \\
+0 & -1 & 3 & 0 \\
+0 & 1 & -3 & 0 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+r_{3}\mathrel{+}=r_{2}
+\begin{bmatrix}
+-1 & 0 & 2 & 0 \\
+0 & -1 & 3 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0
+\end{bmatrix}
+$$
+$$
+\begin{align}
+x_{1}=2x_{3} \\
+x_{2}=3x3 \\
+x_{3}=x_{3} \\
+0
+\end{align} \implies \begin{bmatrix}
+2 \\
+3 \\
+1 \\
+0
+\end{bmatrix}x_{3}
+$$
