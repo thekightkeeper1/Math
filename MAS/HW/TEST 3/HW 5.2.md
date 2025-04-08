@@ -89,6 +89,7 @@ $$
 $$
 
 # #12
+**Find the characterist**
 $$
 \begin{bmatrix}
 1 & 0 & 1 \\
