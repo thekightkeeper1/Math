@@ -1,5 +1,6 @@
 **5.3 pp 295 2, 4, 6, 8, 12, 14, 16**
 # #1
+**Calculate $A^4$ given that $D=PDP^{-1}$**
 ![[meta/images/Pasted image 20250326165408.png]]
 $$
 P^{-1}=\begin{bmatrix}
@@ -37,20 +38,6 @@ $$
 \end{bmatrix}
 $$
 
-
-# #2
-![[meta/images/Pasted image 20250326164148.png]]
-Compute $A^4$
-$A^k=PD^kP^{-1}$
-We actually don't need $P^{-1}$ because of what D to an even power becomes the identity matrix
-
-
-$$
-PD^4=PI=P
-$$
-$$
-\implies PD^4P^{-1}=PP^{-1}=I
-$$
 
 
 # #4
