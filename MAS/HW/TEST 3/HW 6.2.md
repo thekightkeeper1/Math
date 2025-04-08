@@ -40,7 +40,6 @@ It is an orthogonal set bc:
 $$
 u_{1} \cdot u_{2} = 12 -12 =0
 $$
-
 Next I use the formula below for conversion.
 $$
 c_{j} = \frac{y \cdot u_{j}}{\left| \left| u_{j} \right| \right| ^2}
@@ -55,7 +54,7 @@ x \cdot u_{2} = 54 - 28 =26 \\
 $$
 $$
 \begin{bmatrix}
-\frac{3}{13} \\
+\frac{39}{13} \\
 \frac{26}{52}
 \end{bmatrix} = \begin{bmatrix}
 3 \\

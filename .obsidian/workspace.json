@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/TEST 3/HW 6.5.md",
-                "mode": "source",
+                "file": "MAS/HW/TEST 3/HW 6.2.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 6.5"
+              "title": "HW 6.2"
             }
           }
         ]
@@ -229,8 +229,8 @@
   },
   "active": "dd9af3a20fdf5b33",
   "lastOpenFiles": [
-    "MAS/HW/TEST 3/HW 6.2.md",
     "MAS/HW/TEST 3/HW 6.5.md",
+    "MAS/HW/TEST 3/HW 6.2.md",
     "MAS/HW/TEST 3/HW 6.4.md",
     "MAS/HW/TEST 3/HW 6.1.md",
     "MAS/HW/Untitled.md",
