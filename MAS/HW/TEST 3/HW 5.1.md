@@ -215,11 +215,17 @@ $$
 x_{1}=2x_{3} \\
 x_{2}=3x3 \\
 x_{3}=x_{3} \\
-0
+x_{4}=x_{4}
 \end{align} \implies \begin{bmatrix}
 2 \\
 3 \\
 1 \\
 0
-\end{bmatrix}x_{3}
+\end{bmatrix}x_{3} + \begin{bmatrix}
+0 \\
+0 \\
+0 \\
+1
+\end{bmatrix}x_{4}
 $$
+And vector in the above form will by scaled by multiplication with the original matrix A.
