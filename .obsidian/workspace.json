@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "9260859430c91bd8",
@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/TEST 3/HW 6.4.md",
+                "file": "MAS/HW/TEST 3/HW 6.5.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 6.4"
+              "title": "HW 6.5"
             }
           }
         ]
@@ -242,12 +242,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "702de916e65a2311",
+  "active": "dd9af3a20fdf5b33",
   "lastOpenFiles": [
-    "MAS/NOTES/6.5.md",
     "MAS/HW/TEST 3/HW 6.4.md",
-    "MAS/HW/TEST 3/HW 6.3.md",
+    "MAS/NOTES/6.5.md",
     "MAS/HW/TEST 3/HW 6.2.md",
+    "MAS/HW/TEST 3/HW 6.3.md",
     "MAS/HW/TEST 3/HW 6.1.md",
     "MAS/HW/TEST 3/HW 5.3.md",
     "MAS/HW/TEST 3/HW 5.2.md",
