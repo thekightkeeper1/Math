@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/TEST 3/HW 6.5.md",
-                "mode": "preview",
+                "file": "daily-notes/2025-04-11.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HW 6.5"
+              "title": "2025-04-11"
             }
           }
         ]
@@ -244,6 +244,8 @@
   },
   "active": "dd9af3a20fdf5b33",
   "lastOpenFiles": [
+    "MAS/HW/TEST 3/HW 6.5.md",
+    "daily-notes/2025-04-11.md",
     "MAS/HW/TEST 3/HW 6.4.md",
     "MAS/NOTES/6.5.md",
     "MAS/HW/TEST 3/HW 6.2.md",
@@ -252,7 +254,6 @@
     "MAS/HW/TEST 3/HW 5.3.md",
     "MAS/HW/TEST 3/HW 5.2.md",
     "MAS/HW/TEST 3/HW 5.1.md",
-    "MAS/HW/TEST 3/HW 6.5.md",
     "MAS/HW/Untitled.md",
     "MAS/HW/TEST 3",
     "meta/images/Pasted image 20250407150504.png",
