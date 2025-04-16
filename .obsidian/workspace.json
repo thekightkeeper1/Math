@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAS/HW/TEST 3/HW 6.4.md",
+                "file": "MAS/NOTES/6.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW 6.4"
+              "title": "6.7"
             }
           }
         ]
@@ -211,6 +211,12 @@
   },
   "active": "30861c4066d3dafe",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250416083255.png",
+    "MAS/HW/FINAL/6.7 pp 406.md",
+    "MAS/NOTES/6.7.md",
+    "MAS/HW/TEST 3/HW 6.3.md",
+    "MAS/HW/FINAL",
+    "MAS/HW/TEST 3/HW 6.4.md",
     "MAS/HW/TEST 3/HW 6.5.md",
     "MAS/HW/TEST1-2/HW 1.2.md",
     "MAS/HW/TEST1-2/HW 4.6.md",
@@ -222,9 +228,7 @@
     "daily-notes/2025-03-02.md",
     "daily-notes/2025-03-01.md",
     "MAS/NOTES/6.5.md",
-    "MAS/HW/TEST 3/HW 6.4.md",
     "MAS/HW/TEST 3/HW 6.2.md",
-    "MAS/HW/TEST 3/HW 6.3.md",
     "MAS/HW/TEST 3/HW 6.1.md",
     "MAS/HW/TEST 3/HW 5.3.md",
     "MAS/HW/TEST 3/HW 5.2.md",
@@ -251,11 +255,7 @@
     "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
     "meta/images/Ink/Drawing/2025.3.28 - 21.54pm.drawing",
     "snippets.js~",
-    "MAS/NOTES/5.3.md",
-    "MAS/NOTES/5.2 Characteristic.md",
-    "MAS/NOTES/4.2.md",
     "meta/images/Ink/Drawing/2025.3.10 - 16.09pm.drawing",
-    "meta/images/Ink/Drawing/2025.3.7 - 12.56pm.drawing",
-    "meta/images/Ink/Drawing/2025.3.4 - 19.31pm.drawing"
+    "meta/images/Ink/Drawing/2025.3.7 - 12.56pm.drawing"
   ]
 }
