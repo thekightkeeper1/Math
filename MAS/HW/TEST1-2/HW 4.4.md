@@ -174,9 +174,8 @@ $$
 
 ## #15
 **If $x$ $\in$ $V$ and $\mathcal{B}$ has $n$ vectors, then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}}$ is in $\mathbb{R}^n$**
-The number of vectors in a basis does tell us what space it looks like. Two basis vectors **would** be a plane. However, it does not tell us what dimension that vector exists in. 
-- It could be a plane in 2 space, in which case the question is true.
-- Or it could be a plane in 3d space, in which case there are 2 vectors, but its in $\mathbb{R}^3$ not $\mathbb{R}^2$
+- So $\vec{x}$ could be in any number of dimensions. 
+- But if it intersects with the space of $\mathcal{B}$, then we can write $\vec{x}$ using $\mathcal{B}$ vectors, and $n$ number of dimensions, where $n$ is the dimension of $\mathcal{B}$
 
 ## #16
 **If $\mathcal{B}$ is the standard basis (e.g, $\vec{e}_1, \dots , \vec{e_n}$), then $\left[\,\mathbf{x}\,\right]_{\mathcal{B}} = x$**
