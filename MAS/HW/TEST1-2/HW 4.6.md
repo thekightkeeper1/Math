@@ -275,7 +275,7 @@ $$
 \left[\,\mathbf{e}_3\,\right]_{\mathcal{B}}=\begin{bmatrix}
 3 \\
 -2 \\
-10
+1
 \end{bmatrix}
 $$
 $$
