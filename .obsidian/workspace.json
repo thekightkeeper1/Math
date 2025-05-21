@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/snippets/Untitled.md",
+                "file": "MAS/HW/FINAL/6.7 pp 406.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "6.7 pp 406"
             }
           }
         ]
@@ -213,11 +213,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b42fdf438ad77f0c",
+  "active": "30861c4066d3dafe",
   "lastOpenFiles": [
+    "meta/snippets/active/calc3.js~",
+    "meta/snippets/active/calc3.md",
+    "meta/snippets/active/calc3.js",
     "meta/snippets/active",
     "MAS/HW/FINAL/6.7 pp 406.md",
-    "meta/snippets/Untitled.md",
     "meta/snippets/matrix.js~",
     "meta/snippets",
     "meta/images/Pasted image 20250416104440.png",
@@ -258,8 +260,6 @@
     "MAS/NOTES/6.2.md",
     "MAS/NOTES/6.1.md",
     "meta/images/Ink/Drawing/2025.3.28 - 22.10pm.drawing",
-    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing",
-    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm (2).drawing",
-    "meta/images/Ink/Drawing/2025.3.28 - 21.54pm.drawing"
+    "meta/images/Ink/Drawing/2025.3.28 - 21.55pm.drawing"
   ]
 }

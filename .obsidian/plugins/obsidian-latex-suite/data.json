@@ -8,7 +8,7 @@
   "autoDelete$": true,
   "loadSnippetsFromFile": true,
   "loadSnippetVariablesFromFile": false,
-  "snippetsFileLocation": "meta/snippets",
+  "snippetsFileLocation": "meta/snippets/active",
   "snippetVariablesFileLocation": "",
   "concealEnabled": false,
   "concealRevealTimeout": 300,
