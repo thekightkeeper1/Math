@@ -1,3 +1,4 @@
+
 [
     // Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
