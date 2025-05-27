@@ -25,9 +25,20 @@ Vectors and stuff i literally do not care about at all
 # 2.3
 
 > [!Note] Formula
-> $$\vec{u} \cdot \vec{v} = \lvert \lvert \vec{u} \rvert \rvert \lvert \lvert \vec{v} \rvert \rvert \cos \theta$$
+> $$\vec{u} \cdot \vec{v} = \lvert \lvert \vec{u} \rvert \rvert\space \lvert \lvert \vec{v} \rvert \rvert \cos \theta$$
 
-$```latex
-\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
-```$
+- The cross product is related to the area of the parallelogram that is formed, but the cross product instead relates to the length of the projected vector. 
+
+
+> [!Projection] 
+> So we would start with dot product formula, then just divide by whatver dimension we want to be projectect onto:
+> 
+> $$
+\vec{u} \cdot \vec{v} = \lvert \lvert \vec{u} \rvert \rvert\space \lvert \lvert \vec{v} \rvert \rvert \cos \theta
+>$$
+>$$
+\frac{\vec{u}\cdot \vec{v}}{\lvert \lvert \vec{u} \rvert  \rvert }
+$$
+
+
 
