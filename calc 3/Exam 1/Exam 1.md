@@ -30,15 +30,35 @@ Vectors and stuff i literally do not care about at all
 - The cross product is related to the area of the parallelogram that is formed, but the cross product instead relates to the length of the projected vector. 
 
 
-> [!Projection] 
+## Projection
 > So we would start with dot product formula, then just divide by whatver dimension we want to be projectect onto:
 > 
 > $$
 \vec{u} \cdot \vec{v} = \lvert \lvert \vec{u} \rvert \rvert\space \lvert \lvert \vec{v} \rvert \rvert \cos \theta
 >$$
 >$$
-\frac{\vec{u}\cdot \vec{v}}{\lvert \lvert \vec{u} \rvert  \rvert }
+\frac{\vec{u}\cdot \vec{v}}{\lvert \lvert \vec{u} \rvert  \rvert }=\lvert \lvert \vec{v} \rvert  \rvert \cos \theta
+>$$
+
+
+
+This would just give us the the length of that projected vector, so we then have to just multiply by the unit vector the dimension that we are projecting onto. So in that case:
+$\frac{\vec{u}}{\lvert \lvert \vec{u} \rvert \rvert}$ times our original formula. The result is:
+
+
+> [!Projection] 
+> $$
+\text{proj}_{\vec{u}}\vec{v} = \frac{\vec{u}\cdot \vec{v}}{\lvert \lvert \vec{u} \rvert  \rvert ^{2}}\vec{u}
 $$
 
 
 
+## Problem #1
+
+> [!NOTE] Title
+> $\vec{v}= \langle {5}, -2, -4 \rangle$
+> $\vec{u} = \langle 1,3,0\rangle$
+> Decompose $\vec{v}$ into $\vec{u}_{\parallel}$ and $\vec{u}_{\perp}$\
+>
+
+# 2.smth X-product
