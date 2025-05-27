@@ -36,3 +36,9 @@ Focus on the limit
 ![[meta/images/Pasted image 20250527153519.png]]
 
 ![[meta/images/Pasted image 20250527153550.png]]
+
+# 2.6
+## Normal Plane
+$$
+P_{n} \perp T(t)
+$$ Where the normal plane is $P_{n}$
