@@ -22,3 +22,12 @@ Vectors and stuff i literally do not care about at all
 > - You need to use distance formula to find the radius
 > - Then plug the center in as $(h,k,l)$ and the radius as $r$
 
+# 2.3
+
+> [!Note] Formula
+> $$\vec{u} \cdot \vec{v} = \lvert \lvert \vec{u} \rvert \rvert \lvert \lvert \vec{v} \rvert \rvert \cos \theta$$
+
+$```latex
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+```$
+
