@@ -3,3 +3,16 @@
 
 ![[meta/images/Pasted image 20250527150703.png]]
 ## Problem 1
+graph the curve:
+$r(t) = 4\sin(t) \hat{i} + 3\cos (t) \hat{j},   t \in [0, 2\pi]$
+
+
+
+> [!Limits (Component-Wise Theorm)]
+>
+> TO find the limit you just do the limit of the individual functions. As such, to find the derivative you just take the derivative of the individual parts
+
+
+# Problem #2
+![[meta/images/Pasted image 20250527152116.png]]
+Focus on the limit
