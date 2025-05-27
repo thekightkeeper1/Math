@@ -37,6 +37,12 @@ Focus on the limit
 
 ![[meta/images/Pasted image 20250527153550.png]]
 
+# Arc Length
+For a parameterized 2D vector we have the following formula:
+$$
+s = \int_{a}^b \sqrt{ x'(t)^{2} + y'(t)^{2} }dt
+$$
+And it applies just fine for the 
 # 2.6
 ## Normal Plane
 $$
