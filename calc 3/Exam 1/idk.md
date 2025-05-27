@@ -30,4 +30,9 @@ Focus on the limit
 
 
 # Lecture 7
+## Problem 5
+![[meta/images/Pasted image 20250527153312.png]]
+## Problem #8
+![[meta/images/Pasted image 20250527153519.png]]
 
+![[meta/images/Pasted image 20250527153550.png]]
