@@ -13,6 +13,21 @@ $r(t) = 4\sin(t) \hat{i} + 3\cos (t) \hat{j},   t \in [0, 2\pi]$
 > TO find the limit you just do the limit of the individual functions. As such, to find the derivative you just take the derivative of the individual parts
 
 
-# Problem #2
+## Problem #2
 ![[meta/images/Pasted image 20250527152116.png]]
 Focus on the limit
+
+## Problem #3
+![[meta/images/Pasted image 20250527152336.png]]
+![[meta/images/Pasted image 20250527152358.png]]
+
+
+## Problem 4
+**Make a helix:**
+
+> [!Hint]
+> You basically are just making a circle with some added flair.
+
+
+# Lecture 7
+
