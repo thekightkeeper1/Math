@@ -42,7 +42,15 @@ For a parameterized 2D vector we have the following formula:
 $$
 s = \int_{a}^b \sqrt{ x'(t)^{2} + y'(t)^{2} }dt
 $$
-And it applies just fine for the 
+And it applies the same if you have $f(t)\hat{i}$ etc instead of a $x(t)$ function. For three functions, it is unsuprisingly just plop the third dimension down in there
+$$
+s = \int_{a}^b \sqrt{ x'(t)^{2} + y'(t)^{2} +z'(t)^{2}}dt
+$$
+## Problem #10
+![[meta/images/Pasted image 20250527160546.png]]
+![[meta/images/Pasted image 20250527160632.png]]
+![[meta/images/Pasted image 20250527160639.png]]
+
 # 2.6
 ## Normal Plane
 $$
