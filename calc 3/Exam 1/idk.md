@@ -51,8 +51,15 @@ $$
 ![[meta/images/Pasted image 20250527160632.png]]
 ![[meta/images/Pasted image 20250527160639.png]]
 
+## Problem #11 Arc length parameterization
+![[meta/images/Pasted image 20250527204513.png]]
+
 # 2.6
 ## Normal Plane
 $$
 P_{n} \perp T(t)
 $$ Where the normal plane is $P_{n}$
+
+$$
+\sqrt{ x'(t)^{2}+y'(t)^{2}+z'(t)^{2} }
+$$
