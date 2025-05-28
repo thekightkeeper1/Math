@@ -49,16 +49,22 @@ $\frac{\vec{u}}{\lvert \lvert \vec{u} \rvert \rvert}$ times our original formula
 > [!Projection] 
 > $$
 \text{proj}_{\vec{u}}\vec{v} = \frac{\vec{u}\cdot \vec{v}}{\lvert \lvert \vec{u} \rvert  \rvert ^{2}}\vec{u}
-$$
+>$$
 
 
 
 ## Problem #1
-
-> [!NOTE] Title
-> $\vec{v}= \langle {5}, -2, -4 \rangle$
-> $\vec{u} = \langle 1,3,0\rangle$
-> Decompose $\vec{v}$ into $\vec{u}_{\parallel}$ and $\vec{u}_{\perp}$\
->
+$\vec{v}= \langle {5}, -2, -4 \rangle$
+$\vec{u} = \langle 1,3,0\rangle$
+ Decompose $\vec{v}$ into $\vec{u}_{\parallel}$ and $\vec{u}_{\perp}$
 
 # 2.smth X-product
+## Problem #2
+![[meta/images/Pasted image 20250527135156.png]]
+![[meta/images/Pasted image 20250527135201.png]]
+
+
+> [!Cross Product]
+> $$
+\lvert \lvert \vec{u} \rvert \rvert\space \lvert \lvert \vec{v} \rvert  \rvert \sin  \theta
+$$
