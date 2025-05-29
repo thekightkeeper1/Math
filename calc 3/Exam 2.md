@@ -109,7 +109,7 @@ f(x,y)=\sqrt{ 16-x^{2}-y^{2} }
 $$
 The domain is all points contained within the circle $x^{2}+y^{2}=16$
 and the range is $[0,4]$
-How I imagine this is that the 
+How I imagine this is that the 2
 
 
 
