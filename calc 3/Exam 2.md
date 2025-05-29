@@ -31,6 +31,40 @@ $$
 \begin{align}
 z=2: \\
 2=x^2+4y^{2} \\
-\implies_{1}=\frac{x}{2}
+\implies_{1}=\frac{x^{2}}{2}+2y^{2}
 \end{align}
 $$
+Again we get an elipse, but this one is slighly larger (elipse radius is directly related to the denominator)
+
+Next we can look at the xz-plane and yz-plane.
+This will give us the xz-plane
+$$
+\begin{align}
+y=0: \\
+z=x^2 \\
+y=1: \\
+\implies z=x^{2}+2 \\
+y=2: \\
+z=x^{2}+8 \\
+\dots
+\end{align}
+$$
+So we have a parabola that keeps getting shifted up. 
+We can expect the same thing on the other plane, just slower since x doesnt have a coefficient.
+![[meta/images/Pasted image 20250529153407.png]]
+
+# Problem 
+$$
+z=y^{2}-x^{2}
+$$
+$$
+\begin{align}
+z=0: \\
+\implies 0=y^{2}-x^{2}
+\end{align}
+$$
+This one is a little funky, its just $x=\pm y$
+so on
+![[meta/images/Pasted image 20250529153708.png]]
+Right here shows what it will continue to look like
+![[meta/images/Pasted image 20250529153755.png]]
