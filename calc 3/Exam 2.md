@@ -1,11 +1,11 @@
-# Problem 1
+## Problem 1
 Trace the quadric surface 
 $$
 x^{2} + \frac{y^{2}}{9} + \frac{z^{2}}{4}=1
 $$
 Note that this is an ellipsoid because all of them are positive
 ![[meta/images/Pasted image 20250529151935.png]]
-# Problem 2
+## Problem 2
 $$
 \begin{align}
 z=4x^{2}+y^2 \\
@@ -53,7 +53,7 @@ So we have a parabola that keeps getting shifted up.
 We can expect the same thing on the other plane, just slower since x doesnt have a coefficient.
 ![[meta/images/Pasted image 20250529153407.png]]
 
-# Problem 
+## Problem 
 $$
 z=y^{2}-x^{2}
 $$
@@ -66,5 +66,40 @@ $$
 This one is a little funky, its just $x=\pm y$
 so on
 ![[meta/images/Pasted image 20250529153708.png]]
-Right here shows what it will continue to look like
+
+
+
+
+
+--- start-multi-column: ID_6m96
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+This i a projection of z $\in$$(0,1,2)$.
+We can see that it forms a hyperbolic plane. I can actually image what the other directions look like
+
+--- column-break ---
+
 ![[meta/images/Pasted image 20250529153755.png]]
+
+--- end-multi-column
+
+
+--- start-multi-column: ID_9jd2
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+
+It is pretty importan to graph negative directions. You can see that below the z axis the direction of the hyperbolic plane switches. 
+
+--- column-break ---
+
+![[meta/images/Pasted image 20250529154529.png]]
+
+--- end-multi-column
+
+
+
