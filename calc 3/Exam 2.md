@@ -102,4 +102,14 @@ It is pretty importan to graph negative directions. You can see that below the z
 --- end-multi-column
 
 
+# Domain and range
+Find the domain and range of 
+$$
+f(x,y)=\sqrt{ 16-x^{2}-y^{2} }
+$$
+The domain is all points contained within the circle $x^{2}+y^{2}=16$
+and the range is $[0,4]$
+How I imagine this is that the 
+
+
 
