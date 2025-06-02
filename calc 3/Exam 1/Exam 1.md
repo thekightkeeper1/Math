@@ -68,3 +68,7 @@ $\vec{u} = \langle 1,3,0\rangle$
 > $$
 \lvert \lvert \vec{u} \rvert \rvert\space \lvert \lvert \vec{v} \rvert  \rvert \sin  \theta
 $$
+
+
+# Curvature - Kappa
+its the norm of the derivative of the tangent vector
