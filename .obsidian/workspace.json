@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calc 3/Exam 1/Exam 1.md",
+                "file": "calc 3/Exam 2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Exam 1"
+              "title": "Exam 2"
             }
           }
         ]
@@ -215,6 +215,7 @@
   },
   "active": "a4b5b496d56e6d93",
   "lastOpenFiles": [
+    "calc 3/Exam 1/Exam 1.md",
     "calc 3/Exam 2.md",
     "daily-notes/2025-05-31.md",
     "meta/images/Pasted image 20250529154529.png",
@@ -228,7 +229,6 @@
     "calc 3/Exam 1/idk.md",
     "meta/images/Pasted image 20250527204513.png",
     "meta/images/Pasted image 20250527135201.png",
-    "calc 3/Exam 1/Exam 1.md",
     "calc 3/w2l3.md",
     "conflict-files-obsidian-git.md",
     "daily-notes/2025-05-21.md",

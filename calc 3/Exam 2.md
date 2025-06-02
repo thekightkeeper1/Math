@@ -1,3 +1,9 @@
+#
+Curvature
+Domain and range
+Normal plane
+Osculating plane
+Arc-length parameterization
 ## Problem 1
 Trace the quadric surface 
 $$
