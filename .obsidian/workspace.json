@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calc 3/Exam 2.md",
+                "file": "calc 3/Exam 2/Exam 2.md",
                 "mode": "preview",
                 "source": false
               },
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calc 3/Exam 2.md",
+                "file": "calc 3/Exam 2/Exam 2.md",
                 "mode": "source",
                 "source": true
               },
@@ -215,8 +215,11 @@
   },
   "active": "a4b5b496d56e6d93",
   "lastOpenFiles": [
+    "calc 3/Exam 2/Questions.md",
+    "meta/images/Pasted image 20250603151446.png",
+    "calc 3/Exam 2/Exam 2.md",
+    "calc 3/Exam 2",
     "calc 3/Exam 1/Exam 1.md",
-    "calc 3/Exam 2.md",
     "daily-notes/2025-05-31.md",
     "meta/images/Pasted image 20250529154529.png",
     "meta/images/Pasted image 20250529154527.png",
@@ -228,7 +231,6 @@
     "meta/images/Pasted image 20250529151910.png",
     "calc 3/Exam 1/idk.md",
     "meta/images/Pasted image 20250527204513.png",
-    "meta/images/Pasted image 20250527135201.png",
     "calc 3/w2l3.md",
     "conflict-files-obsidian-git.md",
     "daily-notes/2025-05-21.md",
@@ -245,7 +247,6 @@
     "meta/snippets/active/calc3.js",
     "meta/snippets/active",
     "meta/snippets",
-    "calc 3",
     "daily-notes/2025-04-13.md",
     "MAS/NOTES/6.7.md",
     "MAS/HW/TEST1-2/HW 4.6.md",
@@ -258,8 +259,6 @@
     "daily-notes/2025-04-11.md",
     "MAS/HW/TEST 3/HW 6.5.md",
     "MAS/HW/TEST 3/HW 6.4.md",
-    "MAS/HW/TEST 3/HW 6.2.md",
-    "MAS/HW/TEST 3/HW 6.3.md",
-    "MAS/HW/TEST 3/HW 6.1.md"
+    "MAS/HW/TEST 3/HW 6.2.md"
   ]
 }
