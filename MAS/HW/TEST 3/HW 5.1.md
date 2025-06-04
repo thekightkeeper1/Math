@@ -213,7 +213,7 @@ $$
 $$
 \begin{align}
 x_{1}=2x_{3} \\
-x_{2}=3x3 \\
+x_{2}=3x_{3} \\
 x_{3}=x_{3} \\
 x_{4}=x_{4}
 \end{align} \implies \begin{bmatrix}
