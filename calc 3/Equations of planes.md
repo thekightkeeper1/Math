@@ -6,3 +6,7 @@ Ax+By+Cz+D=0\\
 \vec{r}=\vec{r}_{0}+s\vec{v}+t\vec{u}
 \end{align}
 $$
+# Equations of tangent lines
+$$
+z=f_{x}(x_{0},y_{0})(x-x_{0}) + f(x_{0},y_{0})
+$$
