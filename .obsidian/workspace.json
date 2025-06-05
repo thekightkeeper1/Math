@@ -6,7 +6,6 @@
       {
         "id": "532b64f23804b45c",
         "type": "tabs",
-        "dimension": 53.672316384180796,
         "children": [
           {
             "id": "a58e2d4eade1032b",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "calc 3/Exam 2/4-6-25.md",
+                "file": "calc 3/Exam 2/5-6-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-6-25"
-            }
-          }
-        ]
-      },
-      {
-        "id": "faafb5e0527352a0",
-        "type": "tabs",
-        "dimension": 46.32768361581921,
-        "children": [
-          {
-            "id": "62dbfe1370e31aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "calc 3/Exam 2/4-6-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4-6-25"
+              "title": "5-6-25"
             }
           }
         ]
@@ -217,8 +195,12 @@
   },
   "active": "a58e2d4eade1032b",
   "lastOpenFiles": [
-    "calc 3/Equations of planes.md",
+    "meta/images/Pasted image 20250605151234.png",
+    "meta/images/Pasted image 20250605151224.png",
+    "meta/images/Pasted image 20250605151201.png",
     "calc 3/Exam 2/4-6-25.md",
+    "calc 3/Exam 2/5-6-25.md",
+    "calc 3/Equations of planes.md",
     "daily-notes/2025-06-04.md",
     "meta/images/Pasted image 20250604160840.png",
     "meta/images/Pasted image 20250604160838.png",
@@ -238,11 +220,9 @@
     "meta/images/Pasted image 20250604151921.png",
     "meta/images/Pasted image 20250604151056.png",
     "calc 3/Exam 1/idk.md",
-    "meta/images/Pasted image 20250603151446.png",
     "calc 3/Exam 2/Questions.md",
     "calc 3/Exam 2/Exam 2.md",
     "calc 3/Exam 2",
-    "meta/images/Pasted image 20250529154529.png",
     "calc 3/Exam 2.md",
     "calc 3/Exam 1/Exam 1.md",
     "conflict-files-obsidian-git.md",
@@ -259,8 +239,6 @@
     "calc 3",
     "daily-notes/2025-03-05.md",
     "daily-notes/2025-03-03.md",
-    "daily-notes/2025-04-11.md",
-    "MAS/HW/TEST1-2/HW 4.2.md",
     "MAS/HW/FINAL",
     "MAS/HW/TEST1-2"
   ]
