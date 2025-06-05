@@ -8,5 +8,8 @@ Ax+By+Cz+D=0\\
 $$
 # Equations of tangent lines
 $$
-z=f_{x}(x_{0},y_{0})(x-x_{0}) + f(x_{0},y_{0})
+\begin{align}
+z=f_{x}(x_{0},y_{0})(x-x_{0}) + f(x_{0},y_{0})\\
+z=f_{y}(x_{0},y_{0})(y-y_{0}) + f(x_{0},y_{0})
+\end{align}
 $$
