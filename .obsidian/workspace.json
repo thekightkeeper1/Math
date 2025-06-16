@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "4-6-25"
             }
-          },
-          {
-            "id": "aa6dcf02b4361afd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2025-06-12.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +193,7 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "aa6dcf02b4361afd",
+  "active": "a58e2d4eade1032b",
   "lastOpenFiles": [
     "daily-notes/2025-06-09.md",
     "daily-notes/2025-06-12.md",
