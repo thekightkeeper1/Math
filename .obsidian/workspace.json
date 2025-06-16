@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "132a14367827260f",
@@ -196,6 +197,7 @@
   "active": "a58e2d4eade1032b",
   "lastOpenFiles": [
     "meta/snippets/active/calc3.js~",
+    "meta/snippets/active/default.js~",
     "calc 3/Exam 2/4-6-25.md",
     "daily-notes/2025-06-16.md",
     "daily-notes/2025-06-09.md",
@@ -239,7 +241,6 @@
     "meta/snippets/active",
     "meta/snippets",
     "calc 3",
-    "MAS/HW/FINAL",
-    "MAS/HW/TEST1-2"
+    "MAS/HW/FINAL"
   ]
 }
