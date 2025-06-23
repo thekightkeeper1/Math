@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-06-19.md",
+                "file": "calc 3/exam 3/lec 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-19"
+              "title": "lec 17"
             }
           }
         ]
@@ -195,8 +195,11 @@
   },
   "active": "a58e2d4eade1032b",
   "lastOpenFiles": [
-    "calc 3/Exam 2/Questions.md",
+    "meta/images/Pasted image 20250623122553.png",
     "daily-notes/2025-06-19.md",
+    "calc 3/exam 3/lec 17.md",
+    "calc 3/exam 3",
+    "calc 3/Exam 2/Questions.md",
     "daily-notes/2025-06-17.md",
     "daily-notes/2025-06-16.md",
     "meta/snippets/active/calc3.js~",
@@ -232,14 +235,11 @@
     "calc 3/Exam 2/Exam 2.md",
     "calc 3/Exam 2",
     "calc 3/Exam 2.md",
-    "calc 3/Exam 1/Exam 1.md",
-    "conflict-files-obsidian-git.md",
     "calc 3/Exam 1",
     "meta/snippets/active/default.js",
     "meta/snippets/active/calc3.js",
     "meta/snippets/matrix.js",
     "meta/snippets/active",
-    "meta/snippets",
-    "calc 3"
+    "meta/snippets"
   ]
 }
