@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "132a14367827260f",
@@ -216,6 +215,7 @@
   },
   "active": "7b766498520d9fec",
   "lastOpenFiles": [
+    "meta/snippets/active/calc3.js~",
     "calc 3/Exam 2/4-6-25.md",
     "daily-notes/2025-07-07.md",
     "lec18.md",
@@ -234,7 +234,6 @@
     "calc 3/Exam 2/Questions.md",
     "daily-notes/2025-06-17.md",
     "daily-notes/2025-06-16.md",
-    "meta/snippets/active/calc3.js~",
     "meta/snippets/active/default.js~",
     "daily-notes/2025-06-09.md",
     "daily-notes/2025-06-12.md",
@@ -254,7 +253,6 @@
     "MAS/HW/TEST 3/HW 6.2.md",
     "MAS/HW/TEST 3/HW 6.3.md",
     "MAS/HW/TEST 3/HW 5.1.md",
-    "calc 3/Exam 1/idk.md",
     "calc 3/Exam 2",
     "calc 3/Exam 1",
     "meta/snippets/active/default.js",
