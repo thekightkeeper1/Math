@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-07-09"
             }
+          },
+          {
+            "id": "91bec4bc74184076",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "782838adaed67d87",
@@ -201,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -213,7 +227,7 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "a58e2d4eade1032b",
+  "active": "91bec4bc74184076",
   "lastOpenFiles": [
     "daily-notes/2025-07-07.md",
     "daily-notes/2025-07-09.md",
