@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-07-09.md",
-                "mode": "preview",
+                "file": "daily-notes/2025-08-26.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-09"
+              "title": "2025-08-26"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "43e632b8cefcec86",
   "lastOpenFiles": [
-    "daily-notes/2025-07-07.md",
     "daily-notes/2025-07-09.md",
+    "daily-notes/2025-08-26.md",
+    "daily-notes/2025-07-07.md",
     "meta/snippets/active/calc3.js~",
     "calc 3/Exam 2/4-6-25.md",
     "lec18.md",
@@ -234,7 +235,6 @@
     "MAS/HW/TEST 3/HW 6.1.md",
     "MAS/HW/TEST 3/HW 6.2.md",
     "MAS/HW/TEST 3/HW 6.3.md",
-    "MAS/HW/TEST 3/HW 5.1.md",
     "calc 3/Exam 2",
     "calc 3/Exam 1",
     "meta/snippets/active/default.js",
