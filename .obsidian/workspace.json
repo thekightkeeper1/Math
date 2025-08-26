@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "532b64f23804b45c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a58e2d4eade1032b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily-notes/2025-07-09.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-09"
-            }
-          },
-          {
-            "id": "91bec4bc74184076",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "782838adaed67d87",
         "type": "tabs",
         "children": [
@@ -227,7 +194,7 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "91bec4bc74184076",
+  "active": "43e632b8cefcec86",
   "lastOpenFiles": [
     "daily-notes/2025-07-07.md",
     "daily-notes/2025-07-09.md",
