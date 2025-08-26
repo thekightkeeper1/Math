@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "69ab59a127804b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc4f5b34dd39bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily-notes/2025-08-26.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-26"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,6 +216,7 @@
   },
   "active": "43e632b8cefcec86",
   "lastOpenFiles": [
+    "meta/images/Pasted image 20250826162451.png",
     "daily-notes/2025-07-09.md",
     "daily-notes/2025-08-26.md",
     "daily-notes/2025-07-07.md",
@@ -234,7 +255,6 @@
     "MAS/HW/TEST1-2/HW 4.6.md",
     "MAS/HW/TEST 3/HW 6.1.md",
     "MAS/HW/TEST 3/HW 6.2.md",
-    "MAS/HW/TEST 3/HW 6.3.md",
     "calc 3/Exam 2",
     "calc 3/Exam 1",
     "meta/snippets/active/default.js",
