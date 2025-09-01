@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-08-26"
             }
+          },
+          {
+            "id": "dce86ba22543c1a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "69ab59a127804b9a",
@@ -214,7 +227,7 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "43e632b8cefcec86",
+  "active": "dce86ba22543c1a0",
   "lastOpenFiles": [
     "meta/images/Pasted image 20250826173113.png",
     "meta/images/Pasted image 20250826162451.png",
