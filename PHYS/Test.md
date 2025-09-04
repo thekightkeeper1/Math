@@ -5,3 +5,6 @@
 $$
 \phi =\vec{E} \cdot \vec{N}
 $$
+or $$
+\frac{Q_{enclosed}}{\epsilon_{0}}
+$$
