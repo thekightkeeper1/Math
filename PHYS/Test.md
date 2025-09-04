@@ -11,3 +11,6 @@ $$
 $$
 \sum^{n+1}_{i=1}i=n+1+\sum_{i=1}^{n}
 $$
+$$
+\left( n-k \atop n \right)
+$$
