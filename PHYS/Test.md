@@ -9,5 +9,5 @@ or $$
 \frac{Q_{enclosed}}{\epsilon_{0}}
 $$
 $$
-\sum^{n+1}_{i=1}i
+\sum^{n+1}_{i=1}i=n+1+\sum_{i=1}^{n}
 $$
