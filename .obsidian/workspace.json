@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS/Test.md",
+                "file": "PHYS/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Untitled"
             }
           }
         ],
@@ -211,9 +211,10 @@
   },
   "active": "dce86ba22543c1a0",
   "lastOpenFiles": [
+    "PHYS/Test.md",
+    "PHYS/Untitled.md",
     "meta/images/Pasted image 20250904102400.png",
     "daily-notes/2025-08-26.md",
-    "PHYS/Test.md",
     "PHYS",
     "daily-notes/2025-07-09.md",
     "daily-notes/2025-07-07.md",
@@ -241,7 +242,6 @@
     "meta/images/Pasted image 20250623135647.png",
     "meta/images/Pasted image 20250623130435.png",
     "meta/images/Pasted image 20250623125736.png",
-    "meta/images/Pasted image 20250623122553.png",
     "archived/calc 3/Exam 3",
     "archived/calc 3/Exam 2/Questions.md",
     "daily-notes/2025-06-17.md",
