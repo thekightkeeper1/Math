@@ -10,3 +10,9 @@ $$
 $$
 \implies E= \frac{\lambda}{2\pi R \cdot \epsilon}
 $$
+
+# Voltage and RC
+$$
+V = \epsilon - Ir
+$$
+Where $r$ is the internal resistance, and $\epsilon$ is the ideal voltage of it.
