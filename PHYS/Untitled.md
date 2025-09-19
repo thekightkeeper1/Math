@@ -15,4 +15,13 @@ $$
 $$
 V = \epsilon - Ir
 $$
-Where $r$ is the internal resistance, and $\epsilon$ is the ideal voltage of it.
+Where $r$ is the internal resistance, and $\epsilon$ is the ideal voltage of it.'
+
+
+$$
+\sqrt{ x^{2}+y^{2} }
+$$
+
+$$
+\sqrt{ (x_{1}-x_{2})^{2}+(y_{1}-y_{2})^{2} }
+$$
