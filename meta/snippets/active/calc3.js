@@ -14,6 +14,7 @@
     {trigger: "dd([xyz])", replacement: "\\frac{\\partial}{\\partial [[0]]} ", options: "rmA"},
     {trigger: "lr.|", replacement: "\\left. \\right|", options: "mA"},
 
+    {trigger: "osu", replacement: "\\left. \\right|", options: "mA"},
 
 
 
