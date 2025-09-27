@@ -35,8 +35,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,11 +208,11 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "b42fdf438ad77f0c",
+  "active": "43e632b8cefcec86",
   "lastOpenFiles": [
+    "PHYS/Untitled.md",
     "meta/snippets/active/calc3.js~",
     "PHYS/Test.md",
-    "PHYS/Untitled.md",
     "meta/images/Pasted image 20250904102400.png",
     "daily-notes/2025-08-26.md",
     "PHYS",
