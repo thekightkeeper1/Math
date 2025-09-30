@@ -45,17 +45,14 @@
             "id": "d5c4d3a1081c67e7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "daily-notes/2025-09-30.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-09-30"
             }
           }
         ]
@@ -233,8 +230,9 @@
   },
   "active": "d5c4d3a1081c67e7",
   "lastOpenFiles": [
-    "Untitled.base",
     "Untitled.canvas",
+    "daily-notes/2025-09-30.md",
+    "Untitled.base",
     "meta/images/Pasted image 20250228151216.png",
     "meta/images/Pasted image 20250228145154.png",
     "meta/images/Pasted image 20250227134753.png",
@@ -274,7 +272,6 @@
     "archived/calc 3/Exam 3",
     "archived/calc 3/Exam 2/Questions.md",
     "meta/snippets/active/default.js~",
-    "archived/calc 3/Exam 2/4.2 Lec 11.md",
     "archived/calc 3/Exam 2",
     "archived/calc 3/Exam 1",
     "meta/snippets/active/default.js",
