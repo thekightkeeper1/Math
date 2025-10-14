@@ -12,7 +12,12 @@
     {trigger: "inv", replacement: "^{-1}", options: "mA"},
     {
         trigger: "([a-zA-Z])basis",
-        replacement: "[[0]]=\\{\\vec{[[0]]}_1, \\dots, \\vec{[[0]]}_n\\}",
+        replacement: "[[0]]=\\    {trigger: \"U\", replacement: \"\\\\underbrace{ ${VISUAL} }_{ $0 }\", options: \"mA\"},\n" +
+            "    {trigger: \"O\", replacement: \"\\\\overbrace{ ${VISUAL} }^{ $0 }\", options: \"mA\"},\n" +
+            "    {trigger: \"B\", replacement: \"\\\\underset{ $0 }{ ${VISUAL} }\", options: \"mA\"},\n" +
+            "    {trigger: \"C\", replacement: \"\\\\cancel{ ${VISUAL} }\", options: \"mA\"},\n" +
+            "    {trigger: \"K\", replacement: \"\\\\cancelto{ $0 }{ ${VISUAL} }\", options: \"mA\"},\n" +
+            "    {trigger: \"S\", replacement: \"\\\\sqrt{ ${VISUAL} }\", options: \"mA\"},\n{\\vec{[[0]]}_1, \\dots, \\vec{[[0]]}_n\\}",
         options: "rmA"},
     {
         trigger: "([a-zA-Z])v([0-9])",
@@ -325,7 +330,6 @@
     {trigger: "lr[", replacement: "\\left[ $0 \\right] $1", options: "mA"},
     {trigger: "lr|", replacement: "\\left| $0 \\right| $1", options: "mA"},
     {trigger: "lra", replacement: "\\left< $0 \\right> $1", options: "mA"},
-
 
 
     // Misc
