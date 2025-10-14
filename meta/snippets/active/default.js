@@ -47,19 +47,6 @@
         replacement: "\\left[\\,\\mathbf{[[0]]}_[[2]]\\,\\right]_{\\mathcal{[[1]]}}", options: "rmA"},
 
 
-    // Texting for math
-    {
-        trigger: "  ",
-        replacement: "\\space ",
-        options: "mA",
-    },
-
-
-
-
-
-
-
 
     // Dashes
     // {trigger: "--", replacement: "–", options: "tA"},
@@ -141,7 +128,7 @@
     {trigger: "bar", replacement: "\\bar{$0}$1", options: "mA"},
     {trigger: "dot", replacement: "\\dot{$0}$1", options: "mA", priority: -1},
     {trigger: "ddot", replacement: "\\ddot{$0}$1", options: "mA"},
-    {trigger: "cdot", replacement: "\\cdot", options: "mA"},
+    {trigger: "*", replacement: "\\cdot $0", options: "mA"},
     {trigger: "tilde", replacement: "\\tilde{$0}$1", options: "mA"},
     {trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
     {trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
@@ -173,7 +160,6 @@
     {trigger: "nabl", replacement: "\\nabla", options: "mA"},
     {trigger: "del", replacement: "\\nabla", options: "mA"},
     // {trigger: "xx", replacement: "\\times", options: "mA"},
-    {trigger: "**", replacement: "\\cdot", options: "mA"},
     {trigger: "para", replacement: "\\parallel", options: "mA"},
 
     {trigger: "===", replacement: "\\equiv", options: "mA"},
