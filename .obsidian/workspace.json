@@ -88,8 +88,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,7 +208,7 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "43e632b8cefcec86",
+  "active": "b42fdf438ad77f0c",
   "lastOpenFiles": [
     "daily-notes/2025-08-26.md",
     "daily-notes/2025-10-09.md",
