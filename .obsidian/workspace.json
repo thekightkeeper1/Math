@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2025-10-14.md",
+                "file": "DIFFEQ/4.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-14"
+              "title": "4.3"
             }
           },
           {
@@ -210,16 +210,19 @@
   },
   "active": "43e632b8cefcec86",
   "lastOpenFiles": [
+    "Untitled.base",
+    "DIFFEQ/4.3.md",
+    "DIFFEQ",
+    "daily-notes/2025-10-14.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "meta/snippets/active/default.js~",
     "meta/snippets/active/calc3.js~",
     "meta/images/Pasted image 20250623125736.png",
-    "daily-notes/2025-10-14.md",
     "PHYS/Untitled.md",
     "daily-notes/2025-10-09.md",
     "daily-notes/2025-08-26.md",
     "daily-notes/2025-09-30.md",
-    "Untitled.canvas",
-    "Untitled.base",
     "meta/images/Pasted image 20250228151216.png",
     "meta/images/Pasted image 20250228145154.png",
     "meta/images/Pasted image 20250227134753.png",
@@ -247,14 +250,11 @@
     "archived",
     "meta/images/Pasted image 20250826173113.png",
     "meta/images/Pasted image 20250826162451.png",
-    "archived/calc 3/Exam 2/4-6-25.md",
     "meta/images/Pasted image 20250624162010.png",
     "meta/images/Pasted image 20250624154454.png",
-    "archived/Untitled.md",
     "archived/calc 3/Exam 3",
     "archived/calc 3/Exam 2",
     "archived/calc 3/Exam 1",
-    "meta/snippets/active/default.js",
-    "meta/snippets/active/calc3.js"
+    "meta/snippets/active/default.js"
   ]
 }
