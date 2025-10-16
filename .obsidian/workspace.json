@@ -1,55 +1,82 @@
 {
   "main": {
-    "id": "212105975d7ace0d",
+    "id": "116156e7b806fefb",
     "type": "split",
     "children": [
       {
-        "id": "782838adaed67d87",
+        "id": "9752fc8639e5ecd0",
         "type": "tabs",
         "children": [
           {
-            "id": "43e632b8cefcec86",
+            "id": "b9137a6d1c4bf527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DIFFEQ/4.3.md",
+                "file": "calc 3/quiz 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3"
+              "title": "quiz 1"
             }
           },
           {
-            "id": "dce86ba22543c1a0",
+            "id": "901495bd8d78f96c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS/Untitled.md",
+                "file": "daily-notes/2025-09-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-09-25"
+            }
+          },
+          {
+            "id": "3c5cca0779fa94b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "a9750c3e738f59ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archived/calc 3/Exam 2/4-6-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-6-25"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d95da9376df81760",
+    "id": "19ab44164094a280",
     "type": "split",
     "children": [
       {
-        "id": "956275e36d381177",
+        "id": "c332767e077f30b9",
         "type": "tabs",
         "children": [
           {
-            "id": "b42fdf438ad77f0c",
+            "id": "a7f387a009bc7120",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,17 +89,7 @@
             }
           },
           {
-            "id": "e022908235d2ad22",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "4e53e623d279af24",
+            "id": "05c097f43c505324",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,28 +104,38 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "ddf59a157d260531",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "132a14367827260f",
+    "id": "4ddd720deada4d94",
     "type": "split",
     "children": [
       {
-        "id": "a8fbf9d7e8fd5e31",
+        "id": "d3764d25166fc3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "39711c4eba71e085",
+            "id": "ef757acabff28d58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "daily-notes/2025-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +145,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 2025-06-05"
             }
           },
           {
-            "id": "93be49851ebf5652",
+            "id": "021c4d9b5ef232fe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "daily-notes/2025-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 2025-06-05"
             }
           },
           {
-            "id": "184430e7d59ed89e",
+            "id": "b0c1de2f4011f151",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,32 +178,22 @@
             }
           },
           {
-            "id": "a6a07a6624a5d2c0",
+            "id": "e25422b2e0629008",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "daily-notes/2025-06-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2025-06-05"
             }
           },
           {
-            "id": "5b74b7934eda4cb6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "827728682849b018",
+            "id": "701a9230aba71927",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -185,8 +202,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,9 +212,9 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -208,54 +224,53 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "43e632b8cefcec86",
+  "active": "a9750c3e738f59ac",
   "lastOpenFiles": [
-    "meta/snippets/active/matrix.js~",
-    "meta/snippets/inactive",
-    "Untitled.base",
-    "DIFFEQ/4.3.md",
-    "DIFFEQ",
-    "daily-notes/2025-10-14.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "meta/snippets/active/default.js~",
-    "meta/snippets/active/calc3.js~",
-    "meta/images/Pasted image 20250623125736.png",
-    "PHYS/Untitled.md",
-    "daily-notes/2025-10-09.md",
-    "daily-notes/2025-08-26.md",
-    "daily-notes/2025-09-30.md",
-    "meta/images/Pasted image 20250228151216.png",
-    "meta/images/Pasted image 20250228145154.png",
-    "meta/images/Pasted image 20250227134753.png",
-    "meta/images/Pasted image 20250225165013.png",
-    "daily-notes/2025-07-09.md",
-    "daily-notes/2025-07-07.md",
-    "daily-notes/2025-06-19.md",
-    "daily-notes/2025-06-17.md",
-    "daily-notes/2025-06-16.md",
-    "daily-notes/2025-06-12.md",
-    "daily-notes/2025-06-09.md",
-    "daily-notes/2025-06-05.md",
-    "daily-notes/2025-06-04.md",
-    "daily-notes/2025-05-31.md",
-    "daily-notes/2025-05-21.md",
-    "daily-notes/2025-04-11.md",
-    "daily-notes/2025-03-05.md",
-    "daily-notes/2025-03-03.md",
-    "daily-notes/2025-03-02.md",
-    "daily-notes/2025-03-01.md",
-    "PHYS/Test.md",
+    "daily-notes/2025-10-16.md",
+    "meta/snippets/matrix.js",
+    "meta/snippets/active/calc3.js",
+    "calc 3/Exam 2/Questions.md",
+    "calc 3/Exam 2/Exam 2.md",
+    "calc 3/Exam 2/4-6-25.md",
+    "calc 3/Exam 1/idk.md",
+    "calc 3/Exam 1/Exam 1.md",
+    "calc 3/w2l3.md",
+    "calc 3/Exam 2",
+    "calc 3/Exam 1",
+    "calc 3/quiz 1.md",
+    "calc 3/Untitled.md",
+    "calc 3/Equations of planes.md",
+    "calc 3",
+    "MAS/HW/TEST1-2/HW 4.6.md",
+    "MAS/HW/TEST1-2/HW 4.5.md",
+    "MAS/HW/TEST1-2/HW 4.4.md",
+    "MAS/HW/TEST1-2/HW 4.3.md",
+    "MAS/HW/TEST1-2/HW 4.2.md",
+    "MAS/HW/TEST1-2/HW 1.2.md",
+    "MAS/HW/TEST 3/HW 6.5.md",
+    "MAS/HW/TEST 3/HW 6.4.md",
+    "MAS/HW/TEST 3/HW 6.3.md",
+    "MAS/HW/TEST 3/HW 6.1.md",
+    "MAS/HW/TEST 3/HW 6.2.md",
+    "MAS/HW/TEST 3/HW 5.1.md",
+    "MAS/HW/TEST 3/HW 5.3.md",
+    "MAS/HW/TEST 3/HW 5.2.md",
+    "MAS/HW/FINAL/6.7 pp 406.md",
+    "MAS/Vocab/RREF.md",
+    "MAS/HW/TEST1-2",
+    "MAS/HW/TEST 3",
+    "MAS/HW/FINAL",
+    "MAS/Vocab",
+    "MAS/test_or_quizzes",
     "meta/images/Pasted image 20250904102400.png",
-    "PHYS",
-    "archived/lec18.md",
-    "archived",
     "meta/images/Pasted image 20250826173113.png",
     "meta/images/Pasted image 20250826162451.png",
     "meta/images/Pasted image 20250624162010.png",
     "meta/images/Pasted image 20250624154454.png",
-    "archived/calc 3/Exam 3",
-    "archived/calc 3/Exam 2",
-    "archived/calc 3/Exam 1"
+    "meta/images/Pasted image 20250624150853.png",
+    "meta/images/Pasted image 20250623153921.png",
+    "meta/images/Pasted image 20250623135647.png",
+    "meta/images/Pasted image 20250623130435.png",
+    "meta/images/Pasted image 20250623125736.png"
   ]
 }
