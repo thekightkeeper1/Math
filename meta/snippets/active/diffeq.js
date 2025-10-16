@@ -13,13 +13,19 @@
         options: "mA"
     },
 
+    {trigger: "...", replacement: "\\dots", options: "mA"},
+
     // Diffeq
     {
         trigger: "2deq",
         replacement: "${1:a}y'' + ${2:b}y' + ${3:c}y = ${4:f(t)}",
         options: "mA"
     },
-
+    {
+     trigger: "yp",
+        replacement: "y_p ",
+        options: "mA"
+    },
 
     // Trig
     // Trigonometry
