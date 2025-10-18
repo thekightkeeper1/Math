@@ -5,7 +5,7 @@
     {trigger: "([a-zA-Z])mk", replacement: "$[[0]]$", options: "rtAw"},
     {trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/, replacement: "[[0]]$[[1]]$[[2]]", options: "tA"},
     {trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rmtA", description: "Auto letter subscript", priority: -1},
-    {trigger: /\s([A-Za-z0-9])([A-Za-z0-9])?([A-Za-z0-9])/, replacement: "$[[0]]_{[[1]]}([[2]])$", options: "t" },
+    {trigger: / (?!>we)([A-Za-z0-9])([A-Za-z0-9])/, replacement: "$[[0]]([[1]])$", options: "t" },
 
     // operators
     {
@@ -46,7 +46,7 @@
     // Environments
     {trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
-   {trigger: /(?<!\\\\)\n/, replacement: "test", options: "rmA"},
+    {trigger: /(?<!\\\\)\n/, replacement: "test", options: "rmA"},
     {trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
     {trigger: "bmat", replacement: "\\begin{bmatrix}\n$0\n\\end{bmatrix}", options: "MA"},
 
