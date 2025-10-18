@@ -5,7 +5,7 @@
     {trigger: "([a-zA-Z])mk", replacement: "$[[0]]$", options: "rtAw"},
     {trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/, replacement: "[[0]]$[[1]]$[[2]]", options: "tA"},
     {trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rtA", description: "Auto letter subscript", priority: -1},
-    {trigger: / (?!we|in|of|is|as|at|an|if|it|on|no|by|to|so|or)([a-z0-9])([a-z0-9])/i, replacement: " $[[0]]([[1]])$ ", options: "t", priority: -1},
+    {trigger: / (?!we|in|of|is|as|at|an|if|it|on|no|by|to|so|or)([a-z])([a-z0-9])/i, replacement: " $[[0]]([[1]])$ ", options: "t", priority: -1},
     {trigger: /([a-z])_([a-z0-9])/ , replacement: "$[[0]]_[[1]]$ ", options: "rt",},
 
     {trigger: /([A-Za-z])(\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
@@ -50,13 +50,13 @@
     // Environments
     {trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
-    {trigger: /(?<!\\\\)\n/, replacement: "test", options: "rmA"},
+
     {trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
     {trigger: "bmat", replacement: "\\begin{bmatrix}\n$0\n\\end{bmatrix}", options: "MA"},
 
     // Visual ops
     {trigger: "u", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
     {trigger: "a", replacement: "\\begin{align}\n${VISUAL}\n\\end{align}", options: "mA"},
-    {trigger: '"', replacement: "\\text{$VISUAL} ", options: "mA"},
+    {trigger: 's', replacement: "\\text{$VISUAL} ", options: "mA"},
 
 ]
