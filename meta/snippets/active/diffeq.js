@@ -57,6 +57,6 @@
     // Visual ops
     {trigger: "u", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
     {trigger: "a", replacement: "\\begin{align}\n${VISUAL}\n\\end{align}", options: "mA"},
-    {trigger: 's', replacement: "\\text{$VISUAL} ", options: "mA"},
+    {trigger: "s", replacement: "\\text${VISUAL} ", options: "mA"},
 
 ]
