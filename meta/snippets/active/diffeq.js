@@ -86,7 +86,7 @@
     // Environments
     {trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
-    {trigger: /\\\n/, replacement: /\\\\ \n/, options: "rmA"},
+//    {trigger: /\\\\n/, replacement: /\\\\ \\n/, options: "rmA"},
     {trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
 
 
