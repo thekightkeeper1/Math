@@ -86,13 +86,12 @@
     // Environments
     {trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
-//    {trigger: /\\\\n/, replacement: /\\\\ \\n/, options: "rmA"},
+   {trigger: /(?<!\\\\)\n/, replacement: "test", options: "rmA"},
     {trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
-
+    {trigger: "bmat", replacement: "\\begin{bmatrix}\n$0\n\\end{bmatrix}", options: "MA"},
 
     // Visual ops
     {trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
     {trigger: "A", replacement: "\\begin{align}\n${VISUAL}\n\\end{align}", options: "mA"},
-
 
 ]
