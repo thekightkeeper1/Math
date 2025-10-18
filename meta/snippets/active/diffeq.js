@@ -5,7 +5,7 @@
     {trigger: "([a-zA-Z])mk", replacement: "$[[0]]$", options: "rtAw"},
     {trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/, replacement: "[[0]]$[[1]]$[[2]]", options: "tA"},
     {trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rmtA", description: "Auto letter subscript", priority: -1},
-    {trigger: / (?!>we)([A-Za-z0-9])([A-Za-z0-9])/, replacement: "$[[0]]([[1]])$", options: "t" },
+        {trigger: / (?!we|in|of|is|as|at|an|if|it|on|no|by)([A-Za-z0-9])([A-Za-z0-9])/, replacement: " $[[0]]([[1]])$ ", options: "t" },
 
     // operators
     {
@@ -19,7 +19,7 @@
     // Diffeq
     {
         trigger: "2deq",
-        replacement: "${1:a}y'' + ${2:b}y' + ${3:c}y = ${4:f(t)}",
+        replacement: "${1:a}y'' + ${2:b}y' + ${3:c}y = ${4:f(t)} $5",
         options: "mA"
     },
     {
