@@ -5,7 +5,7 @@
     {trigger: "([a-zA-Z])mk", replacement: "$[[0]]$", options: "rtAw"},
     {trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/, replacement: "[[0]]$[[1]]$[[2]]", options: "tA"},
     {trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rtA", description: "Auto letter subscript", priority: -1},
-        {trigger: / (?!we|in|of|is|as|at|an|if|it|on|no|by|to)([a-z0-9])([a-z0-9])/i, replacement: " $[[0]]([[1]])$ ", options: "t" },
+        {trigger: / (?!we|in|of|is|as|at|an|if|it|on|no|by|to|so)([a-z0-9])([a-z0-9])/i, replacement: " $[[0]]([[1]])$ ", options: "t" },
 
     {trigger: /([A-Za-z])(\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
 
