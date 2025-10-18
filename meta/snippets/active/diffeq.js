@@ -4,8 +4,10 @@
     {trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
     {trigger: "([a-zA-Z])mk", replacement: "$[[0]]$", options: "rtAw"},
     {trigger: /([^'])\b([B-HJ-Zb-z])\b([\n\s.,?!:'])/, replacement: "[[0]]$[[1]]$[[2]]", options: "tA"},
-    {trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rmtA", description: "Auto letter subscript", priority: -1},
+    {trigger: /([A-Za-z])(\d)/, replacement: "$[[0]]_{[[1]]}$", options: "rtA", description: "Auto letter subscript", priority: -1},
         {trigger: / (?!we|in|of|is|as|at|an|if|it|on|no|by)([A-Za-z0-9])([A-Za-z0-9])/, replacement: " $[[0]]([[1]])$ ", options: "t" },
+
+    {trigger: /([A-Za-z])(\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA", description: "Auto letter subscript", priority: -1},
 
     // operators
     {
@@ -20,6 +22,12 @@
     {
         trigger: "2deq",
         replacement: "${1:a}y'' + ${2:b}y' + ${3:c}y = ${4:f(t)} $5",
+        options: "mA"
+    },
+
+    {
+        trigger: "2ode",
+        replacement: "ay'' + by' + cy = f(t) ",
         options: "mA"
     },
     {
