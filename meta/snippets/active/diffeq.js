@@ -16,7 +16,7 @@
         replacement: "^{$0}$1",
         options: "mA"
     },
-    {trigger: "\\\\(${GREEK}|${SYMBOL}) sr", replacement: "\\[[0]]^{2}", options: "rmA"},
+    {trigger: "sr", replacement: "^{2}", options: "mA"},
 
     {trigger: "...", replacement: "\\dots", options: "mA"},
 
