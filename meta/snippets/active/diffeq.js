@@ -49,6 +49,7 @@
 
 
     // Environments
+    {trigger: "//", replacement: "\\frac{$0}{$1}$2", options: "mA"},
     {trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
 
