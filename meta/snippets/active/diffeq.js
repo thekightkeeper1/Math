@@ -46,6 +46,7 @@
         description: "Add space after hyperbolic trig funcs"},
 
     {trigger: "lim", replacement: "\\lim_{ ${0:n} \\to ${1:\\infty} } $2", options: "mA"},
+    {trigger: /([^\\])(exp|log|ln)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
 
 
 
