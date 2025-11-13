@@ -13,7 +13,7 @@
   "enabledCss": false,
   "concurrency": "5",
   "prevConfig": {
-    "pageSize": "Legal",
+    "pageSize": "Custom",
     "marginType": "1",
     "showTitle": true,
     "open": true,
@@ -27,6 +27,6 @@
     "displayFooter": true,
     "cssSnippet": "0",
     "pageWidth": "300",
-    "pageHeight": "350"
+    "pageHeight": "2200"
   }
 }
