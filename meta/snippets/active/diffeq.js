@@ -33,6 +33,13 @@
         options: "mA"
     },
 
+    // Laplace
+    {
+        trigger: "Lap",
+        replacement: "\\mathscr{L} {${0:f(t)}}= \\int_{0}^{\\infty}e^{-st}\\left( ${0:f(t)} \\right)dt",
+        options: "mA"
+    },
+
     // Trig
     // Trigonometry
     {trigger: /([^\\])(arcsin|sin|arccos|cos|arctan|tan|csc|sec|cot)/, replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before trig funcs"},
