@@ -33,11 +33,12 @@
         options: "mA"
     },
 
-    // Laplace
+
     {
-        trigger: "Lap",
-        replacement: "\\mathscr{L} {${0:f(t)}}= \\int_{0}^{\\infty}e^{-st}\\left( ${0:f(t)} \\right)dt",
-        options: "mA"
+        trigger: /Lap [.*]/,
+        replacement: "\\mathscr{L} \\left\\{ [[0]] \\right\\}= \\int_{0}^{\\infty}e^{-st}\\left([[0]] \\right)dt",
+        options: "rmA",
+        description: "Laplace with integral"
     },
 
     // Trig
