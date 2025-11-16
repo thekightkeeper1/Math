@@ -40,6 +40,11 @@
         options: "rmA",
         description: "Laplace with integral"
     },
+    {
+        trigger: "lap",
+        replacement: "\\mathscr{L} \\left\\{ ${0:a}y'' + ${1:b}y' + ${2:c} y \\right\\}",
+        options: "mwA"
+    },
 
     // Trig
     // Trigonometry
