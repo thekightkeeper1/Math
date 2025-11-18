@@ -35,8 +35,14 @@
 
 
     {
-        trigger: /Lap [.*]/,
+        trigger: /Lap \[(.+)\]/,
         replacement: "\\mathscr{L} \\left\\{ [[0]] \\right\\}= \\int_{0}^{\\infty}e^{-st}\\left([[0]] \\right)dt",
+        options: "rm",
+        description: "Laplace with integral"
+    },
+    {
+        trigger: /lap/,
+        replacement: "\\mathscr{L} \\left\\{ ${0:f(t)} \\right\\} $1",
         options: "rmA",
         description: "Laplace with integral"
     },
