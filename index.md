@@ -1,0 +1,1 @@
+These are my math notes. Idk what else to put here.
